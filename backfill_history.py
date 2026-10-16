@@ -5,24 +5,23 @@ This is what lets you score 'a month before' (Oct 4) even though snapshots
 started Oct 15, and it gives accuracy-vs-days-out for free. Run once now and
 once after resolution to top it up.
 
-Writes data/history.csv: market_id, date, yes_price (last trade price that day).
+Writes the venue=polymarket rows of data/history.csv: market_id, date, yes_price
+(Polymarket's displayed price at the day's last sample; see README on midpoints).
 """
-import csv
-import json
 import sys
 import time
 from datetime import datetime, timezone
 
-from pm_common import CLOB, DATA, UNIVERSE, get
+from pm_common import CLOB, HISTORY, get, load_universe, write_history
 
 START = datetime(2026, 9, 1, tzinfo=timezone.utc)  # earlier than any sane "days out" window
-OUT = DATA / "history.csv"
 
 
 def main():
-    if not UNIVERSE.exists():
+    universe = load_universe()
+    if not universe:
         sys.exit("no data/universe.json — run snapshot.py first")
-    universe = json.loads(UNIVERSE.read_text())["markets"]
+    universe = {mid: m for mid, m in universe["markets"].items() if m["venue"] == "polymarket"}
 
     rows = []
     for i, (mid, meta) in enumerate(universe.items(), 1):
@@ -43,16 +42,13 @@ def main():
             d = datetime.fromtimestamp(pt["t"], tz=timezone.utc).strftime("%Y-%m-%d")
             daily[d] = pt["p"]  # last point of the day wins
         for d, p in sorted(daily.items()):
-            rows.append({"market_id": mid, "date": d, "yes_price": p})
+            rows.append({"market_id": mid, "date": d, "yes_price": p, "venue": "polymarket"})
         if i % 50 == 0:
             print(f"{i}/{len(universe)}", file=sys.stderr)
             time.sleep(1)
 
-    with open(OUT, "w", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=["market_id", "date", "yes_price"])
-        w.writeheader()
-        w.writerows(rows)
-    print(f"{len(rows)} daily points across {len({r['market_id'] for r in rows})} markets -> {OUT}")
+    write_history(rows, "polymarket")  # Kalshi rows in history.csv are left alone
+    print(f"{len(rows)} daily points across {len({r['market_id'] for r in rows})} markets -> {HISTORY}")
 
 
 if __name__ == "__main__":

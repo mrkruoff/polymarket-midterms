@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
-"""Daily launchd job: snapshot -> export -> commit the data -> push.
+"""Daily launchd job: snapshot both venues -> export -> commit the data -> push.
 
 Python (not shell) on purpose: under launchd, macOS TCC lets the venv
 interpreter work inside ~/Documents but denies /bin/bash as the job's root
 binary ("Operation not permitted"). Stages ONLY data paths so uncommitted code
 edits never ride along in an automated commit. A failed push is non-fatal —
-the commit stays local and goes out with the next day's push.
+the commit stays local and goes out with the next day's push. So is a failed
+Kalshi snapshot: Polymarket's data still gets exported and committed.
 """
 import subprocess
 from datetime import date
@@ -13,7 +14,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 GIT = "/usr/bin/git"
-DATA_PATHS = ["data/snapshots", "data/universe.json", "data/history.csv", "docs/data.json"]
+DATA_PATHS = ["data/snapshots", "data/universe.json", "data/history.csv", "data/candidates.csv",
+              "docs/data.json"]
 
 
 def run(*cmd, check=True):
@@ -24,6 +26,9 @@ def run(*cmd, check=True):
 def main():
     py = str(ROOT / ".venv" / "bin" / "python")
     run(py, "snapshot.py")
+    if run(py, "kalshi_snapshot.py", check=False).returncode != 0:
+        print("WARNING: kalshi_snapshot.py failed — continuing with Polymarket only")
+    run(py, "build_candidates.py")  # new markets get a party row; manual fills are kept
     run(py, "export_site.py")
 
     run(GIT, "add", "--", *DATA_PATHS)

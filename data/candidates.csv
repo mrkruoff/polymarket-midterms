@@ -1,0 +1,2104 @@
+race_key,venue,market_id,candidate,party,party_source,match_market_id,resolves_on
+gov-AK,kalshi,KXGOVAK-26-ACRU,Adam Crum,,,635005,person
+gov-AK,kalshi,KXGOVAK-26-BWAL,Bill Walker,,,635024,person
+gov-AK,kalshi,KXGOVAK-26-BWIL,Bernadette Wilson,,,635012,person
+gov-AK,kalshi,KXGOVAK-26-CBIS,Click Bishop,,,635003,person
+gov-AK,kalshi,KXGOVAK-26-DBRO,Dave Bronson,,,,person
+gov-AK,kalshi,KXGOVAK-26-EDEV,Edna DeVries,,,635007,person
+gov-AK,kalshi,KXGOVAK-26-JKRE,Jonathan Kreiss-Tomkins,,,635016,person
+gov-AK,kalshi,KXGOVAK-26-LCMG,Lesil McGuire,,,635020,person
+gov-AK,kalshi,KXGOVAK-26-LMUR,Lisa Murkowski,,,635013,person
+gov-AK,kalshi,KXGOVAK-26-MCLA,Matthew Claman,,,,person
+gov-AK,kalshi,KXGOVAK-26-MHEI,Matt Heilala,,,635008,person
+gov-AK,kalshi,KXGOVAK-26-MPEL,Mary Peltola,,,635015,person
+gov-AK,kalshi,KXGOVAK-26-NDAH,Nancy Dahlstrom,,,635006,person
+gov-AK,kalshi,KXGOVAK-26-SHUG,Shelley Hughes,,,635009,person
+gov-AK,kalshi,KXGOVAK-26-TBEG,Tom Begich,,,635014,person
+gov-AK,kalshi,KXGOVAK-26-TTAY,Treg Taylor,,,635011,person
+gov-AK,polymarket,635003,Click Bishop,,,KXGOVAK-26-CBIS,person
+gov-AK,polymarket,635004,David Bronson,,,,person
+gov-AK,polymarket,635005,Adam Crum,,,KXGOVAK-26-ACRU,person
+gov-AK,polymarket,635006,Nancy Dahlstrom,,,KXGOVAK-26-NDAH,person
+gov-AK,polymarket,635007,Edna DeVries,,,KXGOVAK-26-EDEV,person
+gov-AK,polymarket,635008,Matt Heilala,,,KXGOVAK-26-MHEI,person
+gov-AK,polymarket,635009,Shelley Hughes,,,KXGOVAK-26-SHUG,person
+gov-AK,polymarket,635010,James Parkin,,,,person
+gov-AK,polymarket,635011,Treg Taylor,,,KXGOVAK-26-TTAY,person
+gov-AK,polymarket,635012,Bernadette Wilson,,,KXGOVAK-26-BWIL,person
+gov-AK,polymarket,635013,Lisa Murkowski,,,KXGOVAK-26-LMUR,person
+gov-AK,polymarket,635014,Tom Begich,,,KXGOVAK-26-TBEG,person
+gov-AK,polymarket,635015,Mary Peltola,,,KXGOVAK-26-MPEL,person
+gov-AK,polymarket,635016,Jonathan Kreiss-Tomkins,,,KXGOVAK-26-JKRE,person
+gov-AK,polymarket,635017,Hank Kroll,,,,person
+gov-AK,polymarket,635018,Bruce Walden,,,,person
+gov-AK,polymarket,635019,Matt Claman,,,,person
+gov-AK,polymarket,635020,Lesil McGuire,,,KXGOVAK-26-LCMG,person
+gov-AK,polymarket,635021,Gregg Brelsford,,,,person
+gov-AK,polymarket,635022,Jessica Faircloth,,,,person
+gov-AK,polymarket,635023,Destry J. Payne Sr.,,,,person
+gov-AK,polymarket,635024,Bill Walker,,,KXGOVAK-26-BWAL,person
+gov-AL,kalshi,GOVPARTYAL-26-D,Doug Jones,D,kalshi_suffix,629270,party
+gov-AL,kalshi,GOVPARTYAL-26-R,Tommy Tuberville,R,kalshi_suffix,629271,party
+gov-AL,polymarket,629270,Doug Jones (D),D,polymarket_label,GOVPARTYAL-26-D,party
+gov-AL,polymarket,629271,Tommy Tuberville (R),R,polymarket_label,GOVPARTYAL-26-R,party
+gov-AR,kalshi,GOVPARTYAR-26-D,Fred Love,D,kalshi_suffix,,party
+gov-AR,kalshi,GOVPARTYAR-26-R,Sarah Huckabee Sanders,R,kalshi_suffix,629284,party
+gov-AR,polymarket,629283,Fredrick Love (D),D,polymarket_label,,party
+gov-AR,polymarket,629284,Sarah Huckabee Sanders (R),R,polymarket_label,GOVPARTYAR-26-R,party
+gov-AZ,kalshi,GOVPARTYAZ-26-D,Katie Hobbs,D,kalshi_suffix,629183,party
+gov-AZ,kalshi,GOVPARTYAZ-26-R,Andy Biggs,R,kalshi_suffix,629184,party
+gov-AZ,polymarket,629183,Katie Hobbs (D),D,polymarket_label,GOVPARTYAZ-26-D,party
+gov-AZ,polymarket,629184,Andy Biggs (R),R,polymarket_label,GOVPARTYAZ-26-R,party
+gov-CA,kalshi,KXGOVCA-26-SHIL,Steve Hilton,,,628940,person
+gov-CA,kalshi,KXGOVCA-26-XBEC,Xavier Becerra,,,628941,person
+gov-CA,polymarket,628936,Rick Caruso,,,,person
+gov-CA,polymarket,628937,Alex Padilla,,,,person
+gov-CA,polymarket,628938,Katie Porter,,,,person
+gov-CA,polymarket,628939,Antonio Villaraigosa,,,,person
+gov-CA,polymarket,628940,Steve Hilton,,,KXGOVCA-26-SHIL,person
+gov-CA,polymarket,628941,Xavier Becerra,,,KXGOVCA-26-XBEC,person
+gov-CA,polymarket,628942,Stephen Cloobeck,,,,person
+gov-CA,polymarket,628943,Butch Ware,,,,person
+gov-CA,polymarket,628944,Betty Yee,,,,person
+gov-CA,polymarket,628945,Toni Atkins,,,,person
+gov-CA,polymarket,628946,Kyle Langford,,,,person
+gov-CA,polymarket,628947,Chad Bianco,,,,person
+gov-CA,polymarket,628948,Eleni Kounalakis,,,,person
+gov-CA,polymarket,628949,Daniel Mercuri,,,,person
+gov-CA,polymarket,628950,Tony Thurmond,,,,person
+gov-CA,polymarket,628951,Michael Younger,,,,person
+gov-CA,polymarket,628952,Leo Zacky,,,,person
+gov-CA,polymarket,628953,Nicole Shanahan,,,,person
+gov-CA,polymarket,628954,Eric Swalwell,,,,person
+gov-CA,polymarket,628955,Tom Steyer,,,,person
+gov-CA,polymarket,628956,Kamala Harris,,,,person
+gov-CA,polymarket,628957,Matt Mahan,,,,person
+gov-CA,polymarket,628958,Elaine Culotti,,,,person
+gov-CO,kalshi,GOVPARTYCO-26-D,Phil Weiser,D,kalshi_suffix,629296,party
+gov-CO,kalshi,GOVPARTYCO-26-R,Victor Marx,R,kalshi_suffix,629297,party
+gov-CO,polymarket,629296,Phil Weiser (D),D,polymarket_label,GOVPARTYCO-26-D,party
+gov-CO,polymarket,629297,Victor Marx (R),R,polymarket_label,GOVPARTYCO-26-R,party
+gov-CT,kalshi,GOVPARTYCT-26-D,Ned Lamont,D,kalshi_suffix,629311,party
+gov-CT,kalshi,GOVPARTYCT-26-R,Ryan Fazio,R,kalshi_suffix,629312,party
+gov-CT,polymarket,629311,Ned Lamont (D),D,polymarket_label,GOVPARTYCT-26-D,party
+gov-CT,polymarket,629312,Ryan Fazio (R),R,polymarket_label,GOVPARTYCT-26-R,party
+gov-FL,kalshi,GOVPARTYFL-26-D,David Jolly,D,kalshi_suffix,629324,party
+gov-FL,kalshi,GOVPARTYFL-26-R,Byron Donalds,R,kalshi_suffix,629325,party
+gov-FL,polymarket,629324,David Jolly (D),D,polymarket_label,GOVPARTYFL-26-D,party
+gov-FL,polymarket,629325,Byron Donalds (R) ,R,polymarket_label,GOVPARTYFL-26-R,party
+gov-GA,kalshi,GOVPARTYGA-26-D,Keisha Lance Bottoms,D,kalshi_suffix,629337,party
+gov-GA,kalshi,GOVPARTYGA-26-R,Rick Jackson,R,kalshi_suffix,629338,party
+gov-GA,polymarket,629337,Keisha Lance Bottoms (D),D,polymarket_label,GOVPARTYGA-26-D,party
+gov-GA,polymarket,629338,Rick Jackson (R),R,polymarket_label,GOVPARTYGA-26-R,party
+gov-GU,polymarket,4222458,Therese Terlaje (D),D,polymarket_label,,party
+gov-GU,polymarket,4222459,Vicente Ada (R),R,polymarket_label,,party
+gov-HI,kalshi,GOVPARTYHI-26-D,Josh Green,D,kalshi_suffix,629350,party
+gov-HI,kalshi,GOVPARTYHI-26-R,Gary Cordery,R,kalshi_suffix,629351,party
+gov-HI,polymarket,629350,Josh Green (D),D,polymarket_label,GOVPARTYHI-26-D,party
+gov-HI,polymarket,629351,Gary Cordery (R),R,polymarket_label,GOVPARTYHI-26-R,party
+gov-IA,kalshi,GOVPARTYIA-26-D,Rob Sand,D,kalshi_suffix,629397,party
+gov-IA,kalshi,GOVPARTYIA-26-R,Zach Lahn,R,kalshi_suffix,629398,party
+gov-IA,polymarket,629397,Rob Sand (D),D,polymarket_label,GOVPARTYIA-26-D,party
+gov-IA,polymarket,629398,Zach Lahn (R),R,polymarket_label,GOVPARTYIA-26-R,party
+gov-ID,kalshi,GOVPARTYID-26-D,Terri Pickens,D,kalshi_suffix,629363,party
+gov-ID,kalshi,GOVPARTYID-26-R,Brad Little,R,kalshi_suffix,629364,party
+gov-ID,polymarket,629363,Terri Pickens (D),D,polymarket_label,GOVPARTYID-26-D,party
+gov-ID,polymarket,629364,Brad Little (R),R,polymarket_label,GOVPARTYID-26-R,party
+gov-IL,kalshi,GOVPARTYIL-26-D,JB Pritzker,D,kalshi_suffix,629376,party
+gov-IL,kalshi,GOVPARTYIL-26-R,Darren Bailey,R,kalshi_suffix,629377,party
+gov-IL,polymarket,629376,JB Pritzker (D),D,polymarket_label,GOVPARTYIL-26-D,party
+gov-IL,polymarket,629377,Darren Bailey (R),R,polymarket_label,GOVPARTYIL-26-R,party
+gov-KS,polymarket,629412,Cindy Holscher (D),D,polymarket_label,,party
+gov-KS,polymarket,629413,Ty Masterson (R),R,polymarket_label,,party
+gov-MA,kalshi,GOVPARTYMA-26-D,Maura Healey,D,kalshi_suffix,629451,party
+gov-MA,kalshi,GOVPARTYMA-26-R,Mike Minogue,R,kalshi_suffix,,party
+gov-MA,polymarket,629451,Maura Healey (D),D,polymarket_label,GOVPARTYMA-26-D,party
+gov-MA,polymarket,629452,Michael Minogue (R),R,polymarket_label,,party
+gov-MD,kalshi,GOVPARTYMD-26-D,Wes Moore,D,kalshi_suffix,629438,party
+gov-MD,kalshi,GOVPARTYMD-26-R,Dan Cox,R,kalshi_suffix,629439,party
+gov-MD,polymarket,629438,Wes Moore (D),D,polymarket_label,GOVPARTYMD-26-D,party
+gov-MD,polymarket,629439,Dan Cox (R),R,polymarket_label,GOVPARTYMD-26-R,party
+gov-ME,kalshi,GOVPARTYME-26-D,Hannah Pingree,D,kalshi_suffix,629425,party
+gov-ME,kalshi,GOVPARTYME-26-R,Robert Charles,R,kalshi_suffix,629426,party
+gov-ME,kalshi,GOVPARTYME-26-RBEN,Rick Bennett,,,,person
+gov-ME,polymarket,629425,Hannah Pingree (D),D,polymarket_label,GOVPARTYME-26-D,party
+gov-ME,polymarket,629426,Robert Charles (R),R,polymarket_label,GOVPARTYME-26-R,party
+gov-MI,kalshi,GOVPARTYMI-26-D,Jocelyn Benson,D,kalshi_suffix,629464,party
+gov-MI,kalshi,GOVPARTYMI-26-MD,Mike Duggan,,,,person
+gov-MI,kalshi,GOVPARTYMI-26-R,John James,R,kalshi_suffix,629465,party
+gov-MI,polymarket,629464,Jocelyn Benson (D),D,polymarket_label,GOVPARTYMI-26-D,party
+gov-MI,polymarket,629465,John James (R),R,polymarket_label,GOVPARTYMI-26-R,party
+gov-MI,polymarket,629466,Independent,I,polymarket_label,,party
+gov-MN,kalshi,GOVPARTYMN-26-D,Amy Klobuchar,D,kalshi_suffix,629477,party
+gov-MN,kalshi,GOVPARTYMN-26-R,Lisa Demuth,R,kalshi_suffix,629478,party
+gov-MN,polymarket,629477,Amy Klobuchar (D),D,polymarket_label,GOVPARTYMN-26-D,party
+gov-MN,polymarket,629478,Lisa Demuth (R),R,polymarket_label,GOVPARTYMN-26-R,party
+gov-NE,kalshi,GOVPARTYNE-26-D,Lynne Walz,D,kalshi_suffix,629490,party
+gov-NE,kalshi,GOVPARTYNE-26-R,Jim Pillen,R,kalshi_suffix,629491,party
+gov-NE,polymarket,629490,Lynne Walz (D),D,polymarket_label,GOVPARTYNE-26-D,party
+gov-NE,polymarket,629491,Jim Pillen (R),R,polymarket_label,GOVPARTYNE-26-R,party
+gov-NH,polymarket,629518,Cinde Warmington (D),D,polymarket_label,,party
+gov-NH,polymarket,629519,Kelly Ayotte (R),R,polymarket_label,,party
+gov-NM,kalshi,GOVPARTYNM-26-D,Deb Haaland,D,kalshi_suffix,629531,party
+gov-NM,kalshi,GOVPARTYNM-26-R,Greggory D. Hull,R,kalshi_suffix,,party
+gov-NM,polymarket,629531,Deb Haaland (D),D,polymarket_label,GOVPARTYNM-26-D,party
+gov-NM,polymarket,629532,Gregg Hull (R),R,polymarket_label,,party
+gov-NV,kalshi,GOVPARTYNV-26-D,Aaron Ford,D,kalshi_suffix,629505,party
+gov-NV,kalshi,GOVPARTYNV-26-R,Joe Lombardo,R,kalshi_suffix,629506,party
+gov-NV,polymarket,629505,Aaron Ford (D),D,polymarket_label,GOVPARTYNV-26-D,party
+gov-NV,polymarket,629506,Joe Lombardo (R),R,polymarket_label,GOVPARTYNV-26-R,party
+gov-NY,kalshi,GOVPARTYNY-26-D,Kathy Hochul,D,kalshi_suffix,629544,party
+gov-NY,kalshi,GOVPARTYNY-26-R,Bruce Blakeman,R,kalshi_suffix,629545,party
+gov-NY,polymarket,629544,Kathy Hochul (D),D,polymarket_label,GOVPARTYNY-26-D,party
+gov-NY,polymarket,629545,Bruce Blakeman (R),R,polymarket_label,GOVPARTYNY-26-R,party
+gov-OH,kalshi,GOVPARTYOH-26-D,Amy Acton,D,kalshi_suffix,629557,party
+gov-OH,kalshi,GOVPARTYOH-26-R,Vivek Ramaswamy,R,kalshi_suffix,629558,party
+gov-OH,polymarket,629557,Amy Acton (D),D,polymarket_label,GOVPARTYOH-26-D,party
+gov-OH,polymarket,629558,Vivek Ramaswamy (R),R,polymarket_label,GOVPARTYOH-26-R,party
+gov-OK,kalshi,GOVPARTYOK-26-D,Cyndi Munson,D,kalshi_suffix,629570,party
+gov-OK,kalshi,GOVPARTYOK-26-R,Mike Mazzei,R,kalshi_suffix,629571,party
+gov-OK,polymarket,629570,Cyndi Munson (D),D,polymarket_label,GOVPARTYOK-26-D,party
+gov-OK,polymarket,629571,Mike Mazzei (R),R,polymarket_label,GOVPARTYOK-26-R,party
+gov-OR,kalshi,GOVPARTYOR-26-D,Tina Kotek,D,kalshi_suffix,629583,party
+gov-OR,kalshi,GOVPARTYOR-26-R,Christine Drazan,R,kalshi_suffix,629584,party
+gov-OR,polymarket,629583,Tina Kotek (D),D,polymarket_label,GOVPARTYOR-26-D,party
+gov-OR,polymarket,629584,Christine Drazan (R),R,polymarket_label,GOVPARTYOR-26-R,party
+gov-PA,kalshi,GOVPARTYPA-26-D,Josh Shapiro,D,kalshi_suffix,629614,party
+gov-PA,kalshi,GOVPARTYPA-26-R,Stacy Garrity,R,kalshi_suffix,629615,party
+gov-PA,polymarket,629614,Josh Shapiro (D),D,polymarket_label,GOVPARTYPA-26-D,party
+gov-PA,polymarket,629615,Stacy Garrity (R),R,polymarket_label,GOVPARTYPA-26-R,party
+gov-RI,kalshi,GOVPARTYRI-26-D,Helena Foulkes,D,kalshi_suffix,629627,party
+gov-RI,kalshi,GOVPARTYRI-26-KBLO,Ken Block,,,,person
+gov-RI,kalshi,GOVPARTYRI-26-R,Republican party,R,kalshi_suffix,,party
+gov-RI,polymarket,629627,Helena Foulkes (D),D,polymarket_label,GOVPARTYRI-26-D,party
+gov-RI,polymarket,629628,Republican,R,polymarket_label,,party
+gov-RI,polymarket,629629,Independent,I,polymarket_label,,party
+gov-SC,kalshi,GOVPARTYSC-26-D,Jermaine Johnson,D,kalshi_suffix,629640,party
+gov-SC,kalshi,GOVPARTYSC-26-R,Alan Wilson,R,kalshi_suffix,629641,party
+gov-SC,polymarket,629640,Jermaine Johnson (D),D,polymarket_label,GOVPARTYSC-26-D,party
+gov-SC,polymarket,629641,Alan Wilson (R),R,polymarket_label,GOVPARTYSC-26-R,party
+gov-SD,kalshi,GOVPARTYSD-26-D,Dan Ahlers,D,kalshi_suffix,629653,party
+gov-SD,kalshi,GOVPARTYSD-26-R,Larry Rhoden,R,kalshi_suffix,629654,party
+gov-SD,polymarket,629653,Dan Ahlers (D),D,polymarket_label,GOVPARTYSD-26-D,party
+gov-SD,polymarket,629654,Larry Rhoden (R),R,polymarket_label,GOVPARTYSD-26-R,party
+gov-TN,kalshi,GOVPARTYTN-26-D,Jerri Green,D,kalshi_suffix,629666,party
+gov-TN,kalshi,GOVPARTYTN-26-DHAT,David Hatley,,,,person
+gov-TN,kalshi,GOVPARTYTN-26-R,Marsha Blackburn,R,kalshi_suffix,629667,party
+gov-TN,polymarket,629666,Jerri Green (D),D,polymarket_label,GOVPARTYTN-26-D,party
+gov-TN,polymarket,629667,Marsha Blackburn (R),R,polymarket_label,GOVPARTYTN-26-R,party
+gov-TX,kalshi,GOVPARTYTX-26-D,Gina Hinojosa,D,kalshi_suffix,629690,party
+gov-TX,kalshi,GOVPARTYTX-26-R,Greg Abbott,R,kalshi_suffix,629691,party
+gov-TX,polymarket,629690,Gina Hinojosa (D) ,D,polymarket_label,GOVPARTYTX-26-D,party
+gov-TX,polymarket,629691,Greg Abbott (R),R,polymarket_label,GOVPARTYTX-26-R,party
+gov-VT,kalshi,GOVPARTYVT-26-D,Amanda Janoo,D,kalshi_suffix,629707,party
+gov-VT,kalshi,GOVPARTYVT-26-R,Phil Scott,R,kalshi_suffix,629708,party
+gov-VT,polymarket,629707,Amanda Janoo (D),D,polymarket_label,GOVPARTYVT-26-D,party
+gov-VT,polymarket,629708,Phil Scott (R),R,polymarket_label,GOVPARTYVT-26-R,party
+gov-WI,kalshi,GOVPARTYWI-26-D,David Crowley,D,kalshi_suffix,629720,party
+gov-WI,kalshi,GOVPARTYWI-26-R,Tom Tiffany,R,kalshi_suffix,629721,party
+gov-WI,polymarket,629720,David Crowley (D),D,polymarket_label,GOVPARTYWI-26-D,party
+gov-WI,polymarket,629721,Tom Tiffany (R),R,polymarket_label,GOVPARTYWI-26-R,party
+gov-WY,kalshi,GOVPARTYWY-26-D,Kenneth Casner,D,kalshi_suffix,629733,party
+gov-WY,kalshi,GOVPARTYWY-26-R,Eric Barlow,R,kalshi_suffix,629734,party
+gov-WY,polymarket,629733,Kenneth Casner (D),D,polymarket_label,GOVPARTYWY-26-D,party
+gov-WY,polymarket,629734,Eric Barlow (R),R,polymarket_label,GOVPARTYWY-26-R,party
+house-AK-AL,kalshi,HOUSEAKAL-26-BHIL,Bill Hill,,,1279607,person
+house-AK-AL,kalshi,HOUSEAKAL-26-D,Democratic party,D,kalshi_suffix,,party
+house-AK-AL,kalshi,HOUSEAKAL-26-R,Republican party,R,kalshi_suffix,,party
+house-AK-AL,polymarket,1279604,Republican Party,R,polymarket_label,,party
+house-AK-AL,polymarket,1279605,Democratic Party,D,polymarket_label,,party
+house-AK-AL,polymarket,1279607,Bill Hill,,,HOUSEAKAL-26-BHIL,person
+house-AK-AL,polymarket,1279608,Jim McDermott,,,,person
+house-AL-01,kalshi,KXHOUSERACE-AL01-26-D,Clyde Jones,D,kalshi_suffix,1280793,party
+house-AL-01,kalshi,KXHOUSERACE-AL01-26-R,Jerry Carl,R,kalshi_suffix,1280792,party
+house-AL-01,polymarket,1280792,Jerry Carl (R),R,polymarket_label,KXHOUSERACE-AL01-26-R,party
+house-AL-01,polymarket,1280793,Clyde Jones Jr. (D),D,polymarket_label,KXHOUSERACE-AL01-26-D,party
+house-AL-02,kalshi,KXHOUSERACE-AL02-26-D,Shomari Figures,D,kalshi_suffix,1280801,party
+house-AL-02,kalshi,KXHOUSERACE-AL02-26-R,Rhett Marques,R,kalshi_suffix,1280800,party
+house-AL-02,polymarket,1280800,Rhett Marques (R),R,polymarket_label,KXHOUSERACE-AL02-26-R,party
+house-AL-02,polymarket,1280801,Shomari Figures (D),D,polymarket_label,KXHOUSERACE-AL02-26-D,party
+house-AL-03,kalshi,KXHOUSERACE-AL03-26-D,Lee McInnis,D,kalshi_suffix,1280809,party
+house-AL-03,kalshi,KXHOUSERACE-AL03-26-R,Mike Rogers,R,kalshi_suffix,1280808,party
+house-AL-03,polymarket,1280808,Mike Rogers (R),R,polymarket_label,KXHOUSERACE-AL03-26-R,party
+house-AL-03,polymarket,1280809,Lee McInnis (D),D,polymarket_label,KXHOUSERACE-AL03-26-D,party
+house-AL-04,kalshi,KXHOUSERACE-AL04-26-D,Amanda Pusczek,D,kalshi_suffix,1280817,party
+house-AL-04,kalshi,KXHOUSERACE-AL04-26-R,Robert Aderholt,R,kalshi_suffix,1280816,party
+house-AL-04,polymarket,1280816,Robert Aderholt (R),R,polymarket_label,KXHOUSERACE-AL04-26-R,party
+house-AL-04,polymarket,1280817,Amanda Pusczek (D),D,polymarket_label,KXHOUSERACE-AL04-26-D,party
+house-AL-05,kalshi,KXHOUSERACE-AL05-26-D,Andrew Sneed,D,kalshi_suffix,1280825,party
+house-AL-05,kalshi,KXHOUSERACE-AL05-26-R,Dale Strong,R,kalshi_suffix,1280824,party
+house-AL-05,polymarket,1280824,Dale Strong (R),R,polymarket_label,KXHOUSERACE-AL05-26-R,party
+house-AL-05,polymarket,1280825,Andrew Sneed (D),D,polymarket_label,KXHOUSERACE-AL05-26-D,party
+house-AL-06,kalshi,KXHOUSERACE-AL06-26-D,Maurice Mercer,D,kalshi_suffix,1280833,party
+house-AL-06,kalshi,KXHOUSERACE-AL06-26-R,Gary Palmer,R,kalshi_suffix,1280832,party
+house-AL-06,polymarket,1280832,Gary Palmer (R),R,polymarket_label,KXHOUSERACE-AL06-26-R,party
+house-AL-06,polymarket,1280833,Maurice Mercer (D),D,polymarket_label,KXHOUSERACE-AL06-26-D,party
+house-AL-07,kalshi,KXHOUSERACE-AL07-26-D,Terri Sewell,D,kalshi_suffix,1280841,party
+house-AL-07,kalshi,KXHOUSERACE-AL07-26-R,Ammie Akin,R,kalshi_suffix,1280840,party
+house-AL-07,polymarket,1280840,Ammie Akin (R),R,polymarket_label,KXHOUSERACE-AL07-26-R,party
+house-AL-07,polymarket,1280841,Terri Sewell (D),D,polymarket_label,KXHOUSERACE-AL07-26-D,party
+house-AR-01,kalshi,KXHOUSERACE-AR01-26-D,Terri Yarbrough Green,D,kalshi_suffix,,party
+house-AR-01,kalshi,KXHOUSERACE-AR01-26-R,Rick Crawford,R,kalshi_suffix,1280848,party
+house-AR-01,polymarket,1280848,Rick Crawford (R),R,polymarket_label,KXHOUSERACE-AR01-26-R,party
+house-AR-01,polymarket,1280849,Terri Green (D),D,polymarket_label,,party
+house-AR-02,kalshi,KXHOUSERACE-AR02-26-D,Chris Jones,D,kalshi_suffix,1280857,party
+house-AR-02,kalshi,KXHOUSERACE-AR02-26-R,French Hill,R,kalshi_suffix,1280856,party
+house-AR-02,polymarket,1280856,French Hill (R),R,polymarket_label,KXHOUSERACE-AR02-26-R,party
+house-AR-02,polymarket,1280857,Chris Jones (D),D,polymarket_label,KXHOUSERACE-AR02-26-D,party
+house-AR-03,kalshi,KXHOUSERACE-AR03-26-D,Robb Ryerse,D,kalshi_suffix,1280865,party
+house-AR-03,kalshi,KXHOUSERACE-AR03-26-R,Steve Womack,R,kalshi_suffix,1280864,party
+house-AR-03,polymarket,1280864,Steve Womack (R),R,polymarket_label,KXHOUSERACE-AR03-26-R,party
+house-AR-03,polymarket,1280865,Robb Ryerse (D),D,polymarket_label,KXHOUSERACE-AR03-26-D,party
+house-AR-04,kalshi,KXHOUSERACE-AR04-26-D,James Russell,D,kalshi_suffix,1280873,party
+house-AR-04,kalshi,KXHOUSERACE-AR04-26-R,Bruce Westerman,R,kalshi_suffix,1280872,party
+house-AR-04,polymarket,1280872,Bruce Westerman (R),R,polymarket_label,KXHOUSERACE-AR04-26-R,party
+house-AR-04,polymarket,1280873,James Russell (D),D,polymarket_label,KXHOUSERACE-AR04-26-D,party
+house-AZ-01,kalshi,HOUSEAZ1-26-D,Amish Shah,D,kalshi_suffix,942084,party
+house-AZ-01,kalshi,HOUSEAZ1-26-R,Jay Feely,R,kalshi_suffix,942082,party
+house-AZ-01,polymarket,942082,Jay Feely (R),R,polymarket_label,HOUSEAZ1-26-R,party
+house-AZ-01,polymarket,942084,Amish Shah (D),D,polymarket_label,HOUSEAZ1-26-D,party
+house-AZ-02,kalshi,HOUSEAZ2-26-D,Jonathan Nez,D,kalshi_suffix,942117,party
+house-AZ-02,kalshi,HOUSEAZ2-26-R,Eli Crane,R,kalshi_suffix,942116,party
+house-AZ-02,polymarket,942116,Eli Crane (R),R,polymarket_label,HOUSEAZ2-26-R,party
+house-AZ-02,polymarket,942117,Jonathan Nez (D),D,polymarket_label,HOUSEAZ2-26-D,party
+house-AZ-03,kalshi,KXHOUSERACE-AZ03-26-D,Yassamin Ansari,D,kalshi_suffix,1280881,party
+house-AZ-03,kalshi,KXHOUSERACE-AZ03-26-R,Republican party,R,kalshi_suffix,,party
+house-AZ-03,polymarket,1280880,Republican Party,R,polymarket_label,,party
+house-AZ-03,polymarket,1280881,Yassamin Ansari (D),D,polymarket_label,KXHOUSERACE-AZ03-26-D,party
+house-AZ-04,kalshi,KXHOUSERACE-AZ04-26-D,Greg Stanton,D,kalshi_suffix,1280890,party
+house-AZ-04,kalshi,KXHOUSERACE-AZ04-26-R,Zuhdi Jasser,R,kalshi_suffix,1280889,party
+house-AZ-04,polymarket,1280889,Zuhdi Jasser (R),R,polymarket_label,KXHOUSERACE-AZ04-26-R,party
+house-AZ-04,polymarket,1280890,Greg Stanton (D),D,polymarket_label,KXHOUSERACE-AZ04-26-D,party
+house-AZ-05,kalshi,KXHOUSERACE-AZ05-26-D,Elizabeth Lee,D,kalshi_suffix,1280901,party
+house-AZ-05,kalshi,KXHOUSERACE-AZ05-26-R,Mark Lamb,R,kalshi_suffix,1280900,party
+house-AZ-05,polymarket,1280900,Mark Lamb (R),R,polymarket_label,KXHOUSERACE-AZ05-26-R,party
+house-AZ-05,polymarket,1280901,Elizabeth Lee (D),D,polymarket_label,KXHOUSERACE-AZ05-26-D,party
+house-AZ-06,kalshi,HOUSEAZ6-26-D,JoAnna Mendoza,D,kalshi_suffix,942162,party
+house-AZ-06,kalshi,HOUSEAZ6-26-R,Juan Ciscomani,R,kalshi_suffix,942159,party
+house-AZ-06,polymarket,942159,Juan Ciscomani (R),R,polymarket_label,HOUSEAZ6-26-R,party
+house-AZ-06,polymarket,942162,JoAnna Mendoza (D),D,polymarket_label,HOUSEAZ6-26-D,party
+house-AZ-07,kalshi,KXHOUSERACE-AZ07-26-D,Adelita Grijalva,D,kalshi_suffix,1280909,party
+house-AZ-07,kalshi,KXHOUSERACE-AZ07-26-R,Daniel Francis Butierez Sr.,R,kalshi_suffix,,party
+house-AZ-07,polymarket,1280908,Daniel Butierez (R),R,polymarket_label,,party
+house-AZ-07,polymarket,1280909,Adelita Grijalva (D),D,polymarket_label,KXHOUSERACE-AZ07-26-D,party
+house-AZ-08,kalshi,KXHOUSERACE-AZ08-26-D,Bernadette Greene-Placentia,D,kalshi_suffix,1280917,party
+house-AZ-08,kalshi,KXHOUSERACE-AZ08-26-R,Abe Hamadeh,R,kalshi_suffix,,party
+house-AZ-08,polymarket,1280916,Abraham Hamadeh (R),R,polymarket_label,,party
+house-AZ-08,polymarket,1280917,Bernadette Greene-Placentia (D),D,polymarket_label,KXHOUSERACE-AZ08-26-D,party
+house-AZ-09,kalshi,KXHOUSERACE-AZ09-26-D,Dani Sterbinsky,D,kalshi_suffix,1280925,party
+house-AZ-09,kalshi,KXHOUSERACE-AZ09-26-R,Paul Gosar,R,kalshi_suffix,1280924,party
+house-AZ-09,polymarket,1280924,Paul Gosar (R),R,polymarket_label,KXHOUSERACE-AZ09-26-R,party
+house-AZ-09,polymarket,1280925,Dani Sterbinsky (D),D,polymarket_label,KXHOUSERACE-AZ09-26-D,party
+house-CA-01,kalshi,KXHOUSERACE-CA01-26-D,Mike McGuire,D,kalshi_suffix,1280933,party
+house-CA-01,kalshi,KXHOUSERACE-CA01-26-R,James Gallagher,R,kalshi_suffix,1280932,party
+house-CA-01,polymarket,1280932,James Gallagher (R),R,polymarket_label,KXHOUSERACE-CA01-26-R,party
+house-CA-01,polymarket,1280933,Mike McGuire (D),D,polymarket_label,KXHOUSERACE-CA01-26-D,party
+house-CA-02,kalshi,KXHOUSERACE-CA02-26-D,Jared Huffman,D,kalshi_suffix,1280941,party
+house-CA-02,kalshi,KXHOUSERACE-CA02-26-R,Robin Littau,R,kalshi_suffix,1280940,party
+house-CA-02,polymarket,1280940,Robin Littau (R),R,polymarket_label,KXHOUSERACE-CA02-26-R,party
+house-CA-02,polymarket,1280941,Jared Huffman (D),D,polymarket_label,KXHOUSERACE-CA02-26-D,party
+house-CA-03,kalshi,HOUSECA3-26-D,Ami Bera,D,kalshi_suffix,1280949,party
+house-CA-03,kalshi,HOUSECA3-26-R,Robb Tucker,R,kalshi_suffix,1280948,party
+house-CA-03,polymarket,1280948,Robb Tucker (R),R,polymarket_label,HOUSECA3-26-R,party
+house-CA-03,polymarket,1280949,Ami Bera (D),D,polymarket_label,HOUSECA3-26-D,party
+house-CA-04,kalshi,KXCAELECTION-2604-EJON,Eric Jones,,,,person
+house-CA-04,kalshi,KXCAELECTION-2604-MTHO,Mike Thompson,,,,person
+house-CA-04,polymarket,1280956,Republican Party,R,polymarket_label,,party
+house-CA-04,polymarket,1280957,Democratic Party,D,polymarket_label,,party
+house-CA-05,kalshi,KXHOUSERACE-CA05-26-D,Michael Masuda,D,kalshi_suffix,1280965,party
+house-CA-05,kalshi,KXHOUSERACE-CA05-26-R,Tom McClintock,R,kalshi_suffix,1280964,party
+house-CA-05,polymarket,1280964,Tom McClintock (R),R,polymarket_label,KXHOUSERACE-CA05-26-R,party
+house-CA-05,polymarket,1280965,Michael Masuda (D),D,polymarket_label,KXHOUSERACE-CA05-26-D,party
+house-CA-06,kalshi,KXHOUSERACE-CA06-26-D,Richard Pan,D,kalshi_suffix,,party
+house-CA-06,kalshi,KXHOUSERACE-CA06-26-KKIL,Kevin Kiley,,,,person
+house-CA-06,kalshi,KXHOUSERACE-CA06-26-R,Republican party,R,kalshi_suffix,,party
+house-CA-06,polymarket,1280972,Republican Party,R,polymarket_label,,party
+house-CA-06,polymarket,1280973,Democratic Party,D,polymarket_label,,party
+house-CA-07,kalshi,KXCAELECTION-2607-DMAT,Doris Matsui,,,,person
+house-CA-07,kalshi,KXCAELECTION-2607-MVAN,Mai Vang,,,,person
+house-CA-07,polymarket,1280980,Republican Party,R,polymarket_label,,party
+house-CA-07,polymarket,1280981,Democratic Party,D,polymarket_label,,party
+house-CA-08,kalshi,KXHOUSERACE-CA08-26-D,John Garamendi,D,kalshi_suffix,1280989,party
+house-CA-08,kalshi,KXHOUSERACE-CA08-26-R,Rudy Recile,R,kalshi_suffix,1280988,party
+house-CA-08,polymarket,1280988,Rudy Recile (R),R,polymarket_label,KXHOUSERACE-CA08-26-R,party
+house-CA-08,polymarket,1280989,John Garamendi (D),D,polymarket_label,KXHOUSERACE-CA08-26-D,party
+house-CA-09,kalshi,HOUSECA9-26-D,Josh Harder,D,kalshi_suffix,1280997,party
+house-CA-09,kalshi,HOUSECA9-26-R,John McBride,R,kalshi_suffix,1280996,party
+house-CA-09,polymarket,1280996,John McBride (R),R,polymarket_label,HOUSECA9-26-R,party
+house-CA-09,polymarket,1280997,Josh Harder (D),D,polymarket_label,HOUSECA9-26-D,party
+house-CA-10,kalshi,KXHOUSERACE-CA10-26-D,Mark DeSaulnier,D,kalshi_suffix,1281005,party
+house-CA-10,kalshi,KXHOUSERACE-CA10-26-R,Jeff Frese,R,kalshi_suffix,1281004,party
+house-CA-10,polymarket,1281004,Jeff Frese (R),R,polymarket_label,KXHOUSERACE-CA10-26-R,party
+house-CA-10,polymarket,1281005,Mark DeSaulnier (D),D,polymarket_label,KXHOUSERACE-CA10-26-D,party
+house-CA-11,polymarket,1281012,Republican Party,R,polymarket_label,,party
+house-CA-11,polymarket,1281013,Democratic Party,D,polymarket_label,,party
+house-CA-12,kalshi,KXCAELECTION-2612-JJOY,Jamie Joyce,,,,person
+house-CA-12,kalshi,KXCAELECTION-2612-LSIM,Lateefah Simon,,,,person
+house-CA-12,polymarket,1281020,Republican Party,R,polymarket_label,,party
+house-CA-12,polymarket,1281021,Democratic Party,D,polymarket_label,,party
+house-CA-13,kalshi,HOUSECA13-26-D,Adam Gray,D,kalshi_suffix,942274,party
+house-CA-13,kalshi,HOUSECA13-26-R,Kevin Lincoln,R,kalshi_suffix,942273,party
+house-CA-13,polymarket,942273,Kevin Lincoln (R),R,polymarket_label,HOUSECA13-26-R,party
+house-CA-13,polymarket,942274,Adam Gray (D),D,polymarket_label,HOUSECA13-26-D,party
+house-CA-14,kalshi,KXCAELECTION-2614-AWAH,Aisha Wahab,,,,person
+house-CA-14,kalshi,KXCAELECTION-2614-MHER,Melissa Hernandez,,,,person
+house-CA-14,polymarket,1281028,Republican Party,R,polymarket_label,,party
+house-CA-14,polymarket,1281029,Democratic Party,D,polymarket_label,,party
+house-CA-15,kalshi,KXHOUSERACE-CA15-26-D,Kevin Mullin,D,kalshi_suffix,1281037,party
+house-CA-15,kalshi,KXHOUSERACE-CA15-26-R,Charles Hoelter,R,kalshi_suffix,1281036,party
+house-CA-15,polymarket,1281036,Charles Hoelter (R),R,polymarket_label,KXHOUSERACE-CA15-26-R,party
+house-CA-15,polymarket,1281037,Kevin Mullin (D),D,polymarket_label,KXHOUSERACE-CA15-26-D,party
+house-CA-16,kalshi,KXHOUSERACE-CA16-26-D,Sam Liccardo,D,kalshi_suffix,1281045,party
+house-CA-16,kalshi,KXHOUSERACE-CA16-26-R,Peter Sundin Soulé,R,kalshi_suffix,,party
+house-CA-16,polymarket,1281044,Peter Soulé (R),R,polymarket_label,,party
+house-CA-16,polymarket,1281045,Sam Liccardo (D),D,polymarket_label,KXHOUSERACE-CA16-26-D,party
+house-CA-17,kalshi,KXHOUSERACE-CA17-26-D,Ro Khanna,D,kalshi_suffix,1060487,party
+house-CA-17,kalshi,KXHOUSERACE-CA17-26-R,Ritesh Tandon,R,kalshi_suffix,1060486,party
+house-CA-17,polymarket,1060486,Ritesh Tandon (R),R,polymarket_label,KXHOUSERACE-CA17-26-R,party
+house-CA-17,polymarket,1060487,Ro Khanna (D),D,polymarket_label,KXHOUSERACE-CA17-26-D,party
+house-CA-18,kalshi,KXHOUSERACE-CA18-26-D,Zoe Lofgren,D,kalshi_suffix,1281053,party
+house-CA-18,kalshi,KXHOUSERACE-CA18-26-R,Shane Lewis,R,kalshi_suffix,1281052,party
+house-CA-18,polymarket,1281052,Shane Lewis (R),R,polymarket_label,KXHOUSERACE-CA18-26-R,party
+house-CA-18,polymarket,1281053,Zoe Lofgren (D),D,polymarket_label,KXHOUSERACE-CA18-26-D,party
+house-CA-19,kalshi,KXHOUSERACE-CA19-26-D,Jimmy Panetta,D,kalshi_suffix,1281061,party
+house-CA-19,kalshi,KXHOUSERACE-CA19-26-R,Peter Verbica,R,kalshi_suffix,,party
+house-CA-19,polymarket,1281060,Peter Coe Verbica (R),R,polymarket_label,,party
+house-CA-19,polymarket,1281061,Jimmy Panetta (D),D,polymarket_label,KXHOUSERACE-CA19-26-D,party
+house-CA-20,kalshi,KXHOUSERACE-CA20-26-D,Sandra Van Scotter,D,kalshi_suffix,1281069,party
+house-CA-20,kalshi,KXHOUSERACE-CA20-26-R,Vince Fong,R,kalshi_suffix,1281068,party
+house-CA-20,polymarket,1281068,Vince Fong (R),R,polymarket_label,KXHOUSERACE-CA20-26-R,party
+house-CA-20,polymarket,1281069,Sandra Van Scotter (D),D,polymarket_label,KXHOUSERACE-CA20-26-D,party
+house-CA-21,kalshi,HOUSECA21-26-D,Jim Costa,D,kalshi_suffix,1281077,party
+house-CA-21,kalshi,HOUSECA21-26-R,Kyle Kirkland,R,kalshi_suffix,1281076,party
+house-CA-21,polymarket,1281076,Kyle Kirkland (R),R,polymarket_label,HOUSECA21-26-R,party
+house-CA-21,polymarket,1281077,Jim Costa (D),D,polymarket_label,HOUSECA21-26-D,party
+house-CA-22,kalshi,HOUSECA22-26-D,Randy Villegas,D,kalshi_suffix,703686,party
+house-CA-22,kalshi,HOUSECA22-26-R,David Valadao,R,kalshi_suffix,703685,party
+house-CA-22,polymarket,703685,David Valadao (R),R,polymarket_label,HOUSECA22-26-R,party
+house-CA-22,polymarket,703686,Randy Villegas (D),D,polymarket_label,HOUSECA22-26-D,party
+house-CA-23,kalshi,KXHOUSERACE-CA23-26-D,Tessa Lynn Hodge,D,kalshi_suffix,1281085,party
+house-CA-23,kalshi,KXHOUSERACE-CA23-26-R,Jay Obernolte,R,kalshi_suffix,1281084,party
+house-CA-23,polymarket,1281084,Jay Obernolte (R),R,polymarket_label,KXHOUSERACE-CA23-26-R,party
+house-CA-23,polymarket,1281085,Tessa Lynn Hodge (D),D,polymarket_label,KXHOUSERACE-CA23-26-D,party
+house-CA-24,kalshi,KXHOUSERACE-CA24-26-D,Salud Carbajal,D,kalshi_suffix,1281093,party
+house-CA-24,kalshi,KXHOUSERACE-CA24-26-R,Bob Smith,R,kalshi_suffix,1281092,party
+house-CA-24,polymarket,1281092,Bob Smith (R),R,polymarket_label,KXHOUSERACE-CA24-26-R,party
+house-CA-24,polymarket,1281093,Salud Carbajal (D),D,polymarket_label,KXHOUSERACE-CA24-26-D,party
+house-CA-25,kalshi,KXHOUSERACE-CA25-26-D,Raul Ruiz,D,kalshi_suffix,1281101,party
+house-CA-25,kalshi,KXHOUSERACE-CA25-26-R,Joe Males,R,kalshi_suffix,1281100,party
+house-CA-25,polymarket,1281100,Joe Males (R),R,polymarket_label,KXHOUSERACE-CA25-26-R,party
+house-CA-25,polymarket,1281101,Raul Ruiz (D),D,polymarket_label,KXHOUSERACE-CA25-26-D,party
+house-CA-26,kalshi,KXHOUSERACE-CA26-26-D,Jacqui Irwin,D,kalshi_suffix,1281109,party
+house-CA-26,kalshi,KXHOUSERACE-CA26-26-R,Sam Gallucci,R,kalshi_suffix,1281108,party
+house-CA-26,polymarket,1281108,Sam Gallucci (R),R,polymarket_label,KXHOUSERACE-CA26-26-R,party
+house-CA-26,polymarket,1281109,Jacqui Irwin (D),D,polymarket_label,KXHOUSERACE-CA26-26-D,party
+house-CA-27,kalshi,HOUSECA27-26-D,George Whitesides,D,kalshi_suffix,703690,party
+house-CA-27,kalshi,HOUSECA27-26-R,Jason Gibbs,R,kalshi_suffix,703689,party
+house-CA-27,polymarket,703689,Jason Gibbs (R),R,polymarket_label,HOUSECA27-26-R,party
+house-CA-27,polymarket,703690,George Whitesides (D),D,polymarket_label,HOUSECA27-26-D,party
+house-CA-28,kalshi,KXHOUSERACE-CA28-26-D,Judy Chu,D,kalshi_suffix,1281117,party
+house-CA-28,kalshi,KXHOUSERACE-CA28-26-R,April Verlato,R,kalshi_suffix,1281116,party
+house-CA-28,polymarket,1281116,April Verlato (R),R,polymarket_label,KXHOUSERACE-CA28-26-R,party
+house-CA-28,polymarket,1281117,Judy Chu (D),D,polymarket_label,KXHOUSERACE-CA28-26-D,party
+house-CA-29,kalshi,KXCAELECTION-2629-ADUE,Angélica María Dueñas,,,,person
+house-CA-29,kalshi,KXCAELECTION-2629-LRIV,Luz Rivas,,,,person
+house-CA-29,polymarket,1281124,Republican Party,R,polymarket_label,,party
+house-CA-29,polymarket,1281125,Democratic Party,D,polymarket_label,,party
+house-CA-30,kalshi,KXHOUSERACE-CA30-26-D,Laura Friedman,D,kalshi_suffix,1281133,party
+house-CA-30,kalshi,KXHOUSERACE-CA30-26-R,Scott Meyers,R,kalshi_suffix,1281132,party
+house-CA-30,polymarket,1281132,Scott Meyers (R),R,polymarket_label,KXHOUSERACE-CA30-26-R,party
+house-CA-30,polymarket,1281133,Laura Friedman (D),D,polymarket_label,KXHOUSERACE-CA30-26-D,party
+house-CA-31,kalshi,KXHOUSERACE-CA31-26-D,Gil Cisneros,D,kalshi_suffix,1281141,party
+house-CA-31,kalshi,KXHOUSERACE-CA31-26-R,Eric Ching,R,kalshi_suffix,1281140,party
+house-CA-31,polymarket,1281140,Eric Ching (R),R,polymarket_label,KXHOUSERACE-CA31-26-R,party
+house-CA-31,polymarket,1281141,Gil Cisneros (D),D,polymarket_label,KXHOUSERACE-CA31-26-D,party
+house-CA-32,kalshi,KXHOUSERACE-CA32-26-D,Brad Sherman,D,kalshi_suffix,1281149,party
+house-CA-32,kalshi,KXHOUSERACE-CA32-26-R,Larry Thompson,R,kalshi_suffix,1281148,party
+house-CA-32,polymarket,1281148,Larry Thompson (R),R,polymarket_label,KXHOUSERACE-CA32-26-R,party
+house-CA-32,polymarket,1281149,Brad Sherman (D),D,polymarket_label,KXHOUSERACE-CA32-26-D,party
+house-CA-33,kalshi,KXHOUSERACE-CA33-26-D,Pete Aguilar,D,kalshi_suffix,1281157,party
+house-CA-33,kalshi,KXHOUSERACE-CA33-26-R,Stephanie Vargas,R,kalshi_suffix,1281156,party
+house-CA-33,polymarket,1281156,Stephanie Vargas (R),R,polymarket_label,KXHOUSERACE-CA33-26-R,party
+house-CA-33,polymarket,1281157,Pete Aguilar (D),D,polymarket_label,KXHOUSERACE-CA33-26-D,party
+house-CA-34,kalshi,KXCAELECTION-2634-AGON,Angela Gonzales-Torres,,,,person
+house-CA-34,kalshi,KXCAELECTION-2634-JGOM,Jimmy Gomez,,,,person
+house-CA-34,polymarket,1281164,Republican Party,R,polymarket_label,,party
+house-CA-34,polymarket,1281165,Democratic Party,D,polymarket_label,,party
+house-CA-35,kalshi,KXHOUSERACE-CA35-26-D,Norma Torres,D,kalshi_suffix,1281173,party
+house-CA-35,kalshi,KXHOUSERACE-CA35-26-R,Mike Cargile,R,kalshi_suffix,1281172,party
+house-CA-35,polymarket,1281172,Mike Cargile (R),R,polymarket_label,KXHOUSERACE-CA35-26-R,party
+house-CA-35,polymarket,1281173,Norma Torres (D),D,polymarket_label,KXHOUSERACE-CA35-26-D,party
+house-CA-36,kalshi,KXHOUSERACE-CA36-26-D,Ted Lieu,D,kalshi_suffix,1281181,party
+house-CA-36,kalshi,KXHOUSERACE-CA36-26-R,Houston Brignano,R,kalshi_suffix,1281180,party
+house-CA-36,polymarket,1281180,Houston Brignano (R),R,polymarket_label,KXHOUSERACE-CA36-26-R,party
+house-CA-36,polymarket,1281181,Ted Lieu (D),D,polymarket_label,KXHOUSERACE-CA36-26-D,party
+house-CA-37,kalshi,KXCAELECTION-2637-SKAM,Sydney Kamlager-Dove,,,,person
+house-CA-37,kalshi,KXCAELECTION-2637-SMOT,Samantha Mota,,,,person
+house-CA-37,polymarket,1281188,Republican Party,R,polymarket_label,,party
+house-CA-37,polymarket,1281189,Democratic Party,D,polymarket_label,,party
+house-CA-38,kalshi,KXHOUSERACE-CA38-26-D,Hilda Solis,D,kalshi_suffix,1281197,party
+house-CA-38,kalshi,KXHOUSERACE-CA38-26-R,Pedro Antonio Casas,R,kalshi_suffix,,party
+house-CA-38,polymarket,1281196,Pedro Casas (R),R,polymarket_label,,party
+house-CA-38,polymarket,1281197,Hilda Solis (D),D,polymarket_label,KXHOUSERACE-CA38-26-D,party
+house-CA-39,kalshi,KXHOUSERACE-CA39-26-D,Mark Takano,D,kalshi_suffix,1281205,party
+house-CA-39,kalshi,KXHOUSERACE-CA39-26-R,Steve Manos,R,kalshi_suffix,1281204,party
+house-CA-39,polymarket,1281204,Steve Manos (R),R,polymarket_label,KXHOUSERACE-CA39-26-R,party
+house-CA-39,polymarket,1281205,Mark Takano (D),D,polymarket_label,KXHOUSERACE-CA39-26-D,party
+house-CA-40,kalshi,KXCAELECTION-2640-KCAL,Ken Calvert,,,2866307,person
+house-CA-40,kalshi,KXCAELECTION-2640-YKIM,Young Kim,,,2866308,person
+house-CA-40,polymarket,2866307,Ken Calvert,,,KXCAELECTION-2640-KCAL,person
+house-CA-40,polymarket,2866308,Young Kim,,,KXCAELECTION-2640-YKIM,person
+house-CA-41,kalshi,HOUSECA41-26-D,Linda Sánchez,D,kalshi_suffix,1282769,party
+house-CA-41,kalshi,HOUSECA41-26-R,Mitch Clemmons,R,kalshi_suffix,1282768,party
+house-CA-41,polymarket,1282768,Mitch Clemmons (R),R,polymarket_label,HOUSECA41-26-R,party
+house-CA-41,polymarket,1282769,Linda Sánchez (D),D,polymarket_label,HOUSECA41-26-D,party
+house-CA-42,kalshi,KXHOUSERACE-CA42-26-D,Robert Garcia,D,kalshi_suffix,1282777,party
+house-CA-42,kalshi,KXHOUSERACE-CA42-26-R,Brian Burley,R,kalshi_suffix,1282776,party
+house-CA-42,polymarket,1282776,Brian Burley (R),R,polymarket_label,KXHOUSERACE-CA42-26-R,party
+house-CA-42,polymarket,1282777,Robert Garcia (D),D,polymarket_label,KXHOUSERACE-CA42-26-D,party
+house-CA-43,kalshi,KXHOUSERACE-CA43-26-D,Maxine Waters,D,kalshi_suffix,1282785,party
+house-CA-43,kalshi,KXHOUSERACE-CA43-26-R,Cristian Morales,R,kalshi_suffix,1282784,party
+house-CA-43,polymarket,1282784,Cristian Morales (R),R,polymarket_label,KXHOUSERACE-CA43-26-R,party
+house-CA-43,polymarket,1282785,Maxine Waters (D),D,polymarket_label,KXHOUSERACE-CA43-26-D,party
+house-CA-44,kalshi,KXHOUSERACE-CA44-26-D,Nanette Barragán,D,kalshi_suffix,1282793,party
+house-CA-44,kalshi,KXHOUSERACE-CA44-26-R,Genevieve Angel,R,kalshi_suffix,1282792,party
+house-CA-44,polymarket,1282792,Genevieve Angel (R),R,polymarket_label,KXHOUSERACE-CA44-26-R,party
+house-CA-44,polymarket,1282793,Nanette Barragán (D),D,polymarket_label,KXHOUSERACE-CA44-26-D,party
+house-CA-45,kalshi,HOUSECA45-26-D,Derek Tran,D,kalshi_suffix,1282801,party
+house-CA-45,kalshi,HOUSECA45-26-R,Chuong Vo,R,kalshi_suffix,1282800,party
+house-CA-45,polymarket,1282800,Chuong Vo (R),R,polymarket_label,HOUSECA45-26-R,party
+house-CA-45,polymarket,1282801,Derek Tran (D),D,polymarket_label,HOUSECA45-26-D,party
+house-CA-46,kalshi,KXHOUSERACE-CA46-26-D,Lou Correa,D,kalshi_suffix,1282809,party
+house-CA-46,kalshi,KXHOUSERACE-CA46-26-R,David Pan,R,kalshi_suffix,1282808,party
+house-CA-46,polymarket,1282808,David Pan (R),R,polymarket_label,KXHOUSERACE-CA46-26-R,party
+house-CA-46,polymarket,1282809,Lou Correa (D),D,polymarket_label,KXHOUSERACE-CA46-26-D,party
+house-CA-47,kalshi,HOUSECA47-26-D,Dave Min,D,kalshi_suffix,1282817,party
+house-CA-47,kalshi,HOUSECA47-26-R,Jenny Le Roux,R,kalshi_suffix,1282816,party
+house-CA-47,polymarket,1282816,Jenny Le Roux (R),R,polymarket_label,HOUSECA47-26-R,party
+house-CA-47,polymarket,1282817,Dave Min (D),D,polymarket_label,HOUSECA47-26-D,party
+house-CA-48,kalshi,KXHOUSERACE-CA48-26-D,Marni von Wilpert,D,kalshi_suffix,1282825,party
+house-CA-48,kalshi,KXHOUSERACE-CA48-26-R,Jim Desmond,R,kalshi_suffix,1282824,party
+house-CA-48,polymarket,1282824,Jim Desmond (R),R,polymarket_label,KXHOUSERACE-CA48-26-R,party
+house-CA-48,polymarket,1282825,Marni von Wilpert (D),D,polymarket_label,KXHOUSERACE-CA48-26-D,party
+house-CA-49,kalshi,HOUSECA49-26-D,Mike Levin,D,kalshi_suffix,1282833,party
+house-CA-49,kalshi,HOUSECA49-26-R,Armen Kurdian,R,kalshi_suffix,1282832,party
+house-CA-49,polymarket,1282832,Armen Kurdian (R),R,polymarket_label,HOUSECA49-26-R,party
+house-CA-49,polymarket,1282833,Mike Levin (D),D,polymarket_label,HOUSECA49-26-D,party
+house-CA-50,kalshi,KXHOUSERACE-CA50-26-D,Scott Peters,D,kalshi_suffix,1282841,party
+house-CA-50,kalshi,KXHOUSERACE-CA50-26-R,Stephen Cohen,R,kalshi_suffix,,party
+house-CA-50,polymarket,1282840,Steve Cohen (R),R,polymarket_label,,party
+house-CA-50,polymarket,1282841,Scott Peters (D),D,polymarket_label,KXHOUSERACE-CA50-26-D,party
+house-CA-51,kalshi,KXHOUSERACE-CA51-26-D,Sara Jacobs,D,kalshi_suffix,1282849,party
+house-CA-51,kalshi,KXHOUSERACE-CA51-26-R,Ricardo Cabrera,R,kalshi_suffix,1282848,party
+house-CA-51,polymarket,1282848,Ricardo Cabrera (R),R,polymarket_label,KXHOUSERACE-CA51-26-R,party
+house-CA-51,polymarket,1282849,Sara Jacobs (D),D,polymarket_label,KXHOUSERACE-CA51-26-D,party
+house-CA-52,kalshi,KXHOUSERACE-CA52-26-D,Juan Vargas,D,kalshi_suffix,1282857,party
+house-CA-52,kalshi,KXHOUSERACE-CA52-26-R,Jeff Belle,R,kalshi_suffix,1282856,party
+house-CA-52,polymarket,1282856,Jeff Belle (R),R,polymarket_label,KXHOUSERACE-CA52-26-R,party
+house-CA-52,polymarket,1282857,Juan Vargas (D),D,polymarket_label,KXHOUSERACE-CA52-26-D,party
+house-CO-01,kalshi,KXHOUSERACE-CO01-26-D,Melat Kiros,D,kalshi_suffix,1282865,party
+house-CO-01,kalshi,KXHOUSERACE-CO01-26-R,Christy Peterson,R,kalshi_suffix,1282864,party
+house-CO-01,polymarket,1282864,Christy Peterson (R),R,polymarket_label,KXHOUSERACE-CO01-26-R,party
+house-CO-01,polymarket,1282865,Melat Kiros (D),D,polymarket_label,KXHOUSERACE-CO01-26-D,party
+house-CO-02,kalshi,KXHOUSERACE-CO02-26-D,Joe Neguse,D,kalshi_suffix,1282873,party
+house-CO-02,kalshi,KXHOUSERACE-CO02-26-R,Kelley Dennison,R,kalshi_suffix,1282872,party
+house-CO-02,polymarket,1282872,Kelley Dennison (R),R,polymarket_label,KXHOUSERACE-CO02-26-R,party
+house-CO-02,polymarket,1282873,Joe Neguse (D),D,polymarket_label,KXHOUSERACE-CO02-26-D,party
+house-CO-03,kalshi,HOUSECO3-26-D,Dwayne Romero,D,kalshi_suffix,942304,party
+house-CO-03,kalshi,HOUSECO3-26-R,Jeff Hurd,R,kalshi_suffix,942301,party
+house-CO-03,polymarket,942301,Jeff Hurd (R),R,polymarket_label,HOUSECO3-26-R,party
+house-CO-03,polymarket,942304,Dwayne Romero (D),D,polymarket_label,HOUSECO3-26-D,party
+house-CO-04,kalshi,KXHOUSERACE-CO04-26-D,Eileen Laubacher,D,kalshi_suffix,1282881,party
+house-CO-04,kalshi,KXHOUSERACE-CO04-26-R,Lauren Boebert,R,kalshi_suffix,1282880,party
+house-CO-04,polymarket,1282880,Lauren Boebert (R),R,polymarket_label,KXHOUSERACE-CO04-26-R,party
+house-CO-04,polymarket,1282881,Eileen Laubacher (D),D,polymarket_label,KXHOUSERACE-CO04-26-D,party
+house-CO-05,kalshi,KXHOUSERACE-CO05-26-D,Jessica Killin,D,kalshi_suffix,1282889,party
+house-CO-05,kalshi,KXHOUSERACE-CO05-26-R,Jeff Crank,R,kalshi_suffix,1282888,party
+house-CO-05,polymarket,1282888,Jeff Crank (R),R,polymarket_label,KXHOUSERACE-CO05-26-R,party
+house-CO-05,polymarket,1282889,Jessica Killin (D),D,polymarket_label,KXHOUSERACE-CO05-26-D,party
+house-CO-06,kalshi,KXHOUSERACE-CO06-26-D,Jason Crow,D,kalshi_suffix,1282897,party
+house-CO-06,kalshi,KXHOUSERACE-CO06-26-R,Jason Clark,R,kalshi_suffix,1282896,party
+house-CO-06,polymarket,1282896,Jason Clark (R),R,polymarket_label,KXHOUSERACE-CO06-26-R,party
+house-CO-06,polymarket,1282897,Jason Crow (D),D,polymarket_label,KXHOUSERACE-CO06-26-D,party
+house-CO-07,kalshi,KXHOUSERACE-CO07-26-D,Brittany Pettersen,D,kalshi_suffix,1282905,party
+house-CO-07,kalshi,KXHOUSERACE-CO07-26-R,Tim Bennett,R,kalshi_suffix,1282904,party
+house-CO-07,polymarket,1282904,Tim Bennett (R),R,polymarket_label,KXHOUSERACE-CO07-26-R,party
+house-CO-07,polymarket,1282905,Brittany Pettersen (D),D,polymarket_label,KXHOUSERACE-CO07-26-D,party
+house-CO-08,kalshi,HOUSECO8-26-D,Manny Rutinel,D,kalshi_suffix,942325,party
+house-CO-08,kalshi,HOUSECO8-26-R,Gabe Evans,R,kalshi_suffix,942324,party
+house-CO-08,polymarket,942324,Gabe Evans (R),R,polymarket_label,HOUSECO8-26-R,party
+house-CO-08,polymarket,942325,Manny Rutinel (D),D,polymarket_label,HOUSECO8-26-D,party
+house-CT-01,kalshi,KXHOUSERACE-CT01-26-D,Luke Bronin,D,kalshi_suffix,1282913,party
+house-CT-01,kalshi,KXHOUSERACE-CT01-26-R,Amy Chai,R,kalshi_suffix,1282912,party
+house-CT-01,polymarket,1282912,Amy Chai (R),R,polymarket_label,KXHOUSERACE-CT01-26-R,party
+house-CT-01,polymarket,1282913,Luke Bronin (D),D,polymarket_label,KXHOUSERACE-CT01-26-D,party
+house-CT-02,kalshi,KXHOUSERACE-CT02-26-D,Joe Courtney,D,kalshi_suffix,1282921,party
+house-CT-02,kalshi,KXHOUSERACE-CT02-26-R,George Austin,R,kalshi_suffix,1282920,party
+house-CT-02,polymarket,1282920,George Austin (R),R,polymarket_label,KXHOUSERACE-CT02-26-R,party
+house-CT-02,polymarket,1282921,Joe Courtney (D),D,polymarket_label,KXHOUSERACE-CT02-26-D,party
+house-CT-03,kalshi,KXHOUSERACE-CT03-26-D,Rosa DeLauro,D,kalshi_suffix,1282929,party
+house-CT-03,kalshi,KXHOUSERACE-CT03-26-R,Christopher Lancia,R,kalshi_suffix,,party
+house-CT-03,polymarket,1282928,Chris Lancia (R),R,polymarket_label,,party
+house-CT-03,polymarket,1282929,Rosa DeLauro (D),D,polymarket_label,KXHOUSERACE-CT03-26-D,party
+house-CT-04,kalshi,KXHOUSERACE-CT04-26-D,Jim Himes,D,kalshi_suffix,1282937,party
+house-CT-04,kalshi,KXHOUSERACE-CT04-26-R,Michael Goldstein,R,kalshi_suffix,1282936,party
+house-CT-04,polymarket,1282936,Michael Goldstein (R),R,polymarket_label,KXHOUSERACE-CT04-26-R,party
+house-CT-04,polymarket,1282937,Jim Himes (D),D,polymarket_label,KXHOUSERACE-CT04-26-D,party
+house-CT-05,kalshi,HOUSECT5-26-D,Jahana Hayes,D,kalshi_suffix,942356,party
+house-CT-05,kalshi,HOUSECT5-26-R,Chris Shea,R,kalshi_suffix,942354,party
+house-CT-05,polymarket,942354,Chris Shea (R),R,polymarket_label,HOUSECT5-26-R,party
+house-CT-05,polymarket,942356,Jahana Hayes (D),D,polymarket_label,HOUSECT5-26-D,party
+house-DE-AL,kalshi,KXHOUSERACE-DEAL-26-D,Democratic party,D,kalshi_suffix,,party
+house-DE-AL,kalshi,KXHOUSERACE-DEAL-26-R,Republican party,R,kalshi_suffix,,party
+house-DE-AL,polymarket,1282944,Republican Party,R,polymarket_label,,party
+house-DE-AL,polymarket,1282945,Democratic Party,D,polymarket_label,,party
+house-FL-01,kalshi,KXHOUSERACE-FL01-26-D,Gay Valimont,D,kalshi_suffix,1282953,party
+house-FL-01,kalshi,KXHOUSERACE-FL01-26-R,Jimmy Patronis,R,kalshi_suffix,1282952,party
+house-FL-01,polymarket,1282952,Jimmy Patronis (R),R,polymarket_label,KXHOUSERACE-FL01-26-R,party
+house-FL-01,polymarket,1282953,Gay Valimont (D),D,polymarket_label,KXHOUSERACE-FL01-26-D,party
+house-FL-02,kalshi,KXHOUSERACE-FL02-26-D,Amanda Green,D,kalshi_suffix,1282961,party
+house-FL-02,kalshi,KXHOUSERACE-FL02-26-R,Austin Rogers,R,kalshi_suffix,1282960,party
+house-FL-02,polymarket,1282960,Austin Rogers (R),R,polymarket_label,KXHOUSERACE-FL02-26-R,party
+house-FL-02,polymarket,1282961,Amanda Green (D),D,polymarket_label,KXHOUSERACE-FL02-26-D,party
+house-FL-03,kalshi,KXHOUSERACE-FL03-26-D,Seth Harp,D,kalshi_suffix,1282969,party
+house-FL-03,kalshi,KXHOUSERACE-FL03-26-R,Kat Cammack,R,kalshi_suffix,1282968,party
+house-FL-03,polymarket,1282968,Kat Cammack (R),R,polymarket_label,KXHOUSERACE-FL03-26-R,party
+house-FL-03,polymarket,1282969,Seth Harp (D),D,polymarket_label,KXHOUSERACE-FL03-26-D,party
+house-FL-04,kalshi,KXHOUSERACE-FL04-26-D,LaShonda Holloway,D,kalshi_suffix,1282977,party
+house-FL-04,kalshi,KXHOUSERACE-FL04-26-R,Aaron Bean,R,kalshi_suffix,1282976,party
+house-FL-04,polymarket,1282976,Aaron Bean (R),R,polymarket_label,KXHOUSERACE-FL04-26-R,party
+house-FL-04,polymarket,1282977,LaShonda Holloway (D),D,polymarket_label,KXHOUSERACE-FL04-26-D,party
+house-FL-05,kalshi,KXHOUSERACE-FL05-26-D,Rachel Grage,D,kalshi_suffix,1282985,party
+house-FL-05,kalshi,KXHOUSERACE-FL05-26-R,John Rutherford,R,kalshi_suffix,1282984,party
+house-FL-05,polymarket,1282984,John Rutherford (R),R,polymarket_label,KXHOUSERACE-FL05-26-R,party
+house-FL-05,polymarket,1282985,Rachel Grage (D),D,polymarket_label,KXHOUSERACE-FL05-26-D,party
+house-FL-06,kalshi,KXHOUSERACE-FL06-26-D,Eric Yonce,D,kalshi_suffix,1282993,party
+house-FL-06,kalshi,KXHOUSERACE-FL06-26-R,Randy Fine,R,kalshi_suffix,1282992,party
+house-FL-06,polymarket,1282992,Randy Fine (R),R,polymarket_label,KXHOUSERACE-FL06-26-R,party
+house-FL-06,polymarket,1282993,Eric Yonce (D),D,polymarket_label,KXHOUSERACE-FL06-26-D,party
+house-FL-07,kalshi,KXHOUSERACE-FL07-26-D,Bale Dalton,D,kalshi_suffix,1283001,party
+house-FL-07,kalshi,KXHOUSERACE-FL07-26-R,Ryan Elijah,R,kalshi_suffix,1283000,party
+house-FL-07,polymarket,1283000,Ryan Elijah (R),R,polymarket_label,KXHOUSERACE-FL07-26-R,party
+house-FL-07,polymarket,1283001,Bale Dalton (D),D,polymarket_label,KXHOUSERACE-FL07-26-D,party
+house-FL-08,kalshi,KXHOUSERACE-FL08-26-D,Jennifer Jenkins,D,kalshi_suffix,1283009,party
+house-FL-08,kalshi,KXHOUSERACE-FL08-26-R,Mike Haridopolos,R,kalshi_suffix,1283008,party
+house-FL-08,polymarket,1283008,Mike Haridopolos (R),R,polymarket_label,KXHOUSERACE-FL08-26-R,party
+house-FL-08,polymarket,1283009,Jennifer Jenkins (D),D,polymarket_label,KXHOUSERACE-FL08-26-D,party
+house-FL-09,kalshi,KXHOUSERACE-FL09-26-D,Darren Soto,D,kalshi_suffix,1283017,party
+house-FL-09,kalshi,KXHOUSERACE-FL09-26-R,Dan Green,R,kalshi_suffix,1283016,party
+house-FL-09,polymarket,1283016,Dan Green (R),R,polymarket_label,KXHOUSERACE-FL09-26-R,party
+house-FL-09,polymarket,1283017,Darren Soto (D),D,polymarket_label,KXHOUSERACE-FL09-26-D,party
+house-FL-10,kalshi,KXHOUSERACE-FL10-26-D,Maxwell Frost,D,kalshi_suffix,1283025,party
+house-FL-10,kalshi,KXHOUSERACE-FL10-26-R,Republican party,R,kalshi_suffix,,party
+house-FL-10,polymarket,1283024,Republican Party,R,polymarket_label,,party
+house-FL-10,polymarket,1283025,Maxwell Frost (D),D,polymarket_label,KXHOUSERACE-FL10-26-D,party
+house-FL-11,kalshi,KXHOUSERACE-FL11-26-D,James Pericola,D,kalshi_suffix,1283033,party
+house-FL-11,kalshi,KXHOUSERACE-FL11-26-R,Joe Strada,R,kalshi_suffix,1283032,party
+house-FL-11,polymarket,1283032,Joe Strada (R),R,polymarket_label,KXHOUSERACE-FL11-26-R,party
+house-FL-11,polymarket,1283033,James Pericola (D),D,polymarket_label,KXHOUSERACE-FL11-26-D,party
+house-FL-12,kalshi,KXHOUSERACE-FL12-26-D,Kimberly Overman,D,kalshi_suffix,1283041,party
+house-FL-12,kalshi,KXHOUSERACE-FL12-26-R,Gus Bilirakis,R,kalshi_suffix,1283040,party
+house-FL-12,polymarket,1283040,Gus Bilirakis (R),R,polymarket_label,KXHOUSERACE-FL12-26-R,party
+house-FL-12,polymarket,1283041,Kimberly Overman (D),D,polymarket_label,KXHOUSERACE-FL12-26-D,party
+house-FL-13,kalshi,HOUSEFL13-26-D,Leela Gray,D,kalshi_suffix,942401,party
+house-FL-13,kalshi,HOUSEFL13-26-R,Anna Paulina Luna,R,kalshi_suffix,942400,party
+house-FL-13,polymarket,942400,Anna Paulina Luna (R),R,polymarket_label,HOUSEFL13-26-R,party
+house-FL-13,polymarket,942401,Leela Gray (D),D,polymarket_label,HOUSEFL13-26-D,party
+house-FL-14,kalshi,KXHOUSERACE-FL14-26-D,Kathy Castor,D,kalshi_suffix,1283049,party
+house-FL-14,kalshi,KXHOUSERACE-FL14-26-R,Mike Beltran,R,kalshi_suffix,1283048,party
+house-FL-14,polymarket,1283048,Mike Beltran (R),R,polymarket_label,KXHOUSERACE-FL14-26-R,party
+house-FL-14,polymarket,1283049,Kathy Castor (D),D,polymarket_label,KXHOUSERACE-FL14-26-D,party
+house-FL-15,kalshi,KXHOUSERACE-FL15-26-D,Robert People,D,kalshi_suffix,1283057,party
+house-FL-15,kalshi,KXHOUSERACE-FL15-26-R,Laurel Lee,R,kalshi_suffix,1283056,party
+house-FL-15,polymarket,1283056,Laurel Lee (R),R,polymarket_label,KXHOUSERACE-FL15-26-R,party
+house-FL-15,polymarket,1283057,Robert People (D),D,polymarket_label,KXHOUSERACE-FL15-26-D,party
+house-FL-16,kalshi,KXHOUSERACE-FL16-26-D,Kelly Kirschner,D,kalshi_suffix,1283065,party
+house-FL-16,kalshi,KXHOUSERACE-FL16-26-R,Sydney Gruters,R,kalshi_suffix,1283064,party
+house-FL-16,polymarket,1283064,Sydney Gruters (R),R,polymarket_label,KXHOUSERACE-FL16-26-R,party
+house-FL-16,polymarket,1283065,Kelly Kirschner (D),D,polymarket_label,KXHOUSERACE-FL16-26-D,party
+house-FL-17,kalshi,KXHOUSERACE-FL17-26-D,Matthew Montavon,D,kalshi_suffix,1283073,party
+house-FL-17,kalshi,KXHOUSERACE-FL17-26-R,Greg Steube,R,kalshi_suffix,1283072,party
+house-FL-17,polymarket,1283072,Greg Steube (R),R,polymarket_label,KXHOUSERACE-FL17-26-R,party
+house-FL-17,polymarket,1283073,Matthew Montavon (D),D,polymarket_label,KXHOUSERACE-FL17-26-D,party
+house-FL-18,kalshi,KXHOUSERACE-FL18-26-D,Curtis Gibson,D,kalshi_suffix,1283081,party
+house-FL-18,kalshi,KXHOUSERACE-FL18-26-R,Scott Franklin,R,kalshi_suffix,1283080,party
+house-FL-18,polymarket,1283080,Scott Franklin (R),R,polymarket_label,KXHOUSERACE-FL18-26-R,party
+house-FL-18,polymarket,1283081,Curtis Gibson (D),D,polymarket_label,KXHOUSERACE-FL18-26-D,party
+house-FL-19,kalshi,KXHOUSERACE-FL19-26-D,Victor Arias,D,kalshi_suffix,1283089,party
+house-FL-19,kalshi,KXHOUSERACE-FL19-26-R,Jim Schwartzel,R,kalshi_suffix,1283088,party
+house-FL-19,polymarket,1283088,Jim Schwartzel (R),R,polymarket_label,KXHOUSERACE-FL19-26-R,party
+house-FL-19,polymarket,1283089,Victor Arias (D),D,polymarket_label,KXHOUSERACE-FL19-26-D,party
+house-FL-20,kalshi,KXHOUSERACE-FL20-26-D,Debbie Wasserman Schultz,D,kalshi_suffix,1283097,party
+house-FL-20,kalshi,KXHOUSERACE-FL20-26-R,Brent Andersen,R,kalshi_suffix,1283096,party
+house-FL-20,polymarket,1283096,Brent Andersen (R),R,polymarket_label,KXHOUSERACE-FL20-26-R,party
+house-FL-20,polymarket,1283097,Debbie Wasserman Schultz (D),D,polymarket_label,KXHOUSERACE-FL20-26-D,party
+house-FL-21,kalshi,KXHOUSERACE-FL21-26-D,James Martin,D,kalshi_suffix,1283105,party
+house-FL-21,kalshi,KXHOUSERACE-FL21-26-R,Brian Mast,R,kalshi_suffix,1283104,party
+house-FL-21,polymarket,1283104,Brian Mast (R),R,polymarket_label,KXHOUSERACE-FL21-26-R,party
+house-FL-21,polymarket,1283105,James Martin (D),D,polymarket_label,KXHOUSERACE-FL21-26-D,party
+house-FL-22,kalshi,KXHOUSERACE-FL22-26-D,Pia Dandiya,D,kalshi_suffix,1283113,party
+house-FL-22,kalshi,KXHOUSERACE-FL22-26-R,Casey Askar,R,kalshi_suffix,1283112,party
+house-FL-22,polymarket,1283112,Casey Askar (R),R,polymarket_label,KXHOUSERACE-FL22-26-R,party
+house-FL-22,polymarket,1283113,Pia Dandiya (D),D,polymarket_label,KXHOUSERACE-FL22-26-D,party
+house-FL-23,kalshi,HOUSEFL23-26-D,Lois Frankel,D,kalshi_suffix,942409,party
+house-FL-23,kalshi,HOUSEFL23-26-R,Deborah Adeimy,R,kalshi_suffix,942408,party
+house-FL-23,polymarket,942408,Deborah Adeimy (R),R,polymarket_label,HOUSEFL23-26-R,party
+house-FL-23,polymarket,942409,Lois Frankel (D),D,polymarket_label,HOUSEFL23-26-D,party
+house-FL-24,kalshi,KXHOUSERACE-FL24-26-D,Oliver Gilbert,D,kalshi_suffix,1283121,party
+house-FL-24,kalshi,KXHOUSERACE-FL24-26-R,Mayonna Te Brown,R,kalshi_suffix,,party
+house-FL-24,polymarket,1283120,Te Mayonna Brown (R),R,polymarket_label,,party
+house-FL-24,polymarket,1283121,Oliver Gilbert (D),D,polymarket_label,KXHOUSERACE-FL24-26-D,party
+house-FL-25,kalshi,KXHOUSERACE-FL25-26-D,Jared Moskowitz,D,kalshi_suffix,1283129,party
+house-FL-25,kalshi,KXHOUSERACE-FL25-26-R,Scott Singer,R,kalshi_suffix,1283128,party
+house-FL-25,polymarket,1283128,Scott Singer (R),R,polymarket_label,KXHOUSERACE-FL25-26-R,party
+house-FL-25,polymarket,1283129,Jared Moskowitz (D),D,polymarket_label,KXHOUSERACE-FL25-26-D,party
+house-FL-26,kalshi,KXHOUSERACE-FL26-26-D,Nicole Locklin,D,kalshi_suffix,1283137,party
+house-FL-26,kalshi,KXHOUSERACE-FL26-26-R,Mario Díaz-Balart,R,kalshi_suffix,1283136,party
+house-FL-26,polymarket,1283136,Mario Díaz-Balart (R),R,polymarket_label,KXHOUSERACE-FL26-26-R,party
+house-FL-26,polymarket,1283137,Nicole Locklin (D),D,polymarket_label,KXHOUSERACE-FL26-26-D,party
+house-FL-27,kalshi,KXHOUSERACE-FL27-26-D,Eliott Rodriguez,D,kalshi_suffix,1283145,party
+house-FL-27,kalshi,KXHOUSERACE-FL27-26-R,Maria Elvira Salazar,R,kalshi_suffix,1283144,party
+house-FL-27,polymarket,1283144,María Elvira Salazar (R),R,polymarket_label,KXHOUSERACE-FL27-26-R,party
+house-FL-27,polymarket,1283145,Eliott Rodriguez (D),D,polymarket_label,KXHOUSERACE-FL27-26-D,party
+house-FL-28,kalshi,KXHOUSERACE-FL28-26-D,Phil Ehr,D,kalshi_suffix,1283153,party
+house-FL-28,kalshi,KXHOUSERACE-FL28-26-R,Carlos Giménez,R,kalshi_suffix,1283152,party
+house-FL-28,polymarket,1283152,Carlos Giménez (R),R,polymarket_label,KXHOUSERACE-FL28-26-R,party
+house-FL-28,polymarket,1283153,Phil Ehr (D),D,polymarket_label,KXHOUSERACE-FL28-26-D,party
+house-GA-01,kalshi,KXHOUSERACE-GA01-26-D,Amanda Hollowell,D,kalshi_suffix,1283161,party
+house-GA-01,kalshi,KXHOUSERACE-GA01-26-R,Jim Kingston,R,kalshi_suffix,1283160,party
+house-GA-01,polymarket,1283160,Jim Kingston (R),R,polymarket_label,KXHOUSERACE-GA01-26-R,party
+house-GA-01,polymarket,1283161,Amanda Hollowell (D),D,polymarket_label,KXHOUSERACE-GA01-26-D,party
+house-GA-02,kalshi,KXHOUSERACE-GA02-26-D,Sanford Bishop,D,kalshi_suffix,1283169,party
+house-GA-02,kalshi,KXHOUSERACE-GA02-26-R,Matt Day,R,kalshi_suffix,1283168,party
+house-GA-02,polymarket,1283168,Matt Day (R),R,polymarket_label,KXHOUSERACE-GA02-26-R,party
+house-GA-02,polymarket,1283169,Sanford Bishop (D),D,polymarket_label,KXHOUSERACE-GA02-26-D,party
+house-GA-03,kalshi,KXHOUSERACE-GA03-26-D,Maura Keller,D,kalshi_suffix,1283177,party
+house-GA-03,kalshi,KXHOUSERACE-GA03-26-R,Brian Jack,R,kalshi_suffix,1283176,party
+house-GA-03,polymarket,1283176,Brian Jack (R),R,polymarket_label,KXHOUSERACE-GA03-26-R,party
+house-GA-03,polymarket,1283177,Maura Keller (D),D,polymarket_label,KXHOUSERACE-GA03-26-D,party
+house-GA-04,kalshi,KXHOUSERACE-GA04-26-D,Hank Johnson,D,kalshi_suffix,1283185,party
+house-GA-04,kalshi,KXHOUSERACE-GA04-26-R,James Duffie,R,kalshi_suffix,1283184,party
+house-GA-04,polymarket,1283184,James Duffie (R),R,polymarket_label,KXHOUSERACE-GA04-26-R,party
+house-GA-04,polymarket,1283185,Hank Johnson (D),D,polymarket_label,KXHOUSERACE-GA04-26-D,party
+house-GA-05,kalshi,KXHOUSERACE-GA05-26-D,Nikema Williams,D,kalshi_suffix,1283193,party
+house-GA-05,kalshi,KXHOUSERACE-GA05-26-R,John Salvesen,R,kalshi_suffix,,party
+house-GA-05,polymarket,1283192,John Oscar Salvesen (R),R,polymarket_label,,party
+house-GA-05,polymarket,1283193,Nikema Williams (D),D,polymarket_label,KXHOUSERACE-GA05-26-D,party
+house-GA-06,kalshi,KXHOUSERACE-GA06-26-D,Lucy McBath,D,kalshi_suffix,1283201,party
+house-GA-06,kalshi,KXHOUSERACE-GA06-26-R,Kevin Martin,R,kalshi_suffix,1283200,party
+house-GA-06,polymarket,1283200,Kevin Martin (R),R,polymarket_label,KXHOUSERACE-GA06-26-R,party
+house-GA-06,polymarket,1283201,Lucy McBath (D),D,polymarket_label,KXHOUSERACE-GA06-26-D,party
+house-GA-07,kalshi,KXHOUSERACE-GA07-26-D,Anthony Kozycki,D,kalshi_suffix,,party
+house-GA-07,kalshi,KXHOUSERACE-GA07-26-R,Rich McCormick,R,kalshi_suffix,1283208,party
+house-GA-07,polymarket,1283208,Rich McCormick (R),R,polymarket_label,KXHOUSERACE-GA07-26-R,party
+house-GA-07,polymarket,1283209,Tony Kozycki (D),D,polymarket_label,,party
+house-GA-08,kalshi,KXHOUSERACE-GA08-26-D,Kelly Esti,D,kalshi_suffix,1283217,party
+house-GA-08,kalshi,KXHOUSERACE-GA08-26-R,Austin Scott,R,kalshi_suffix,1283216,party
+house-GA-08,polymarket,1283216,Austin Scott (R),R,polymarket_label,KXHOUSERACE-GA08-26-R,party
+house-GA-08,polymarket,1283217,Kelly Esti (D),D,polymarket_label,KXHOUSERACE-GA08-26-D,party
+house-GA-09,kalshi,KXHOUSERACE-GA09-26-D,Caitlyn Gegen,D,kalshi_suffix,1283225,party
+house-GA-09,kalshi,KXHOUSERACE-GA09-26-R,Andrew Clyde,R,kalshi_suffix,1283224,party
+house-GA-09,polymarket,1283224,Andrew Clyde (R),R,polymarket_label,KXHOUSERACE-GA09-26-R,party
+house-GA-09,polymarket,1283225,Caitlyn Gegen (D),D,polymarket_label,KXHOUSERACE-GA09-26-D,party
+house-GA-10,kalshi,KXHOUSERACE-GA10-26-D,Pamela DeLancy,D,kalshi_suffix,,party
+house-GA-10,kalshi,KXHOUSERACE-GA10-26-R,Houston Gaines,R,kalshi_suffix,1283232,party
+house-GA-10,polymarket,1283232,Houston Gaines (R),R,polymarket_label,KXHOUSERACE-GA10-26-R,party
+house-GA-10,polymarket,1283233,Pam Delancy (D),D,polymarket_label,,party
+house-GA-11,kalshi,KXHOUSERACE-GA11-26-D,Chris Harden,D,kalshi_suffix,1283241,party
+house-GA-11,kalshi,KXHOUSERACE-GA11-26-R,John Cowan,R,kalshi_suffix,1283240,party
+house-GA-11,polymarket,1283240,John Cowan (R),R,polymarket_label,KXHOUSERACE-GA11-26-R,party
+house-GA-11,polymarket,1283241,Chris Harden (D),D,polymarket_label,KXHOUSERACE-GA11-26-D,party
+house-GA-12,kalshi,KXHOUSERACE-GA12-26-D,Ceretta Smith,D,kalshi_suffix,1283249,party
+house-GA-12,kalshi,KXHOUSERACE-GA12-26-R,Rick Allen,R,kalshi_suffix,1283248,party
+house-GA-12,polymarket,1283248,Rick Allen (R),R,polymarket_label,KXHOUSERACE-GA12-26-R,party
+house-GA-12,polymarket,1283249,Ceretta Smith (D),D,polymarket_label,KXHOUSERACE-GA12-26-D,party
+house-GA-13,kalshi,KXHOUSERACE-GA13-26-D,Jasmine Clark,D,kalshi_suffix,1283257,party
+house-GA-13,kalshi,KXHOUSERACE-GA13-26-R,Jonathan Chavez,R,kalshi_suffix,1283256,party
+house-GA-13,polymarket,1283256,Jonathan Chavez (R),R,polymarket_label,KXHOUSERACE-GA13-26-R,party
+house-GA-13,polymarket,1283257,Jasmine Clark (D),D,polymarket_label,KXHOUSERACE-GA13-26-D,party
+house-GA-14,kalshi,KXHOUSERACE-GA14-26-D,Shawn Harris,D,kalshi_suffix,1283265,party
+house-GA-14,kalshi,KXHOUSERACE-GA14-26-R,Clay Fuller,R,kalshi_suffix,1283264,party
+house-GA-14,polymarket,1283264,Clay Fuller (R),R,polymarket_label,KXHOUSERACE-GA14-26-R,party
+house-GA-14,polymarket,1283265,Shawn Harris (D),D,polymarket_label,KXHOUSERACE-GA14-26-D,party
+house-HI-01,kalshi,KXHOUSERACE-HI01-26-D,Ed Case,D,kalshi_suffix,1283273,party
+house-HI-01,kalshi,KXHOUSERACE-HI01-26-R,Adriel Lam,R,kalshi_suffix,1283272,party
+house-HI-01,polymarket,1283272,Adriel Lam (R),R,polymarket_label,KXHOUSERACE-HI01-26-R,party
+house-HI-01,polymarket,1283273,Ed Case (D),D,polymarket_label,KXHOUSERACE-HI01-26-D,party
+house-HI-02,kalshi,KXHOUSERACE-HI02-26-D,Jill Tokuda,D,kalshi_suffix,1283281,party
+house-HI-02,kalshi,KXHOUSERACE-HI02-26-R,Brenton Awa,R,kalshi_suffix,1283280,party
+house-HI-02,polymarket,1283280,Brenton Awa (R),R,polymarket_label,KXHOUSERACE-HI02-26-R,party
+house-HI-02,polymarket,1283281,Jill Tokuda (D),D,polymarket_label,KXHOUSERACE-HI02-26-D,party
+house-IA-01,kalshi,HOUSEIA1-26-D,Christina Bohannan,D,kalshi_suffix,942433,party
+house-IA-01,kalshi,HOUSEIA1-26-I,Michael Bridgford,I,kalshi_suffix,,party
+house-IA-01,kalshi,HOUSEIA1-26-R,Mariannette Miller-Meeks,R,kalshi_suffix,942432,party
+house-IA-01,polymarket,942432,Mariannette Miller-Meeks (R),R,polymarket_label,HOUSEIA1-26-R,party
+house-IA-01,polymarket,942433,Christina Bohannan (D),D,polymarket_label,HOUSEIA1-26-D,party
+house-IA-02,kalshi,KXHOUSERACE-IA02-26-D,Lindsay James,D,kalshi_suffix,1283289,party
+house-IA-02,kalshi,KXHOUSERACE-IA02-26-R,Joe Mitchell,R,kalshi_suffix,1283288,party
+house-IA-02,polymarket,1283288,Joe Mitchell (R),R,polymarket_label,KXHOUSERACE-IA02-26-R,party
+house-IA-02,polymarket,1283289,Lindsay James (D),D,polymarket_label,KXHOUSERACE-IA02-26-D,party
+house-IA-03,kalshi,HOUSEIA3-26-D,Sarah Trone Garriott,D,kalshi_suffix,942445,party
+house-IA-03,kalshi,HOUSEIA3-26-R,Zach Nunn,R,kalshi_suffix,942444,party
+house-IA-03,polymarket,942444,Zach Nunn (R),R,polymarket_label,HOUSEIA3-26-R,party
+house-IA-03,polymarket,942445,Sarah Trone Garriott (D),D,polymarket_label,HOUSEIA3-26-D,party
+house-IA-04,kalshi,KXHOUSERACE-IA04-26-D,Dave Dawson,D,kalshi_suffix,,party
+house-IA-04,kalshi,KXHOUSERACE-IA04-26-R,Chris McGowan,R,kalshi_suffix,1283296,party
+house-IA-04,polymarket,1283296,Chris McGowan (R),R,polymarket_label,KXHOUSERACE-IA04-26-R,party
+house-IA-04,polymarket,1283297,David Dawson (D),D,polymarket_label,,party
+house-ID-01,kalshi,KXHOUSERACE-ID01-26-D,Kaylee Peterson,D,kalshi_suffix,1283305,party
+house-ID-01,kalshi,KXHOUSERACE-ID01-26-R,Russ Fulcher,R,kalshi_suffix,1283304,party
+house-ID-01,polymarket,1283304,Russ Fulcher (R),R,polymarket_label,KXHOUSERACE-ID01-26-R,party
+house-ID-01,polymarket,1283305,Kaylee Peterson (D),D,polymarket_label,KXHOUSERACE-ID01-26-D,party
+house-ID-02,kalshi,KXHOUSERACE-ID02-26-D,Elinor Gilbreath,D,kalshi_suffix,,party
+house-ID-02,kalshi,KXHOUSERACE-ID02-26-R,Mike Simpson,R,kalshi_suffix,1283312,party
+house-ID-02,polymarket,1283312,Mike Simpson (R),R,polymarket_label,KXHOUSERACE-ID02-26-R,party
+house-ID-02,polymarket,1283313,Ellie Gilbreath (D),D,polymarket_label,,party
+house-IL-01,kalshi,KXHOUSERACE-IL01-26-D,Jonathan Jackson,D,kalshi_suffix,1283321,party
+house-IL-01,kalshi,KXHOUSERACE-IL01-26-R,Christian Maxwell,R,kalshi_suffix,1283320,party
+house-IL-01,polymarket,1283320,Christian Maxwell (R),R,polymarket_label,KXHOUSERACE-IL01-26-R,party
+house-IL-01,polymarket,1283321,Jonathan Jackson (D),D,polymarket_label,KXHOUSERACE-IL01-26-D,party
+house-IL-02,kalshi,KXHOUSERACE-IL02-26-D,Donna Miller,D,kalshi_suffix,1283329,party
+house-IL-02,kalshi,KXHOUSERACE-IL02-26-R,Michael Noack,R,kalshi_suffix,1283328,party
+house-IL-02,polymarket,1283328,Michael Noack (R),R,polymarket_label,KXHOUSERACE-IL02-26-R,party
+house-IL-02,polymarket,1283329,Donna Miller (D),D,polymarket_label,KXHOUSERACE-IL02-26-D,party
+house-IL-03,kalshi,KXHOUSERACE-IL03-26-D,Delia Ramirez,D,kalshi_suffix,1283337,party
+house-IL-03,kalshi,KXHOUSERACE-IL03-26-R,Angel Oakley,R,kalshi_suffix,1283336,party
+house-IL-03,polymarket,1283336,Angel Oakley (R),R,polymarket_label,KXHOUSERACE-IL03-26-R,party
+house-IL-03,polymarket,1283337,Delia Ramirez (D),D,polymarket_label,KXHOUSERACE-IL03-26-D,party
+house-IL-04,kalshi,KXHOUSERACE-IL04-26-CGET,Chris Getty,,,,person
+house-IL-04,kalshi,KXHOUSERACE-IL04-26-D,Patty Garcia,D,kalshi_suffix,1283345,party
+house-IL-04,kalshi,KXHOUSERACE-IL04-26-MMAC,Mayra Macías,,,,person
+house-IL-04,kalshi,KXHOUSERACE-IL04-26-R,Lupe Castillo,R,kalshi_suffix,1283344,party
+house-IL-04,polymarket,1283344,Lupe Castillo (R),R,polymarket_label,KXHOUSERACE-IL04-26-R,party
+house-IL-04,polymarket,1283345,Patty Garcia (D),D,polymarket_label,KXHOUSERACE-IL04-26-D,party
+house-IL-05,kalshi,KXHOUSERACE-IL05-26-D,Mike Quigley,D,kalshi_suffix,1283353,party
+house-IL-05,kalshi,KXHOUSERACE-IL05-26-R,Tommy Hanson,R,kalshi_suffix,1283352,party
+house-IL-05,polymarket,1283352,Tommy Hanson (R),R,polymarket_label,KXHOUSERACE-IL05-26-R,party
+house-IL-05,polymarket,1283353,Mike Quigley (D),D,polymarket_label,KXHOUSERACE-IL05-26-D,party
+house-IL-06,kalshi,KXHOUSERACE-IL06-26-D,Sean Casten,D,kalshi_suffix,1283361,party
+house-IL-06,kalshi,KXHOUSERACE-IL06-26-R,Niki Conforti,R,kalshi_suffix,1283360,party
+house-IL-06,polymarket,1283360,Niki Conforti (R),R,polymarket_label,KXHOUSERACE-IL06-26-R,party
+house-IL-06,polymarket,1283361,Sean Casten (D),D,polymarket_label,KXHOUSERACE-IL06-26-D,party
+house-IL-07,kalshi,KXHOUSERACE-IL07-26-D,La Shawn Ford,D,kalshi_suffix,1283369,party
+house-IL-07,kalshi,KXHOUSERACE-IL07-26-R,Chad Koppie,R,kalshi_suffix,1283368,party
+house-IL-07,polymarket,1283368,Chad Koppie (R),R,polymarket_label,KXHOUSERACE-IL07-26-R,party
+house-IL-07,polymarket,1283369,La Shawn Ford (D),D,polymarket_label,KXHOUSERACE-IL07-26-D,party
+house-IL-08,kalshi,KXHOUSERACE-IL08-26-D,Melissa Bean,D,kalshi_suffix,1283377,party
+house-IL-08,kalshi,KXHOUSERACE-IL08-26-R,Jennifer Davis,R,kalshi_suffix,1283376,party
+house-IL-08,polymarket,1283376,Jennifer Davis (R),R,polymarket_label,KXHOUSERACE-IL08-26-R,party
+house-IL-08,polymarket,1283377,Melissa Bean (D),D,polymarket_label,KXHOUSERACE-IL08-26-D,party
+house-IL-09,kalshi,KXHOUSERACE-IL09-26-D,Daniel Biss,D,kalshi_suffix,1283385,party
+house-IL-09,kalshi,KXHOUSERACE-IL09-26-R,John Elleson,R,kalshi_suffix,1283384,party
+house-IL-09,polymarket,1283384,John Elleson (R),R,polymarket_label,KXHOUSERACE-IL09-26-R,party
+house-IL-09,polymarket,1283385,Daniel Biss (D),D,polymarket_label,KXHOUSERACE-IL09-26-D,party
+house-IL-10,kalshi,KXHOUSERACE-IL10-26-D,Brad Schneider,D,kalshi_suffix,1283393,party
+house-IL-10,kalshi,KXHOUSERACE-IL10-26-R,Carl Lambrecht,R,kalshi_suffix,1283392,party
+house-IL-10,polymarket,1283392,Carl Lambrecht (R),R,polymarket_label,KXHOUSERACE-IL10-26-R,party
+house-IL-10,polymarket,1283393,Brad Schneider (D),D,polymarket_label,KXHOUSERACE-IL10-26-D,party
+house-IL-11,kalshi,KXHOUSERACE-IL11-26-D,Bill Foster,D,kalshi_suffix,1283401,party
+house-IL-11,kalshi,KXHOUSERACE-IL11-26-R,Jeff Walter,R,kalshi_suffix,1283400,party
+house-IL-11,polymarket,1283400,Jeff Walter (R),R,polymarket_label,KXHOUSERACE-IL11-26-R,party
+house-IL-11,polymarket,1283401,Bill Foster (D),D,polymarket_label,KXHOUSERACE-IL11-26-D,party
+house-IL-12,kalshi,KXHOUSERACE-IL12-26-D,Julie Fortier,D,kalshi_suffix,1283409,party
+house-IL-12,kalshi,KXHOUSERACE-IL12-26-R,Mike Bost,R,kalshi_suffix,1283408,party
+house-IL-12,polymarket,1283408,Mike Bost (R),R,polymarket_label,KXHOUSERACE-IL12-26-R,party
+house-IL-12,polymarket,1283409,Julie Fortier (D),D,polymarket_label,KXHOUSERACE-IL12-26-D,party
+house-IL-13,kalshi,KXHOUSERACE-IL13-26-D,Nikki Budzinski,D,kalshi_suffix,1283417,party
+house-IL-13,kalshi,KXHOUSERACE-IL13-26-R,Jeff Wilson,R,kalshi_suffix,1283416,party
+house-IL-13,polymarket,1283416,Jeff Wilson (R),R,polymarket_label,KXHOUSERACE-IL13-26-R,party
+house-IL-13,polymarket,1283417,Nikki Budzinski (D),D,polymarket_label,KXHOUSERACE-IL13-26-D,party
+house-IL-14,kalshi,KXHOUSERACE-IL14-26-D,Lauren Underwood,D,kalshi_suffix,1283425,party
+house-IL-14,kalshi,KXHOUSERACE-IL14-26-R,James Marter,R,kalshi_suffix,1283424,party
+house-IL-14,polymarket,1283424,James Marter (R),R,polymarket_label,KXHOUSERACE-IL14-26-R,party
+house-IL-14,polymarket,1283425,Lauren Underwood (D),D,polymarket_label,KXHOUSERACE-IL14-26-D,party
+house-IL-15,kalshi,KXHOUSERACE-IL15-26-D,Jennifer Todd,D,kalshi_suffix,1283433,party
+house-IL-15,kalshi,KXHOUSERACE-IL15-26-R,Mary Miller,R,kalshi_suffix,1283432,party
+house-IL-15,polymarket,1283432,Mary Miller (R),R,polymarket_label,KXHOUSERACE-IL15-26-R,party
+house-IL-15,polymarket,1283433,Jennifer Todd (D),D,polymarket_label,KXHOUSERACE-IL15-26-D,party
+house-IL-16,kalshi,KXHOUSERACE-IL16-26-D,Paul Nolley,D,kalshi_suffix,1283441,party
+house-IL-16,kalshi,KXHOUSERACE-IL16-26-R,Darin LaHood,R,kalshi_suffix,1283440,party
+house-IL-16,polymarket,1283440,Darin LaHood (R),R,polymarket_label,KXHOUSERACE-IL16-26-R,party
+house-IL-16,polymarket,1283441,Paul Nolley (D),D,polymarket_label,KXHOUSERACE-IL16-26-D,party
+house-IL-17,kalshi,HOUSEIL17-26-D,Eric Sorensen,D,kalshi_suffix,942417,party
+house-IL-17,kalshi,HOUSEIL17-26-R,Dillan Vancil,R,kalshi_suffix,942416,party
+house-IL-17,polymarket,942416,Dillan Vancil (R),R,polymarket_label,HOUSEIL17-26-R,party
+house-IL-17,polymarket,942417,Eric Sorensen (D),D,polymarket_label,HOUSEIL17-26-D,party
+house-IN-01,kalshi,HOUSEIN1-26-D,Frank Mrvan,D,kalshi_suffix,942425,party
+house-IN-01,kalshi,HOUSEIN1-26-R,Barb Regnitz,R,kalshi_suffix,942424,party
+house-IN-01,polymarket,942424,Barb Regnitz (R),R,polymarket_label,HOUSEIN1-26-R,party
+house-IN-01,polymarket,942425,Frank Mrvan (D),D,polymarket_label,HOUSEIN1-26-D,party
+house-IN-02,kalshi,KXHOUSERACE-IN02-26-D,Jamee Decio,D,kalshi_suffix,1283449,party
+house-IN-02,kalshi,KXHOUSERACE-IN02-26-R,Rudy Yakym,R,kalshi_suffix,1283448,party
+house-IN-02,polymarket,1283448,Rudy Yakym (R),R,polymarket_label,KXHOUSERACE-IN02-26-R,party
+house-IN-02,polymarket,1283449,Jamee Decio (D),D,polymarket_label,KXHOUSERACE-IN02-26-D,party
+house-IN-03,kalshi,KXHOUSERACE-IN03-26-D,Kelly Thompson,D,kalshi_suffix,1283457,party
+house-IN-03,kalshi,KXHOUSERACE-IN03-26-R,Marlin Stutzman,R,kalshi_suffix,1283456,party
+house-IN-03,polymarket,1283456,Marlin Stutzman (R),R,polymarket_label,KXHOUSERACE-IN03-26-R,party
+house-IN-03,polymarket,1283457,Kelly Thompson (D),D,polymarket_label,KXHOUSERACE-IN03-26-D,party
+house-IN-04,kalshi,KXHOUSERACE-IN04-26-D,Drew Cox,D,kalshi_suffix,1283465,party
+house-IN-04,kalshi,KXHOUSERACE-IN04-26-R,Jim Baird,R,kalshi_suffix,1283464,party
+house-IN-04,polymarket,1283464,Jim Baird (R),R,polymarket_label,KXHOUSERACE-IN04-26-R,party
+house-IN-04,polymarket,1283465,Drew Cox (D),D,polymarket_label,KXHOUSERACE-IN04-26-D,party
+house-IN-05,kalshi,KXHOUSERACE-IN05-26-D,J.D. Ford,D,kalshi_suffix,1283473,party
+house-IN-05,kalshi,KXHOUSERACE-IN05-26-R,Victoria Spartz,R,kalshi_suffix,1283472,party
+house-IN-05,polymarket,1283472,Victoria Spartz (R),R,polymarket_label,KXHOUSERACE-IN05-26-R,party
+house-IN-05,polymarket,1283473,J. D. Ford (D),D,polymarket_label,KXHOUSERACE-IN05-26-D,party
+house-IN-06,kalshi,KXHOUSERACE-IN06-26-D,Cynthia Wirth,D,kalshi_suffix,,party
+house-IN-06,kalshi,KXHOUSERACE-IN06-26-R,Jefferson Shreve,R,kalshi_suffix,1283480,party
+house-IN-06,polymarket,1283480,Jefferson Shreve (R),R,polymarket_label,KXHOUSERACE-IN06-26-R,party
+house-IN-06,polymarket,1283481,Cinde Wirth (D),D,polymarket_label,,party
+house-IN-07,kalshi,KXHOUSEIN7-26-D,André Carson,D,kalshi_suffix,1283489,party
+house-IN-07,kalshi,KXHOUSEIN7-26-R,Patrick McAuley,R,kalshi_suffix,1283488,party
+house-IN-07,polymarket,1283488,Patrick McAuley (R),R,polymarket_label,KXHOUSEIN7-26-R,party
+house-IN-07,polymarket,1283489,André Carson (D),D,polymarket_label,KXHOUSEIN7-26-D,party
+house-IN-08,kalshi,KXHOUSERACE-IN08-26-D,Mary Allen,D,kalshi_suffix,1283497,party
+house-IN-08,kalshi,KXHOUSERACE-IN08-26-R,Mark Messmer,R,kalshi_suffix,1283496,party
+house-IN-08,polymarket,1283496,Mark Messmer (R),R,polymarket_label,KXHOUSERACE-IN08-26-R,party
+house-IN-08,polymarket,1283497,Mary Allen (D),D,polymarket_label,KXHOUSERACE-IN08-26-D,party
+house-IN-09,kalshi,KXHOUSERACE-IN09-26-D,Brad Meyer,D,kalshi_suffix,1283505,party
+house-IN-09,kalshi,KXHOUSERACE-IN09-26-R,Erin Houchin,R,kalshi_suffix,1283504,party
+house-IN-09,polymarket,1283504,Erin Houchin (R),R,polymarket_label,KXHOUSERACE-IN09-26-R,party
+house-IN-09,polymarket,1283505,Brad Meyer (D),D,polymarket_label,KXHOUSERACE-IN09-26-D,party
+house-KS-01,kalshi,KXHOUSERACE-KS01-26-D,Lauren Reinhold,D,kalshi_suffix,1283513,party
+house-KS-01,kalshi,KXHOUSERACE-KS01-26-R,Tracey Mann,R,kalshi_suffix,1283512,party
+house-KS-01,polymarket,1283512,Tracey Mann (R),R,polymarket_label,KXHOUSERACE-KS01-26-R,party
+house-KS-01,polymarket,1283513,Lauren Reinhold (D),D,polymarket_label,KXHOUSERACE-KS01-26-D,party
+house-KS-02,kalshi,KXHOUSERACE-KS02-26-D,Don Coover,D,kalshi_suffix,1283521,party
+house-KS-02,kalshi,KXHOUSERACE-KS02-26-R,Derek Schmidt,R,kalshi_suffix,1283520,party
+house-KS-02,polymarket,1283520,Derek Schmidt (R),R,polymarket_label,KXHOUSERACE-KS02-26-R,party
+house-KS-02,polymarket,1283521,Don Coover (D),D,polymarket_label,KXHOUSERACE-KS02-26-D,party
+house-KS-03,kalshi,KXHOUSERACE-KS03-26-D,Sharice Davids,D,kalshi_suffix,1283529,party
+house-KS-03,kalshi,KXHOUSERACE-KS03-26-R,Eric Jenkins,R,kalshi_suffix,1283528,party
+house-KS-03,polymarket,1283528,Eric Jenkins (R),R,polymarket_label,KXHOUSERACE-KS03-26-R,party
+house-KS-03,polymarket,1283529,Sharice Davids (D),D,polymarket_label,KXHOUSERACE-KS03-26-D,party
+house-KS-04,kalshi,KXHOUSERACE-KS04-26-D,Katy Tyndell,D,kalshi_suffix,1283537,party
+house-KS-04,kalshi,KXHOUSERACE-KS04-26-R,Ron Estes,R,kalshi_suffix,1283536,party
+house-KS-04,polymarket,1283536,Ron Estes (R),R,polymarket_label,KXHOUSERACE-KS04-26-R,party
+house-KS-04,polymarket,1283537,Katy Tyndell (D),D,polymarket_label,KXHOUSERACE-KS04-26-D,party
+house-KY-01,kalshi,KXHOUSERACE-KY01-26-D,Drew Williams,D,kalshi_suffix,1283545,party
+house-KY-01,kalshi,KXHOUSERACE-KY01-26-R,James Comer,R,kalshi_suffix,1283544,party
+house-KY-01,polymarket,1283544,James Comer (R),R,polymarket_label,KXHOUSERACE-KY01-26-R,party
+house-KY-01,polymarket,1283545,Drew Williams (D),D,polymarket_label,KXHOUSERACE-KY01-26-D,party
+house-KY-02,kalshi,KXHOUSERACE-KY02-26-D,Megan Wingfield,D,kalshi_suffix,1283553,party
+house-KY-02,kalshi,KXHOUSERACE-KY02-26-R,Brett Guthrie,R,kalshi_suffix,1283552,party
+house-KY-02,polymarket,1283552,Brett Guthrie (R),R,polymarket_label,KXHOUSERACE-KY02-26-R,party
+house-KY-02,polymarket,1283553,Megan Wingfield (D),D,polymarket_label,KXHOUSERACE-KY02-26-D,party
+house-KY-03,kalshi,KXHOUSERACE-KY03-26-D,Morgan McGarvey,D,kalshi_suffix,1283561,party
+house-KY-03,kalshi,KXHOUSERACE-KY03-26-R,Maria Rodriguez,R,kalshi_suffix,1283560,party
+house-KY-03,polymarket,1283560,Maria Rodriguez (R),R,polymarket_label,KXHOUSERACE-KY03-26-R,party
+house-KY-03,polymarket,1283561,Morgan McGarvey (D),D,polymarket_label,KXHOUSERACE-KY03-26-D,party
+house-KY-04,kalshi,KXHOUSERACE-KY04-26-D,Melissa Claire Strange,D,kalshi_suffix,,party
+house-KY-04,kalshi,KXHOUSERACE-KY04-26-R,Ed Gallrein,R,kalshi_suffix,1283568,party
+house-KY-04,polymarket,1283568,Ed Gallrein (R),R,polymarket_label,KXHOUSERACE-KY04-26-R,party
+house-KY-04,polymarket,1283569,Melissa Strange (D),D,polymarket_label,,party
+house-KY-05,kalshi,KXHOUSERACE-KY05-26-D,Ned Pillersdorf,D,kalshi_suffix,1283577,party
+house-KY-05,kalshi,KXHOUSERACE-KY05-26-R,Hal Rogers,R,kalshi_suffix,1283576,party
+house-KY-05,polymarket,1283576,Hal Rogers (R),R,polymarket_label,KXHOUSERACE-KY05-26-R,party
+house-KY-05,polymarket,1283577,Ned Pillersdorf (D),D,polymarket_label,KXHOUSERACE-KY05-26-D,party
+house-KY-06,kalshi,KXHOUSERACE-KY06-26-D,Zach Dembo,D,kalshi_suffix,1283585,party
+house-KY-06,kalshi,KXHOUSERACE-KY06-26-R,Ralph Alvarado,R,kalshi_suffix,1283584,party
+house-KY-06,polymarket,1283584,Ralph Alvarado (R),R,polymarket_label,KXHOUSERACE-KY06-26-R,party
+house-KY-06,polymarket,1283585,Zach Dembo (D),D,polymarket_label,KXHOUSERACE-KY06-26-D,party
+house-LA-01,kalshi,KXHOUSERACE-LA01-26-D,Democratic party,D,kalshi_suffix,,party
+house-LA-01,kalshi,KXHOUSERACE-LA01-26-R,Republican party,R,kalshi_suffix,,party
+house-LA-01,polymarket,1283592,Republican Party,R,polymarket_label,,party
+house-LA-01,polymarket,1283593,Democratic Party,D,polymarket_label,,party
+house-LA-02,kalshi,KXHOUSERACE-LA02-26-D,Democratic party,D,kalshi_suffix,,party
+house-LA-02,kalshi,KXHOUSERACE-LA02-26-R,Republican party,R,kalshi_suffix,,party
+house-LA-02,polymarket,1283600,Republican Party,R,polymarket_label,,party
+house-LA-02,polymarket,1283601,Democratic Party,D,polymarket_label,,party
+house-LA-03,kalshi,KXHOUSERACE-LA03-26-D,Democratic party,D,kalshi_suffix,,party
+house-LA-03,kalshi,KXHOUSERACE-LA03-26-R,Republican party,R,kalshi_suffix,,party
+house-LA-03,polymarket,1283608,Republican Party,R,polymarket_label,,party
+house-LA-03,polymarket,1283609,Democratic Party,D,polymarket_label,,party
+house-LA-04,kalshi,KXHOUSERACE-LA04-26-D,Democratic party,D,kalshi_suffix,,party
+house-LA-04,kalshi,KXHOUSERACE-LA04-26-R,Republican party,R,kalshi_suffix,,party
+house-LA-04,polymarket,1283616,Republican Party,R,polymarket_label,,party
+house-LA-04,polymarket,1283617,Democratic Party,D,polymarket_label,,party
+house-LA-05,kalshi,KXHOUSERACE-LA05-26-D,Democratic party,D,kalshi_suffix,,party
+house-LA-05,kalshi,KXHOUSERACE-LA05-26-R,Republican party,R,kalshi_suffix,,party
+house-LA-05,polymarket,1283624,Republican Party,R,polymarket_label,,party
+house-LA-05,polymarket,1283625,Democratic Party,D,polymarket_label,,party
+house-LA-06,kalshi,KXHOUSERACE-LA06-26-D,Democratic party,D,kalshi_suffix,,party
+house-LA-06,kalshi,KXHOUSERACE-LA06-26-R,Republican party,R,kalshi_suffix,,party
+house-LA-06,polymarket,1283632,Republican Party,R,polymarket_label,,party
+house-LA-06,polymarket,1283633,Democratic Party,D,polymarket_label,,party
+house-MA-01,kalshi,KXHOUSERACE-MA01-26-D,Richard Neal,D,kalshi_suffix,1283641,party
+house-MA-01,kalshi,KXHOUSERACE-MA01-26-R,Republican party,R,kalshi_suffix,,party
+house-MA-01,polymarket,1283640,Republican Party,R,polymarket_label,,party
+house-MA-01,polymarket,1283641,Richard Neal (D),D,polymarket_label,KXHOUSERACE-MA01-26-D,party
+house-MA-02,kalshi,KXHOUSERACE-MA02-26-D,Jim McGovern,D,kalshi_suffix,1283649,party
+house-MA-02,kalshi,KXHOUSERACE-MA02-26-R,Republican party,R,kalshi_suffix,,party
+house-MA-02,polymarket,1283648,Republican Party,R,polymarket_label,,party
+house-MA-02,polymarket,1283649,Jim McGovern (D),D,polymarket_label,KXHOUSERACE-MA02-26-D,party
+house-MA-03,kalshi,KXHOUSERACE-MA03-26-D,Lori Trahan,D,kalshi_suffix,1283657,party
+house-MA-03,kalshi,KXHOUSERACE-MA03-26-R,Gary Grossi,R,kalshi_suffix,1283656,party
+house-MA-03,polymarket,1283656,Gary Grossi (R),R,polymarket_label,KXHOUSERACE-MA03-26-R,party
+house-MA-03,polymarket,1283657,Lori Trahan (D),D,polymarket_label,KXHOUSERACE-MA03-26-D,party
+house-MA-04,kalshi,KXHOUSERACE-MA04-26-D,Jake Auchincloss,D,kalshi_suffix,1283665,party
+house-MA-04,kalshi,KXHOUSERACE-MA04-26-R,Tom Stalcup,R,kalshi_suffix,1283664,party
+house-MA-04,polymarket,1283664,Tom Stalcup (R),R,polymarket_label,KXHOUSERACE-MA04-26-R,party
+house-MA-04,polymarket,1283665,Jake Auchincloss (D),D,polymarket_label,KXHOUSERACE-MA04-26-D,party
+house-MA-05,kalshi,KXHOUSERACE-MA05-26-D,Katherine Clark,D,kalshi_suffix,1283673,party
+house-MA-05,kalshi,KXHOUSERACE-MA05-26-R,Republican party,R,kalshi_suffix,,party
+house-MA-05,polymarket,1283672,Republican Party,R,polymarket_label,,party
+house-MA-05,polymarket,1283673,Katherine Clark (D),D,polymarket_label,KXHOUSERACE-MA05-26-D,party
+house-MA-06,kalshi,KXHOUSERACE-MA06-26-D,Dan Koh,D,kalshi_suffix,1283681,party
+house-MA-06,kalshi,KXHOUSERACE-MA06-26-R,Micah Jones,R,kalshi_suffix,1283680,party
+house-MA-06,polymarket,1283680,Micah Jones (R),R,polymarket_label,KXHOUSERACE-MA06-26-R,party
+house-MA-06,polymarket,1283681,Dan Koh (D),D,polymarket_label,KXHOUSERACE-MA06-26-D,party
+house-MA-07,kalshi,KXHOUSERACE-MA07-26-D,Ayanna Pressley,D,kalshi_suffix,1283689,party
+house-MA-07,kalshi,KXHOUSERACE-MA07-26-R,Republican party,R,kalshi_suffix,,party
+house-MA-07,polymarket,1283688,Republican Party,R,polymarket_label,,party
+house-MA-07,polymarket,1283689,Ayanna Pressley (D),D,polymarket_label,KXHOUSERACE-MA07-26-D,party
+house-MA-08,kalshi,KXHOUSERACE-MA08-26-D,Stephen Lynch,D,kalshi_suffix,1283697,party
+house-MA-08,kalshi,KXHOUSERACE-MA08-26-R,Robert Burke,R,kalshi_suffix,1283696,party
+house-MA-08,polymarket,1283696,Robert Burke (R),R,polymarket_label,KXHOUSERACE-MA08-26-R,party
+house-MA-08,polymarket,1283697,Stephen Lynch (D),D,polymarket_label,KXHOUSERACE-MA08-26-D,party
+house-MA-09,kalshi,KXHOUSERACE-MA09-26-D,Bill Keating,D,kalshi_suffix,1283705,party
+house-MA-09,kalshi,KXHOUSERACE-MA09-26-R,Tyler MacAllister,R,kalshi_suffix,1283704,party
+house-MA-09,polymarket,1283704,Tyler MacAllister (R),R,polymarket_label,KXHOUSERACE-MA09-26-R,party
+house-MA-09,polymarket,1283705,Bill Keating (D),D,polymarket_label,KXHOUSERACE-MA09-26-D,party
+house-MD-01,kalshi,KXHOUSERACE-MD01-26-D,Dan Schwartz,D,kalshi_suffix,1283713,party
+house-MD-01,kalshi,KXHOUSERACE-MD01-26-R,Andy Harris,R,kalshi_suffix,1283712,party
+house-MD-01,polymarket,1283712,Andy Harris (R),R,polymarket_label,KXHOUSERACE-MD01-26-R,party
+house-MD-01,polymarket,1283713,Dan Schwartz (D),D,polymarket_label,KXHOUSERACE-MD01-26-D,party
+house-MD-02,kalshi,KXHOUSERACE-MD02-26-D,Johnny Olszewski,D,kalshi_suffix,1283721,party
+house-MD-02,kalshi,KXHOUSERACE-MD02-26-R,Dave Wallace,R,kalshi_suffix,1283720,party
+house-MD-02,polymarket,1283720,Dave Wallace (R),R,polymarket_label,KXHOUSERACE-MD02-26-R,party
+house-MD-02,polymarket,1283721,Johnny Olszewski (D),D,polymarket_label,KXHOUSERACE-MD02-26-D,party
+house-MD-03,kalshi,KXHOUSERACE-MD03-26-D,Sarah Elfreth,D,kalshi_suffix,1283729,party
+house-MD-03,kalshi,KXHOUSERACE-MD03-26-R,Berney Flowers,R,kalshi_suffix,1283728,party
+house-MD-03,polymarket,1283728,Berney Flowers (R),R,polymarket_label,KXHOUSERACE-MD03-26-R,party
+house-MD-03,polymarket,1283729,Sarah Elfreth (D),D,polymarket_label,KXHOUSERACE-MD03-26-D,party
+house-MD-04,kalshi,KXHOUSERACE-MD04-26-D,Glenn Ivey,D,kalshi_suffix,1283737,party
+house-MD-04,kalshi,KXHOUSERACE-MD04-26-R,George McDermott,R,kalshi_suffix,1283736,party
+house-MD-04,polymarket,1283736,George McDermott (R),R,polymarket_label,KXHOUSERACE-MD04-26-R,party
+house-MD-04,polymarket,1283737,Glenn Ivey (D),D,polymarket_label,KXHOUSERACE-MD04-26-D,party
+house-MD-05,kalshi,KXHOUSERACE-MD05-26-D,Adrian Boafo,D,kalshi_suffix,1283745,party
+house-MD-05,kalshi,KXHOUSERACE-MD05-26-R,Chris Chaffee,R,kalshi_suffix,1283744,party
+house-MD-05,polymarket,1283744,Chris Chaffee (R),R,polymarket_label,KXHOUSERACE-MD05-26-R,party
+house-MD-05,polymarket,1283745,Adrian Boafo (D),D,polymarket_label,KXHOUSERACE-MD05-26-D,party
+house-MD-06,kalshi,KXHOUSERACE-MD06-26-D,April McClain Delaney,D,kalshi_suffix,1283753,party
+house-MD-06,kalshi,KXHOUSERACE-MD06-26-R,Robin Ficker,R,kalshi_suffix,1283752,party
+house-MD-06,polymarket,1283752,Robin Ficker (R),R,polymarket_label,KXHOUSERACE-MD06-26-R,party
+house-MD-06,polymarket,1283753,April McClain Delaney (D),D,polymarket_label,KXHOUSERACE-MD06-26-D,party
+house-MD-07,kalshi,KXHOUSERACE-MD07-26-D,Kweisi Mfume,D,kalshi_suffix,1283761,party
+house-MD-07,kalshi,KXHOUSERACE-MD07-26-R,Scott Collier,R,kalshi_suffix,1283760,party
+house-MD-07,polymarket,1283760,Scott Collier (R),R,polymarket_label,KXHOUSERACE-MD07-26-R,party
+house-MD-07,polymarket,1283761,Kweisi Mfume (D),D,polymarket_label,KXHOUSERACE-MD07-26-D,party
+house-MD-08,kalshi,KXHOUSERACE-MD08-26-D,Jamie Raskin,D,kalshi_suffix,1283769,party
+house-MD-08,kalshi,KXHOUSERACE-MD08-26-R,Cheryl Riley,R,kalshi_suffix,1283768,party
+house-MD-08,polymarket,1283768,Cheryl Riley (R),R,polymarket_label,KXHOUSERACE-MD08-26-R,party
+house-MD-08,polymarket,1283769,Jamie Raskin (D),D,polymarket_label,KXHOUSERACE-MD08-26-D,party
+house-ME-01,kalshi,KXHOUSERACE-ME01-26-D,Chellie Pingree,D,kalshi_suffix,1283777,party
+house-ME-01,kalshi,KXHOUSERACE-ME01-26-R,Ronald Russell,R,kalshi_suffix,1283776,party
+house-ME-01,polymarket,1283776,Ronald Russell (R),R,polymarket_label,KXHOUSERACE-ME01-26-R,party
+house-ME-01,polymarket,1283777,Chellie Pingree (D),D,polymarket_label,KXHOUSERACE-ME01-26-D,party
+house-ME-02,kalshi,HOUSEME2-26-D,Matt Dunlap,D,kalshi_suffix,,party
+house-ME-02,kalshi,HOUSEME2-26-R,Paul LePage,R,kalshi_suffix,3006482,party
+house-ME-02,polymarket,3006482,Paul LePage (R),R,polymarket_label,HOUSEME2-26-R,party
+house-ME-02,polymarket,3006483,Matthew Dunlap (D),D,polymarket_label,,party
+house-MI-01,kalshi,KXHOUSERACE-MI01-26-D,Callie Barr,D,kalshi_suffix,1283785,party
+house-MI-01,kalshi,KXHOUSERACE-MI01-26-R,Jack Bergman,R,kalshi_suffix,1283784,party
+house-MI-01,polymarket,1283784,Jack Bergman (R),R,polymarket_label,KXHOUSERACE-MI01-26-R,party
+house-MI-01,polymarket,1283785,Callie Barr (D),D,polymarket_label,KXHOUSERACE-MI01-26-D,party
+house-MI-02,kalshi,KXHOUSERACE-MI02-26-D,Benjamin Ambrose,D,kalshi_suffix,,party
+house-MI-02,kalshi,KXHOUSERACE-MI02-26-R,John Moolenaar,R,kalshi_suffix,1283792,party
+house-MI-02,polymarket,1283792,John Moolenaar (R),R,polymarket_label,KXHOUSERACE-MI02-26-R,party
+house-MI-02,polymarket,1283793,Ben Ambrose (D),D,polymarket_label,,party
+house-MI-03,kalshi,HOUSEMI3-26-D,Hillary Scholten,D,kalshi_suffix,942702,party
+house-MI-03,kalshi,HOUSEMI3-26-R,Terri DeBoer,R,kalshi_suffix,942701,party
+house-MI-03,polymarket,942701,Terri DeBoer (R),R,polymarket_label,HOUSEMI3-26-R,party
+house-MI-03,polymarket,942702,Hillary Scholten (D),D,polymarket_label,HOUSEMI3-26-D,party
+house-MI-04,kalshi,HOUSEMI4-26-D,Sean McCann,D,kalshi_suffix,942710,party
+house-MI-04,kalshi,HOUSEMI4-26-R,Bill Huizenga,R,kalshi_suffix,942709,party
+house-MI-04,polymarket,942709,Bill Huizenga (R),R,polymarket_label,HOUSEMI4-26-R,party
+house-MI-04,polymarket,942710,Sean McCann (D),D,polymarket_label,HOUSEMI4-26-D,party
+house-MI-05,kalshi,KXHOUSERACE-MI05-26-D,Christian Vukasovich,D,kalshi_suffix,1283801,party
+house-MI-05,kalshi,KXHOUSERACE-MI05-26-R,Tim Walberg,R,kalshi_suffix,1283800,party
+house-MI-05,polymarket,1283800,Tim Walberg (R),R,polymarket_label,KXHOUSERACE-MI05-26-R,party
+house-MI-05,polymarket,1283801,Christian Vukasovich (D),D,polymarket_label,KXHOUSERACE-MI05-26-D,party
+house-MI-06,kalshi,KXHOUSERACE-MI06-26-D,Debbie Dingell,D,kalshi_suffix,1283809,party
+house-MI-06,kalshi,KXHOUSERACE-MI06-26-R,Heather Smiley,R,kalshi_suffix,1283808,party
+house-MI-06,polymarket,1283808,Heather Smiley (R),R,polymarket_label,KXHOUSERACE-MI06-26-R,party
+house-MI-06,polymarket,1283809,Debbie Dingell (D),D,polymarket_label,KXHOUSERACE-MI06-26-D,party
+house-MI-07,kalshi,HOUSEMI7-26-D,William Lawrence,D,kalshi_suffix,942722,party
+house-MI-07,kalshi,HOUSEMI7-26-R,Tom Barrett,R,kalshi_suffix,942721,party
+house-MI-07,polymarket,942721,Tom Barrett (R),R,polymarket_label,HOUSEMI7-26-R,party
+house-MI-07,polymarket,942722,William Lawrence (D),D,polymarket_label,HOUSEMI7-26-D,party
+house-MI-08,kalshi,HOUSEMI8-26-D,Kristen McDonald Rivet,D,kalshi_suffix,942765,party
+house-MI-08,kalshi,HOUSEMI8-26-R,Thomas J. Smith,R,kalshi_suffix,942764,party
+house-MI-08,polymarket,942764,Thomas Smith (R),R,polymarket_label,HOUSEMI8-26-R,party
+house-MI-08,polymarket,942765,Kristen McDonald Rivet (D),D,polymarket_label,HOUSEMI8-26-D,party
+house-MI-09,kalshi,KXHOUSERACE-MI09-26-D,Ray Pooley,D,kalshi_suffix,1283817,party
+house-MI-09,kalshi,KXHOUSERACE-MI09-26-R,Lisa McClain,R,kalshi_suffix,1283816,party
+house-MI-09,polymarket,1283816,Lisa McClain (R),R,polymarket_label,KXHOUSERACE-MI09-26-R,party
+house-MI-09,polymarket,1283817,Ray Pooley (D),D,polymarket_label,KXHOUSERACE-MI09-26-D,party
+house-MI-10,kalshi,HOUSEMI10-26-D,Christina Hines,D,kalshi_suffix,942776,party
+house-MI-10,kalshi,HOUSEMI10-26-R,Michael Bouchard Jr.,R,kalshi_suffix,,party
+house-MI-10,polymarket,942774,Mike Bouchard (R),R,polymarket_label,,party
+house-MI-10,polymarket,942776,Christina Hines (D),D,polymarket_label,HOUSEMI10-26-D,party
+house-MI-11,kalshi,KXHOUSERACE-MI11-26-D,Jeremy Moss,D,kalshi_suffix,1283825,party
+house-MI-11,kalshi,KXHOUSERACE-MI11-26-R,Ethan Baker,R,kalshi_suffix,1283824,party
+house-MI-11,polymarket,1283824,Ethan Baker (R),R,polymarket_label,KXHOUSERACE-MI11-26-R,party
+house-MI-11,polymarket,1283825,Jeremy Moss (D),D,polymarket_label,KXHOUSERACE-MI11-26-D,party
+house-MI-12,kalshi,KXHOUSERACE-MI12-26-D,Rashida Tlaib,D,kalshi_suffix,1283833,party
+house-MI-12,kalshi,KXHOUSERACE-MI12-26-R,James Hooper,R,kalshi_suffix,1283832,party
+house-MI-12,polymarket,1283832,James Hooper (R),R,polymarket_label,KXHOUSERACE-MI12-26-R,party
+house-MI-12,polymarket,1283833,Rashida Tlaib (D),D,polymarket_label,KXHOUSERACE-MI12-26-D,party
+house-MI-13,kalshi,KXHOUSERACE-MI13-26-D,Donavan McKinney,D,kalshi_suffix,1283841,party
+house-MI-13,kalshi,KXHOUSERACE-MI13-26-R,T.P. Nykoriak,R,kalshi_suffix,1283840,party
+house-MI-13,polymarket,1283840,T.P. Nykoriak (R),R,polymarket_label,KXHOUSERACE-MI13-26-R,party
+house-MI-13,polymarket,1283841,Donavan McKinney (D),D,polymarket_label,KXHOUSERACE-MI13-26-D,party
+house-MN-01,kalshi,KXHOUSERACE-MN01-26-D,Jake Johnson,D,kalshi_suffix,1283849,party
+house-MN-01,kalshi,KXHOUSERACE-MN01-26-R,Brad Finstad,R,kalshi_suffix,1283848,party
+house-MN-01,polymarket,1283848,Brad Finstad (R),R,polymarket_label,KXHOUSERACE-MN01-26-R,party
+house-MN-01,polymarket,1283849,Jake Johnson (D),D,polymarket_label,KXHOUSERACE-MN01-26-D,party
+house-MN-02,kalshi,HOUSEMN2-26-D,Matt Little,D,kalshi_suffix,942820,party
+house-MN-02,kalshi,HOUSEMN2-26-R,Eric Pratt,R,kalshi_suffix,942819,party
+house-MN-02,polymarket,942819,Eric Pratt (R),R,polymarket_label,HOUSEMN2-26-R,party
+house-MN-02,polymarket,942820,Matt Little (D),D,polymarket_label,HOUSEMN2-26-D,party
+house-MN-03,kalshi,KXHOUSERACE-MN03-26-D,Kelly Morrison,D,kalshi_suffix,1283857,party
+house-MN-03,kalshi,KXHOUSERACE-MN03-26-R,Tyler Bass,R,kalshi_suffix,1283856,party
+house-MN-03,polymarket,1283856,Tyler Bass (R),R,polymarket_label,KXHOUSERACE-MN03-26-R,party
+house-MN-03,polymarket,1283857,Kelly Morrison (D),D,polymarket_label,KXHOUSERACE-MN03-26-D,party
+house-MN-04,kalshi,KXHOUSERACE-MN04-26-D,Betty McCollum,D,kalshi_suffix,1283865,party
+house-MN-04,kalshi,KXHOUSERACE-MN04-26-R,Paul Wikstrom,R,kalshi_suffix,1283864,party
+house-MN-04,polymarket,1283864,Paul Wikstrom (R),R,polymarket_label,KXHOUSERACE-MN04-26-R,party
+house-MN-04,polymarket,1283865,Betty McCollum (D),D,polymarket_label,KXHOUSERACE-MN04-26-D,party
+house-MN-05,kalshi,KXHOUSERACE-MN05-26-D,Ilhan Omar,D,kalshi_suffix,1283873,party
+house-MN-05,kalshi,KXHOUSERACE-MN05-26-DJAC,DeVelle Jackson,,,,person
+house-MN-05,kalshi,KXHOUSERACE-MN05-26-R,John Nagel,R,kalshi_suffix,1283872,party
+house-MN-05,polymarket,1283872,John Nagel (R),R,polymarket_label,KXHOUSERACE-MN05-26-R,party
+house-MN-05,polymarket,1283873,Ilhan Omar (D),D,polymarket_label,KXHOUSERACE-MN05-26-D,party
+house-MN-06,kalshi,KXHOUSERACE-MN06-26-D,Doug Chapin,D,kalshi_suffix,1283881,party
+house-MN-06,kalshi,KXHOUSERACE-MN06-26-R,Tom Emmer,R,kalshi_suffix,1283880,party
+house-MN-06,polymarket,1283880,Tom Emmer (R),R,polymarket_label,KXHOUSERACE-MN06-26-R,party
+house-MN-06,polymarket,1283881,Doug Chapin (D),D,polymarket_label,KXHOUSERACE-MN06-26-D,party
+house-MN-07,kalshi,KXHOUSERACE-MN07-26-D,Erik Osberg,D,kalshi_suffix,1283889,party
+house-MN-07,kalshi,KXHOUSERACE-MN07-26-R,Michelle Fischbach,R,kalshi_suffix,1283888,party
+house-MN-07,polymarket,1283888,Michelle Fischbach (R),R,polymarket_label,KXHOUSERACE-MN07-26-R,party
+house-MN-07,polymarket,1283889,Erik Osberg (D),D,polymarket_label,KXHOUSERACE-MN07-26-D,party
+house-MN-08,kalshi,KXHOUSERACE-MN08-26-D,Trina Swanson,D,kalshi_suffix,1283897,party
+house-MN-08,kalshi,KXHOUSERACE-MN08-26-R,Pete Stauber,R,kalshi_suffix,1283896,party
+house-MN-08,polymarket,1283896,Pete Stauber (R),R,polymarket_label,KXHOUSERACE-MN08-26-R,party
+house-MN-08,polymarket,1283897,Trina Swanson (D),D,polymarket_label,KXHOUSERACE-MN08-26-D,party
+house-MO-01,kalshi,KXHOUSERACE-MO01-26-D,Wesley Bell,D,kalshi_suffix,1283905,party
+house-MO-01,kalshi,KXHOUSERACE-MO01-26-R,Paul Berry,R,kalshi_suffix,1283904,party
+house-MO-01,polymarket,1283904,Paul Berry (R),R,polymarket_label,KXHOUSERACE-MO01-26-R,party
+house-MO-01,polymarket,1283905,Wesley Bell (D),D,polymarket_label,KXHOUSERACE-MO01-26-D,party
+house-MO-02,kalshi,KXHOUSERACE-MO02-26-D,Fred Wellman,D,kalshi_suffix,1283914,party
+house-MO-02,kalshi,KXHOUSERACE-MO02-26-R,Ann Wagner,R,kalshi_suffix,1283912,party
+house-MO-02,polymarket,1283912,Ann Wagner (R),R,polymarket_label,KXHOUSERACE-MO02-26-R,party
+house-MO-02,polymarket,1283914,Fred Wellman (D),D,polymarket_label,KXHOUSERACE-MO02-26-D,party
+house-MO-03,kalshi,KXHOUSERACE-MO03-26-D,Bethany Mann,D,kalshi_suffix,1283922,party
+house-MO-03,kalshi,KXHOUSERACE-MO03-26-R,Bob Onder,R,kalshi_suffix,1283921,party
+house-MO-03,polymarket,1283921,Bob Onder (R),R,polymarket_label,KXHOUSERACE-MO03-26-R,party
+house-MO-03,polymarket,1283922,Bethany Mann (D),D,polymarket_label,KXHOUSERACE-MO03-26-D,party
+house-MO-04,kalshi,KXHOUSERACE-MO04-26-D,Jordan Herrera,D,kalshi_suffix,1283930,party
+house-MO-04,kalshi,KXHOUSERACE-MO04-26-R,Mark Alford,R,kalshi_suffix,1283929,party
+house-MO-04,polymarket,1283929,Mark Alford (R),R,polymarket_label,KXHOUSERACE-MO04-26-R,party
+house-MO-04,polymarket,1283930,Jordan Herrera (D),D,polymarket_label,KXHOUSERACE-MO04-26-D,party
+house-MO-05,kalshi,KXHOUSEMO5-26-D,Emanuel Cleaver,D,kalshi_suffix,942832,party
+house-MO-05,kalshi,KXHOUSEMO5-26-R,Rick Brattin,R,kalshi_suffix,942831,party
+house-MO-05,polymarket,942831,Rick Brattin (R),R,polymarket_label,KXHOUSEMO5-26-R,party
+house-MO-05,polymarket,942832,Emanuel Cleaver (D),D,polymarket_label,KXHOUSEMO5-26-D,party
+house-MO-06,kalshi,KXHOUSERACE-MO06-26-D,Josh Smead,D,kalshi_suffix,1283938,party
+house-MO-06,kalshi,KXHOUSERACE-MO06-26-R,Chris Stigall,R,kalshi_suffix,1283937,party
+house-MO-06,polymarket,1283937,Chris Stigall (R),R,polymarket_label,KXHOUSERACE-MO06-26-R,party
+house-MO-06,polymarket,1283938,Josh Smead (D),D,polymarket_label,KXHOUSERACE-MO06-26-D,party
+house-MO-07,kalshi,KXHOUSERACE-MO07-26-D,Missi Hesketh,D,kalshi_suffix,1283946,party
+house-MO-07,kalshi,KXHOUSERACE-MO07-26-R,Eric Burlison,R,kalshi_suffix,1283945,party
+house-MO-07,polymarket,1283945,Eric Burlison (R),R,polymarket_label,KXHOUSERACE-MO07-26-R,party
+house-MO-07,polymarket,1283946,Missi Hesketh (D),D,polymarket_label,KXHOUSERACE-MO07-26-D,party
+house-MO-08,kalshi,KXHOUSERACE-MO08-26-D,Chris Reichard,D,kalshi_suffix,1283954,party
+house-MO-08,kalshi,KXHOUSERACE-MO08-26-R,Jason Smith,R,kalshi_suffix,1283953,party
+house-MO-08,polymarket,1283953,Jason Smith (R),R,polymarket_label,KXHOUSERACE-MO08-26-R,party
+house-MO-08,polymarket,1283954,Chris Reichard (D),D,polymarket_label,KXHOUSERACE-MO08-26-D,party
+house-MS-01,kalshi,KXHOUSERACE-MS01-26-D,Cliff Johnson,D,kalshi_suffix,1283962,party
+house-MS-01,kalshi,KXHOUSERACE-MS01-26-R,Trent Kelly,R,kalshi_suffix,1283961,party
+house-MS-01,polymarket,1283961,Trent Kelly (R),R,polymarket_label,KXHOUSERACE-MS01-26-R,party
+house-MS-01,polymarket,1283962,Cliff Johnson (D),D,polymarket_label,KXHOUSERACE-MS01-26-D,party
+house-MS-02,kalshi,KXHOUSERACE-MS02-26-D,Bennie Thompson,D,kalshi_suffix,1283970,party
+house-MS-02,kalshi,KXHOUSERACE-MS02-26-R,Ron Eller,R,kalshi_suffix,1283969,party
+house-MS-02,polymarket,1283969,Ron Eller (R),R,polymarket_label,KXHOUSERACE-MS02-26-R,party
+house-MS-02,polymarket,1283970,Bennie Thompson (D),D,polymarket_label,KXHOUSERACE-MS02-26-D,party
+house-MS-03,kalshi,KXHOUSERACE-MS03-26-D,Michael Chiaradio,D,kalshi_suffix,1283978,party
+house-MS-03,kalshi,KXHOUSERACE-MS03-26-R,Michael Guest,R,kalshi_suffix,1283977,party
+house-MS-03,polymarket,1283977,Michael Guest (R),R,polymarket_label,KXHOUSERACE-MS03-26-R,party
+house-MS-03,polymarket,1283978,Michael Chiaradio (D),D,polymarket_label,KXHOUSERACE-MS03-26-D,party
+house-MS-04,kalshi,KXHOUSERACE-MS04-26-D,Jeffrey Hulum III,D,kalshi_suffix,1283986,party
+house-MS-04,kalshi,KXHOUSERACE-MS04-26-R,Mike Ezell,R,kalshi_suffix,1283985,party
+house-MS-04,polymarket,1283985,Mike Ezell (R),R,polymarket_label,KXHOUSERACE-MS04-26-R,party
+house-MS-04,polymarket,1283986,Jeffrey Hulum III (D),D,polymarket_label,KXHOUSERACE-MS04-26-D,party
+house-MT-01,kalshi,HOUSEMT1-26-D,Sam Forstag,D,kalshi_suffix,942843,party
+house-MT-01,kalshi,HOUSEMT1-26-R,Aaron Flint,R,kalshi_suffix,942841,party
+house-MT-01,polymarket,942841,Aaron Flint (R),R,polymarket_label,HOUSEMT1-26-R,party
+house-MT-01,polymarket,942843,Sam Forstag (D),D,polymarket_label,HOUSEMT1-26-D,party
+house-MT-02,kalshi,KXHOUSERACE-MT02-26-D,Brian Miller,D,kalshi_suffix,1283994,party
+house-MT-02,kalshi,KXHOUSERACE-MT02-26-R,Troy Downing,R,kalshi_suffix,1283993,party
+house-MT-02,polymarket,1283993,Troy Downing (R),R,polymarket_label,KXHOUSERACE-MT02-26-R,party
+house-MT-02,polymarket,1283994,Brian Miller (D),D,polymarket_label,KXHOUSERACE-MT02-26-D,party
+house-NC-01,kalshi,HOUSENC1-26-D,Don Davis,D,kalshi_suffix,943477,party
+house-NC-01,kalshi,HOUSENC1-26-R,Laurie Buckhout,R,kalshi_suffix,943476,party
+house-NC-01,polymarket,943476,Laurie Buckhout (R),R,polymarket_label,HOUSENC1-26-R,party
+house-NC-01,polymarket,943477,Don Davis (D),D,polymarket_label,HOUSENC1-26-D,party
+house-NC-02,kalshi,KXHOUSERACE-NC02-26-D,Deborah Ross,D,kalshi_suffix,1284002,party
+house-NC-02,kalshi,KXHOUSERACE-NC02-26-R,Gene Douglass,R,kalshi_suffix,,party
+house-NC-02,polymarket,1284001,Eugene Douglass (R),R,polymarket_label,,party
+house-NC-02,polymarket,1284002,Deborah Ross (D),D,polymarket_label,KXHOUSERACE-NC02-26-D,party
+house-NC-03,kalshi,KXHOUSERACE-NC03-26-D,Raymond Smith Jr.,D,kalshi_suffix,1284010,party
+house-NC-03,kalshi,KXHOUSERACE-NC03-26-R,Greg Murphy,R,kalshi_suffix,1284009,party
+house-NC-03,polymarket,1284009,Greg Murphy (R),R,polymarket_label,KXHOUSERACE-NC03-26-R,party
+house-NC-03,polymarket,1284010,Raymond Smith Jr. (D),D,polymarket_label,KXHOUSERACE-NC03-26-D,party
+house-NC-04,kalshi,KXHOUSERACE-NC04-26-D,Valerie Foushee,D,kalshi_suffix,1284018,party
+house-NC-04,kalshi,KXHOUSERACE-NC04-26-R,Max Ganorkar,R,kalshi_suffix,1284017,party
+house-NC-04,polymarket,1284017,Max Ganorkar (R),R,polymarket_label,KXHOUSERACE-NC04-26-R,party
+house-NC-04,polymarket,1284018,Valerie Foushee (D),D,polymarket_label,KXHOUSERACE-NC04-26-D,party
+house-NC-05,kalshi,KXHOUSERACE-NC05-26-D,Chuck Hubbard,D,kalshi_suffix,1284026,party
+house-NC-05,kalshi,KXHOUSERACE-NC05-26-R,Virginia Foxx,R,kalshi_suffix,1284025,party
+house-NC-05,polymarket,1284025,Virginia Foxx (R),R,polymarket_label,KXHOUSERACE-NC05-26-R,party
+house-NC-05,polymarket,1284026,Chuck Hubbard (D),D,polymarket_label,KXHOUSERACE-NC05-26-D,party
+house-NC-06,kalshi,KXHOUSERACE-NC06-26-D,Cyril Jefferson,D,kalshi_suffix,1284034,party
+house-NC-06,kalshi,KXHOUSERACE-NC06-26-R,Addison McDowell,R,kalshi_suffix,1284033,party
+house-NC-06,polymarket,1284033,Addison McDowell (R),R,polymarket_label,KXHOUSERACE-NC06-26-R,party
+house-NC-06,polymarket,1284034,Cyril Jefferson (D),D,polymarket_label,KXHOUSERACE-NC06-26-D,party
+house-NC-07,kalshi,KXHOUSERACE-NC07-26-D,Kim Hardy,D,kalshi_suffix,,party
+house-NC-07,kalshi,KXHOUSERACE-NC07-26-R,David Rouzer,R,kalshi_suffix,1284041,party
+house-NC-07,polymarket,1284041,David Rouzer (R),R,polymarket_label,KXHOUSERACE-NC07-26-R,party
+house-NC-07,polymarket,1284042,Kimberly Hardy (D),D,polymarket_label,,party
+house-NC-08,kalshi,KXHOUSERACE-NC08-26-D,Colby Watson,D,kalshi_suffix,1284050,party
+house-NC-08,kalshi,KXHOUSERACE-NC08-26-R,Mark Harris,R,kalshi_suffix,1284049,party
+house-NC-08,polymarket,1284049,Mark Harris (R),R,polymarket_label,KXHOUSERACE-NC08-26-R,party
+house-NC-08,polymarket,1284050,Colby Watson (D),D,polymarket_label,KXHOUSERACE-NC08-26-D,party
+house-NC-09,kalshi,KXHOUSERACE-NC09-26-D,Richard Ojeda,D,kalshi_suffix,1284058,party
+house-NC-09,kalshi,KXHOUSERACE-NC09-26-R,Richard Hudson,R,kalshi_suffix,1284057,party
+house-NC-09,polymarket,1284057,Richard Hudson (R),R,polymarket_label,KXHOUSERACE-NC09-26-R,party
+house-NC-09,polymarket,1284058,Richard Ojeda (D),D,polymarket_label,KXHOUSERACE-NC09-26-D,party
+house-NC-10,kalshi,KXHOUSERACE-NC10-26-D,Ashley Bell,D,kalshi_suffix,1284066,party
+house-NC-10,kalshi,KXHOUSERACE-NC10-26-R,Pat Harrigan,R,kalshi_suffix,1284065,party
+house-NC-10,polymarket,1284065,Pat Harrigan (R),R,polymarket_label,KXHOUSERACE-NC10-26-R,party
+house-NC-10,polymarket,1284066,Ashley Bell (D),D,polymarket_label,KXHOUSERACE-NC10-26-D,party
+house-NC-11,kalshi,KXHOUSENC11-26-DEM,Jamie Ager,D,kalshi_suffix,943542,party
+house-NC-11,kalshi,KXHOUSENC11-26-GOP,Jennifer Balkcom,R,kalshi_suffix,943539,party
+house-NC-11,polymarket,943539,Jennifer Balkcom (R),R,polymarket_label,KXHOUSENC11-26-GOP,party
+house-NC-11,polymarket,943542,Jamie Ager (D),D,polymarket_label,KXHOUSENC11-26-DEM,party
+house-NC-12,kalshi,KXHOUSERACE-NC12-26-D,Alma Adams,D,kalshi_suffix,1284074,party
+house-NC-12,kalshi,KXHOUSERACE-NC12-26-R,Jack Codiga,R,kalshi_suffix,1284073,party
+house-NC-12,polymarket,1284073,Jack Codiga (R),R,polymarket_label,KXHOUSERACE-NC12-26-R,party
+house-NC-12,polymarket,1284074,Alma Adams (D),D,polymarket_label,KXHOUSERACE-NC12-26-D,party
+house-NC-13,kalshi,KXHOUSERACE-NC13-26-D,Paul Barringer,D,kalshi_suffix,1284082,party
+house-NC-13,kalshi,KXHOUSERACE-NC13-26-R,Brad Knott,R,kalshi_suffix,1284081,party
+house-NC-13,polymarket,1284081,Brad Knott (R),R,polymarket_label,KXHOUSERACE-NC13-26-R,party
+house-NC-13,polymarket,1284082,Paul Barringer (D),D,polymarket_label,KXHOUSERACE-NC13-26-D,party
+house-NC-14,kalshi,KXHOUSERACE-NC14-26-D,LaKesha Womack,D,kalshi_suffix,1284090,party
+house-NC-14,kalshi,KXHOUSERACE-NC14-26-R,Tim Moore,R,kalshi_suffix,1284089,party
+house-NC-14,polymarket,1284089,Tim Moore (R),R,polymarket_label,KXHOUSERACE-NC14-26-R,party
+house-NC-14,polymarket,1284090,Lakesha Womack (D),D,polymarket_label,KXHOUSERACE-NC14-26-D,party
+house-ND-AL,kalshi,KXHOUSERACE-NDAL-26-D,Trygve Hammer,D,kalshi_suffix,1284098,party
+house-ND-AL,kalshi,KXHOUSERACE-NDAL-26-R,Julie Fedorchak,R,kalshi_suffix,1284097,party
+house-ND-AL,polymarket,1284097,Julie Fedorchak (R),R,polymarket_label,KXHOUSERACE-NDAL-26-R,party
+house-ND-AL,polymarket,1284098,Trygve Hammer (D),D,polymarket_label,KXHOUSERACE-NDAL-26-D,party
+house-NE-01,kalshi,KXHOUSERACE-NE01-26-AAHL,Austin Ahlman,,,,person
+house-NE-01,kalshi,KXHOUSERACE-NE01-26-D,Chris Backemeyer,D,kalshi_suffix,1284106,party
+house-NE-01,kalshi,KXHOUSERACE-NE01-26-R,Mike Flood,R,kalshi_suffix,1284105,party
+house-NE-01,polymarket,1284105,Mike Flood (R),R,polymarket_label,KXHOUSERACE-NE01-26-R,party
+house-NE-01,polymarket,1284106,Chris Backemeyer (D),D,polymarket_label,KXHOUSERACE-NE01-26-D,party
+house-NE-02,kalshi,HOUSENE2-26-D,Denise Powell,D,kalshi_suffix,942878,party
+house-NE-02,kalshi,HOUSENE2-26-R,Brinker Harding,R,kalshi_suffix,942877,party
+house-NE-02,polymarket,942877,Brinker Harding (R),R,polymarket_label,HOUSENE2-26-R,party
+house-NE-02,polymarket,942878,Denise Powell (D),D,polymarket_label,HOUSENE2-26-D,party
+house-NE-03,kalshi,KXHOUSERACE-NE03-26-D,Becky Stille,D,kalshi_suffix,1284114,party
+house-NE-03,kalshi,KXHOUSERACE-NE03-26-R,Adrian Smith,R,kalshi_suffix,1284113,party
+house-NE-03,polymarket,1284113,Adrian Smith (R),R,polymarket_label,KXHOUSERACE-NE03-26-R,party
+house-NE-03,polymarket,1284114,Becky Stille (D),D,polymarket_label,KXHOUSERACE-NE03-26-D,party
+house-NH-01,kalshi,HOUSENH1-26-D,Stefany Shaheen,D,kalshi_suffix,942910,party
+house-NH-01,kalshi,HOUSENH1-26-R,Anthony DiLorenzo,R,kalshi_suffix,942909,party
+house-NH-01,polymarket,942909,Anthony DiLorenzo (R),R,polymarket_label,HOUSENH1-26-R,party
+house-NH-01,polymarket,942910,Stefany Shaheen (D),D,polymarket_label,HOUSENH1-26-D,party
+house-NH-02,kalshi,KXHOUSERACE-NH02-26-D,Maggie Goodlander,D,kalshi_suffix,942928,party
+house-NH-02,kalshi,KXHOUSERACE-NH02-26-R,Lily Tang Williams,R,kalshi_suffix,942927,party
+house-NH-02,polymarket,942927,Lily Tang Williams (R),R,polymarket_label,KXHOUSERACE-NH02-26-R,party
+house-NH-02,polymarket,942928,Maggie Goodlander (D),D,polymarket_label,KXHOUSERACE-NH02-26-D,party
+house-NJ-01,kalshi,KXHOUSERACE-NJ01-26-D,Donald Norcross,D,kalshi_suffix,1284122,party
+house-NJ-01,kalshi,KXHOUSERACE-NJ01-26-R,Damon Galdo,R,kalshi_suffix,1284121,party
+house-NJ-01,polymarket,1284121,Damon Galdo (R),R,polymarket_label,KXHOUSERACE-NJ01-26-R,party
+house-NJ-01,polymarket,1284122,Donald Norcross (D),D,polymarket_label,KXHOUSERACE-NJ01-26-D,party
+house-NJ-02,kalshi,KXHOUSERACE-NJ02-26-D,Zack Mullock,D,kalshi_suffix,1284130,party
+house-NJ-02,kalshi,KXHOUSERACE-NJ02-26-R,Jeff Van Drew,R,kalshi_suffix,1284129,party
+house-NJ-02,polymarket,1284129,Jeff Van Drew (R),R,polymarket_label,KXHOUSERACE-NJ02-26-R,party
+house-NJ-02,polymarket,1284130,Zack Mullock (D),D,polymarket_label,KXHOUSERACE-NJ02-26-D,party
+house-NJ-03,kalshi,KXHOUSERACE-NJ03-26-D,Herb Conaway,D,kalshi_suffix,1284138,party
+house-NJ-03,kalshi,KXHOUSERACE-NJ03-26-R,Michael McGuire,R,kalshi_suffix,1284137,party
+house-NJ-03,polymarket,1284137,Michael McGuire (R),R,polymarket_label,KXHOUSERACE-NJ03-26-R,party
+house-NJ-03,polymarket,1284138,Herb Conaway (D),D,polymarket_label,KXHOUSERACE-NJ03-26-D,party
+house-NJ-04,kalshi,KXHOUSERACE-NJ04-26-D,Rachel Peace,D,kalshi_suffix,1284146,party
+house-NJ-04,kalshi,KXHOUSERACE-NJ04-26-R,Chris Smith,R,kalshi_suffix,1284145,party
+house-NJ-04,polymarket,1284145,Chris Smith (R),R,polymarket_label,KXHOUSERACE-NJ04-26-R,party
+house-NJ-04,polymarket,1284146,Rachel Peace (D),D,polymarket_label,KXHOUSERACE-NJ04-26-D,party
+house-NJ-05,kalshi,HOUSENJ5-26-D,Josh Gottheimer,D,kalshi_suffix,942971,party
+house-NJ-05,kalshi,HOUSENJ5-26-R,Sean Kirrane,R,kalshi_suffix,942970,party
+house-NJ-05,polymarket,942970,Sean Kirrane (R),R,polymarket_label,HOUSENJ5-26-R,party
+house-NJ-05,polymarket,942971,Josh Gottheimer (D),D,polymarket_label,HOUSENJ5-26-D,party
+house-NJ-06,kalshi,KXHOUSERACE-NJ06-26-D,Frank Pallone,D,kalshi_suffix,1284154,party
+house-NJ-06,kalshi,KXHOUSERACE-NJ06-26-R,Hillary Herzig,R,kalshi_suffix,1284153,party
+house-NJ-06,polymarket,1284153,Hillary Herzig (R),R,polymarket_label,KXHOUSERACE-NJ06-26-R,party
+house-NJ-06,polymarket,1284154,Frank Pallone (D),D,polymarket_label,KXHOUSERACE-NJ06-26-D,party
+house-NJ-07,kalshi,HOUSENJ7-26-D,Rebecca Bennett,D,kalshi_suffix,942979,party
+house-NJ-07,kalshi,HOUSENJ7-26-R,Thomas Kean Jr.,R,kalshi_suffix,942978,party
+house-NJ-07,polymarket,942978,Thomas Kean Jr. (R),R,polymarket_label,HOUSENJ7-26-R,party
+house-NJ-07,polymarket,942979,Rebecca Bennett (D),D,polymarket_label,HOUSENJ7-26-D,party
+house-NJ-08,kalshi,KXHOUSERACE-NJ08-26-D,Rob Menendez,D,kalshi_suffix,1284163,party
+house-NJ-08,kalshi,KXHOUSERACE-NJ08-26-R,Republican party,R,kalshi_suffix,,party
+house-NJ-08,polymarket,1284162,Republican Party,R,polymarket_label,,party
+house-NJ-08,polymarket,1284163,Rob Menendez (D),D,polymarket_label,KXHOUSERACE-NJ08-26-D,party
+house-NJ-09,kalshi,HOUSENJ9-26-D,Nellie Pou,D,kalshi_suffix,942987,party
+house-NJ-09,kalshi,HOUSENJ9-26-R,Rosie Pino,R,kalshi_suffix,942986,party
+house-NJ-09,polymarket,942986,Rosie Pino (R),R,polymarket_label,HOUSENJ9-26-R,party
+house-NJ-09,polymarket,942987,Nellie Pou (D),D,polymarket_label,HOUSENJ9-26-D,party
+house-NJ-10,kalshi,KXHOUSERACE-NJ10-26-D,LaMonica McIver,D,kalshi_suffix,1284171,party
+house-NJ-10,kalshi,KXHOUSERACE-NJ10-26-R,Carmen Bucco,R,kalshi_suffix,1284170,party
+house-NJ-10,polymarket,1284170,Carmen Bucco (R),R,polymarket_label,KXHOUSERACE-NJ10-26-R,party
+house-NJ-10,polymarket,1284171,LaMonica McIver (D),D,polymarket_label,KXHOUSERACE-NJ10-26-D,party
+house-NJ-11,kalshi,KXHOUSERACE-NJ11-26-D,Analilia Mejia,D,kalshi_suffix,1284179,party
+house-NJ-11,kalshi,KXHOUSERACE-NJ11-26-R,Joe Hathaway,R,kalshi_suffix,1284178,party
+house-NJ-11,polymarket,1284178,Joe Hathaway (R),R,polymarket_label,KXHOUSERACE-NJ11-26-R,party
+house-NJ-11,polymarket,1284179,Analilia Mejia (D),D,polymarket_label,KXHOUSERACE-NJ11-26-D,party
+house-NJ-12,kalshi,KXHOUSERACE-NJ12-26-D,Adam Hamawy,D,kalshi_suffix,1284187,party
+house-NJ-12,kalshi,KXHOUSERACE-NJ12-26-R,Gregg Mele,R,kalshi_suffix,1284186,party
+house-NJ-12,polymarket,1284186,Gregg Mele (R),R,polymarket_label,KXHOUSERACE-NJ12-26-R,party
+house-NJ-12,polymarket,1284187,Adam Hamawy (D),D,polymarket_label,KXHOUSERACE-NJ12-26-D,party
+house-NM-01,kalshi,KXHOUSERACE-NM01-26-D,Melanie Stansbury,D,kalshi_suffix,1284195,party
+house-NM-01,kalshi,KXHOUSERACE-NM01-26-R,Didi Okpareke,R,kalshi_suffix,1284194,party
+house-NM-01,polymarket,1284194,Didi Okpareke (R),R,polymarket_label,KXHOUSERACE-NM01-26-R,party
+house-NM-01,polymarket,1284195,Melanie Stansbury (D),D,polymarket_label,KXHOUSERACE-NM01-26-D,party
+house-NM-02,kalshi,HOUSENM2-26-D,Gabe Vasquez,D,kalshi_suffix,942995,party
+house-NM-02,kalshi,HOUSENM2-26-R,Greg Cunningham,R,kalshi_suffix,942994,party
+house-NM-02,polymarket,942994,Greg Cunningham (R),R,polymarket_label,HOUSENM2-26-R,party
+house-NM-02,polymarket,942995,Gabe Vasquez (D),D,polymarket_label,HOUSENM2-26-D,party
+house-NM-03,kalshi,KXHOUSERACE-NM03-26-D,Teresa Leger Fernández,D,kalshi_suffix,1284203,party
+house-NM-03,kalshi,KXHOUSERACE-NM03-26-R,Martin Zamora,R,kalshi_suffix,1284202,party
+house-NM-03,polymarket,1284202,Martin Zamora (R),R,polymarket_label,KXHOUSERACE-NM03-26-R,party
+house-NM-03,polymarket,1284203,Teresa Leger Fernández (D),D,polymarket_label,KXHOUSERACE-NM03-26-D,party
+house-NV-01,kalshi,HOUSENV1-26-D,Dina Titus,D,kalshi_suffix,942886,party
+house-NV-01,kalshi,HOUSENV1-26-R,Carrie Buck,R,kalshi_suffix,942885,party
+house-NV-01,polymarket,942885,Carrie Buck (R),R,polymarket_label,HOUSENV1-26-R,party
+house-NV-01,polymarket,942886,Dina Titus (D),D,polymarket_label,HOUSENV1-26-D,party
+house-NV-02,kalshi,KXHOUSERACE-NV02-26-D,Teresa Benitez-Thompson,D,kalshi_suffix,1284211,party
+house-NV-02,kalshi,KXHOUSERACE-NV02-26-R,David Flippo,R,kalshi_suffix,1284210,party
+house-NV-02,polymarket,1284210,David Flippo (R),R,polymarket_label,KXHOUSERACE-NV02-26-R,party
+house-NV-02,polymarket,1284211,Teresa Benitez-Thompson (D),D,polymarket_label,KXHOUSERACE-NV02-26-D,party
+house-NV-03,kalshi,HOUSENV3-26-D,Susie Lee,D,kalshi_suffix,942894,party
+house-NV-03,kalshi,HOUSENV3-26-R,Martin O'Donnell,R,kalshi_suffix,942893,party
+house-NV-03,polymarket,942893,Martin O'Donnell (R),R,polymarket_label,HOUSENV3-26-R,party
+house-NV-03,polymarket,942894,Susie Lee (D),D,polymarket_label,HOUSENV3-26-D,party
+house-NV-04,kalshi,HOUSENV4-26-D,Steven Horsford,D,kalshi_suffix,942902,party
+house-NV-04,kalshi,HOUSENV4-26-R,Cody Whipple,R,kalshi_suffix,942901,party
+house-NV-04,polymarket,942901,Cody Whipple (R),R,polymarket_label,HOUSENV4-26-R,party
+house-NV-04,polymarket,942902,Steven Horsford (D),D,polymarket_label,HOUSENV4-26-D,party
+house-NY-01,kalshi,KXHOUSERACE-NY01-26-D,Chris Gallant,D,kalshi_suffix,1284219,party
+house-NY-01,kalshi,KXHOUSERACE-NY01-26-R,Nick LaLota,R,kalshi_suffix,1284218,party
+house-NY-01,polymarket,1284218,Nick LaLota (R),R,polymarket_label,KXHOUSERACE-NY01-26-R,party
+house-NY-01,polymarket,1284219,Chris Gallant (D),D,polymarket_label,KXHOUSERACE-NY01-26-D,party
+house-NY-02,kalshi,KXHOUSERACE-NY02-26-D,Patrick Halpin,D,kalshi_suffix,1284227,party
+house-NY-02,kalshi,KXHOUSERACE-NY02-26-R,Andrew Garbarino,R,kalshi_suffix,1284226,party
+house-NY-02,polymarket,1284226,Andrew Garbarino (R),R,polymarket_label,KXHOUSERACE-NY02-26-R,party
+house-NY-02,polymarket,1284227,Patrick Halpin (D),D,polymarket_label,KXHOUSERACE-NY02-26-D,party
+house-NY-03,kalshi,HOUSENY3-26-D,Tom Suozzi,D,kalshi_suffix,943003,party
+house-NY-03,kalshi,HOUSENY3-26-R,Mike LiPetri,R,kalshi_suffix,943002,party
+house-NY-03,polymarket,943002,Mike LiPetri (R),R,polymarket_label,HOUSENY3-26-R,party
+house-NY-03,polymarket,943003,Tom Suozzi (D),D,polymarket_label,HOUSENY3-26-D,party
+house-NY-04,kalshi,HOUSENY4-26-D,Laura Gillen,D,kalshi_suffix,943433,party
+house-NY-04,kalshi,HOUSENY4-26-R,Jeanine Driscoll,R,kalshi_suffix,943432,party
+house-NY-04,polymarket,943432,Jeanine Driscoll (R),R,polymarket_label,HOUSENY4-26-R,party
+house-NY-04,polymarket,943433,Laura Gillen (D),D,polymarket_label,HOUSENY4-26-D,party
+house-NY-05,kalshi,KXHOUSERACE-NY05-26-D,Gregory Meeks,D,kalshi_suffix,1284235,party
+house-NY-05,kalshi,KXHOUSERACE-NY05-26-R,George Marsh,R,kalshi_suffix,1284234,party
+house-NY-05,polymarket,1284234,George Marsh (R),R,polymarket_label,KXHOUSERACE-NY05-26-R,party
+house-NY-05,polymarket,1284235,Gregory Meeks (D),D,polymarket_label,KXHOUSERACE-NY05-26-D,party
+house-NY-06,kalshi,KXHOUSERACE-NY06-26-D,Grace Meng,D,kalshi_suffix,1284243,party
+house-NY-06,kalshi,KXHOUSERACE-NY06-26-R,Joseph Chou,R,kalshi_suffix,1284242,party
+house-NY-06,polymarket,1284242,Joseph Chou (R),R,polymarket_label,KXHOUSERACE-NY06-26-R,party
+house-NY-06,polymarket,1284243,Grace Meng (D),D,polymarket_label,KXHOUSERACE-NY06-26-D,party
+house-NY-07,kalshi,KXHOUSERACE-NY07-26-D,Claire Valdez,D,kalshi_suffix,1284251,party
+house-NY-07,kalshi,KXHOUSERACE-NY07-26-R,Melvin Rivera,R,kalshi_suffix,1284250,party
+house-NY-07,polymarket,1284250,Melvin Rivera (R),R,polymarket_label,KXHOUSERACE-NY07-26-R,party
+house-NY-07,polymarket,1284251,Claire Valdez (D),D,polymarket_label,KXHOUSERACE-NY07-26-D,party
+house-NY-08,kalshi,KXHOUSERACE-NY08-26-D,Hakeem Jeffries,D,kalshi_suffix,1284259,party
+house-NY-08,kalshi,KXHOUSERACE-NY08-26-R,Lewis Mizrahi,R,kalshi_suffix,1284258,party
+house-NY-08,polymarket,1284258,Lewis Mizrahi (R),R,polymarket_label,KXHOUSERACE-NY08-26-R,party
+house-NY-08,polymarket,1284259,Hakeem Jeffries (D),D,polymarket_label,KXHOUSERACE-NY08-26-D,party
+house-NY-09,kalshi,KXHOUSERACE-NY09-26-D,Yvette Clarke,D,kalshi_suffix,1284267,party
+house-NY-09,kalshi,KXHOUSERACE-NY09-26-R,Joel Anabilah-Azumah,R,kalshi_suffix,1284266,party
+house-NY-09,polymarket,1284266,Joel Anabilah-Azumah (R),R,polymarket_label,KXHOUSERACE-NY09-26-R,party
+house-NY-09,polymarket,1284267,Yvette Clarke (D),D,polymarket_label,KXHOUSERACE-NY09-26-D,party
+house-NY-10,kalshi,KXHOUSERACE-NY10-26-D,Brad Lander,D,kalshi_suffix,1284275,party
+house-NY-10,kalshi,KXHOUSERACE-NY10-26-R,Jennifer Moore,R,kalshi_suffix,1284274,party
+house-NY-10,polymarket,1284274,Jennifer Moore (R),R,polymarket_label,KXHOUSERACE-NY10-26-R,party
+house-NY-10,polymarket,1284275,Brad Lander (D),D,polymarket_label,KXHOUSERACE-NY10-26-D,party
+house-NY-11,kalshi,KXHOUSERACE-NY11-26-D,Michael DeCillis,D,kalshi_suffix,1284283,party
+house-NY-11,kalshi,KXHOUSERACE-NY11-26-R,Nicole Malliotakis,R,kalshi_suffix,1284282,party
+house-NY-11,polymarket,1284282,Nicole Malliotakis (R),R,polymarket_label,KXHOUSERACE-NY11-26-R,party
+house-NY-11,polymarket,1284283,Michael DeCillis (D),D,polymarket_label,KXHOUSERACE-NY11-26-D,party
+house-NY-12,kalshi,KXHOUSERACE-NY12-26-D,Micah Lasher,D,kalshi_suffix,1284291,party
+house-NY-12,kalshi,KXHOUSERACE-NY12-26-R,Caroline Shinkle,R,kalshi_suffix,1284290,party
+house-NY-12,polymarket,1284290,Caroline Shinkle (R),R,polymarket_label,KXHOUSERACE-NY12-26-R,party
+house-NY-12,polymarket,1284291,Micah Lasher (D),D,polymarket_label,KXHOUSERACE-NY12-26-D,party
+house-NY-13,kalshi,KXHOUSERACE-NY13-26-D,Darializa Avila Chevalier,D,kalshi_suffix,1284299,party
+house-NY-13,kalshi,KXHOUSERACE-NY13-26-R,"Manual ""Jomo"" Williams",R,kalshi_suffix,,party
+house-NY-13,polymarket,1284298,Jomo Williams (R),R,polymarket_label,,party
+house-NY-13,polymarket,1284299,Darializa Avila Chevalier (D),D,polymarket_label,KXHOUSERACE-NY13-26-D,party
+house-NY-14,kalshi,KXHOUSERACE-NY14-26-D,Alexandria Ocasio-Cortez,D,kalshi_suffix,1284307,party
+house-NY-14,kalshi,KXHOUSERACE-NY14-26-R,Diamant Hysenaj,R,kalshi_suffix,1284306,party
+house-NY-14,polymarket,1284306,Diamant Hysenaj (R),R,polymarket_label,KXHOUSERACE-NY14-26-R,party
+house-NY-14,polymarket,1284307,Alexandria Ocasio-Cortez (D),D,polymarket_label,KXHOUSERACE-NY14-26-D,party
+house-NY-15,kalshi,KXHOUSERACE-NY15-26-D,Ritchie Torres,D,kalshi_suffix,1284315,party
+house-NY-15,kalshi,KXHOUSERACE-NY15-26-R,Stylo Sapaskis,R,kalshi_suffix,1284314,party
+house-NY-15,polymarket,1284314,Stylo Sapaskis (R),R,polymarket_label,KXHOUSERACE-NY15-26-R,party
+house-NY-15,polymarket,1284315,Ritchie Torres (D),D,polymarket_label,KXHOUSERACE-NY15-26-D,party
+house-NY-16,kalshi,KXHOUSERACE-NY16-26-D,George Latimer,D,kalshi_suffix,1284323,party
+house-NY-16,kalshi,KXHOUSERACE-NY16-26-R,Joseph Cinquemani,R,kalshi_suffix,1284322,party
+house-NY-16,polymarket,1284322,Joseph Cinquemani (R),R,polymarket_label,KXHOUSERACE-NY16-26-R,party
+house-NY-16,polymarket,1284323,George Latimer (D),D,polymarket_label,KXHOUSERACE-NY16-26-D,party
+house-NY-17,kalshi,HOUSENY17-26-D,Cait Conley,D,kalshi_suffix,943441,party
+house-NY-17,kalshi,HOUSENY17-26-R,Mike Lawler,R,kalshi_suffix,943440,party
+house-NY-17,polymarket,943440,Mike Lawler (R),R,polymarket_label,HOUSENY17-26-R,party
+house-NY-17,polymarket,943441,Cait Conley (D),D,polymarket_label,HOUSENY17-26-D,party
+house-NY-18,kalshi,HOUSENY18-26-D,Pat Ryan,D,kalshi_suffix,943449,party
+house-NY-18,kalshi,HOUSENY18-26-R,Jacqueline Auringer,R,kalshi_suffix,943448,party
+house-NY-18,polymarket,943448,Jacqueline Auringer (R),R,polymarket_label,HOUSENY18-26-R,party
+house-NY-18,polymarket,943449,Pat Ryan (D),D,polymarket_label,HOUSENY18-26-D,party
+house-NY-19,kalshi,HOUSENY19-26-D,Josh Riley,D,kalshi_suffix,943457,party
+house-NY-19,kalshi,HOUSENY19-26-R,Peter Oberacker,R,kalshi_suffix,943456,party
+house-NY-19,polymarket,943456,Peter Oberacker (R),R,polymarket_label,HOUSENY19-26-R,party
+house-NY-19,polymarket,943457,Josh Riley (D),D,polymarket_label,HOUSENY19-26-D,party
+house-NY-20,kalshi,KXHOUSERACE-NY20-26-D,Paul Tonko,D,kalshi_suffix,1284331,party
+house-NY-20,kalshi,KXHOUSERACE-NY20-26-R,Ralph Ambrosio,R,kalshi_suffix,1284330,party
+house-NY-20,polymarket,1284330,Ralph Ambrosio (R),R,polymarket_label,KXHOUSERACE-NY20-26-R,party
+house-NY-20,polymarket,1284331,Paul Tonko (D),D,polymarket_label,KXHOUSERACE-NY20-26-D,party
+house-NY-21,kalshi,KXHOUSERACE-NY21-26-D,Blake Gendebien,D,kalshi_suffix,1284339,party
+house-NY-21,kalshi,KXHOUSERACE-NY21-26-R,Anthony Constantino,R,kalshi_suffix,1284338,party
+house-NY-21,polymarket,1284338,Anthony Constantino (R),R,polymarket_label,KXHOUSERACE-NY21-26-R,party
+house-NY-21,polymarket,1284339,Blake Gendebien (D),D,polymarket_label,KXHOUSERACE-NY21-26-D,party
+house-NY-22,kalshi,HOUSENY22-26-D,John Mannion,D,kalshi_suffix,943469,party
+house-NY-22,kalshi,HOUSENY22-26-R,Kailee Buller,R,kalshi_suffix,943468,party
+house-NY-22,polymarket,943468,Kailee Buller (R),R,polymarket_label,HOUSENY22-26-R,party
+house-NY-22,polymarket,943469,John Mannion (D),D,polymarket_label,HOUSENY22-26-D,party
+house-NY-23,kalshi,KXHOUSERACE-NY23-26-D,Aaron Gies,D,kalshi_suffix,1284347,party
+house-NY-23,kalshi,KXHOUSERACE-NY23-26-R,Nick Langworthy,R,kalshi_suffix,1284346,party
+house-NY-23,polymarket,1284346,Nick Langworthy (R),R,polymarket_label,KXHOUSERACE-NY23-26-R,party
+house-NY-23,polymarket,1284347,Aaron Gies (D),D,polymarket_label,KXHOUSERACE-NY23-26-D,party
+house-NY-24,kalshi,KXHOUSERACE-NY24-26-D,Alissa Ellman,D,kalshi_suffix,1284355,party
+house-NY-24,kalshi,KXHOUSERACE-NY24-26-R,Claudia Tenney,R,kalshi_suffix,1284354,party
+house-NY-24,polymarket,1284354,Claudia Tenney (R),R,polymarket_label,KXHOUSERACE-NY24-26-R,party
+house-NY-24,polymarket,1284355,Alissa Ellman (D),D,polymarket_label,KXHOUSERACE-NY24-26-D,party
+house-NY-25,kalshi,KXHOUSERACE-NY25-26-D,Joseph Morelle,D,kalshi_suffix,1284363,party
+house-NY-25,kalshi,KXHOUSERACE-NY25-26-R,Virginia McIntyre,R,kalshi_suffix,1284362,party
+house-NY-25,polymarket,1284362,Virginia McIntyre (R),R,polymarket_label,KXHOUSERACE-NY25-26-R,party
+house-NY-25,polymarket,1284363,Joseph Morelle (D),D,polymarket_label,KXHOUSERACE-NY25-26-D,party
+house-NY-26,kalshi,KXHOUSERACE-NY26-26-D,Tim Kennedy,D,kalshi_suffix,1284371,party
+house-NY-26,kalshi,KXHOUSERACE-NY26-26-R,Dennis Hannon,R,kalshi_suffix,1284370,party
+house-NY-26,polymarket,1284370,Dennis Hannon (R),R,polymarket_label,KXHOUSERACE-NY26-26-R,party
+house-NY-26,polymarket,1284371,Tim Kennedy (D),D,polymarket_label,KXHOUSERACE-NY26-26-D,party
+house-OH-01,kalshi,HOUSEOH1-26-D,Greg Landsman,D,kalshi_suffix,943559,party
+house-OH-01,kalshi,HOUSEOH1-26-R,Eric Conroy,R,kalshi_suffix,943558,party
+house-OH-01,polymarket,943558,Eric Conroy (R),R,polymarket_label,HOUSEOH1-26-R,party
+house-OH-01,polymarket,943559,Greg Landsman (D),D,polymarket_label,HOUSEOH1-26-D,party
+house-OH-02,kalshi,KXHOUSERACE-OH02-26-D,Jennifer Mazzuckelli,D,kalshi_suffix,1284379,party
+house-OH-02,kalshi,KXHOUSERACE-OH02-26-R,David Taylor,R,kalshi_suffix,1284378,party
+house-OH-02,polymarket,1284378,David Taylor (R),R,polymarket_label,KXHOUSERACE-OH02-26-R,party
+house-OH-02,polymarket,1284379,Jennifer Mazzuckelli (D),D,polymarket_label,KXHOUSERACE-OH02-26-D,party
+house-OH-03,kalshi,KXHOUSERACE-OH03-26-D,Joyce Beatty,D,kalshi_suffix,1284387,party
+house-OH-03,kalshi,KXHOUSERACE-OH03-26-R,Cleophus Dulaney,R,kalshi_suffix,1284386,party
+house-OH-03,polymarket,1284386,Cleophus Dulaney (R),R,polymarket_label,KXHOUSERACE-OH03-26-R,party
+house-OH-03,polymarket,1284387,Joyce Beatty (D),D,polymarket_label,KXHOUSERACE-OH03-26-D,party
+house-OH-04,kalshi,KXHOUSERACE-OH04-26-D,Joshua Kolasinski,D,kalshi_suffix,1284395,party
+house-OH-04,kalshi,KXHOUSERACE-OH04-26-R,Jim Jordan,R,kalshi_suffix,1284394,party
+house-OH-04,polymarket,1284394,Jim Jordan (R),R,polymarket_label,KXHOUSERACE-OH04-26-R,party
+house-OH-04,polymarket,1284395,Joshua Kolasinski (D),D,polymarket_label,KXHOUSERACE-OH04-26-D,party
+house-OH-05,kalshi,KXHOUSERACE-OH05-26-D,Brian Shaver,D,kalshi_suffix,1284404,party
+house-OH-05,kalshi,KXHOUSERACE-OH05-26-R,Bob Latta,R,kalshi_suffix,1284403,party
+house-OH-05,polymarket,1284403,Bob Latta (R),R,polymarket_label,KXHOUSERACE-OH05-26-R,party
+house-OH-05,polymarket,1284404,Brian Shaver (D),D,polymarket_label,KXHOUSERACE-OH05-26-D,party
+house-OH-06,kalshi,KXHOUSERACE-OH06-26-D,Elizabeth Kirtley,D,kalshi_suffix,1284412,party
+house-OH-06,kalshi,KXHOUSERACE-OH06-26-R,Michael Rulli,R,kalshi_suffix,1284411,party
+house-OH-06,polymarket,1284411,Michael Rulli (R),R,polymarket_label,KXHOUSERACE-OH06-26-R,party
+house-OH-06,polymarket,1284412,Elizabeth Kirtley (D),D,polymarket_label,KXHOUSERACE-OH06-26-D,party
+house-OH-07,kalshi,KXHOUSERACE-OH07-26-D,Brian Poindexter,D,kalshi_suffix,1284420,party
+house-OH-07,kalshi,KXHOUSERACE-OH07-26-R,Max Miller,R,kalshi_suffix,1284419,party
+house-OH-07,polymarket,1284419,Max Miller (R),R,polymarket_label,KXHOUSERACE-OH07-26-R,party
+house-OH-07,polymarket,1284420,Brian Poindexter (D),D,polymarket_label,KXHOUSERACE-OH07-26-D,party
+house-OH-08,kalshi,KXHOUSERACE-OH08-26-D,Vanessa Enoch,D,kalshi_suffix,1284428,party
+house-OH-08,kalshi,KXHOUSERACE-OH08-26-R,Warren Davidson,R,kalshi_suffix,1284427,party
+house-OH-08,polymarket,1284427,Warren Davidson (R),R,polymarket_label,KXHOUSERACE-OH08-26-R,party
+house-OH-08,polymarket,1284428,Vanessa Enoch (D),D,polymarket_label,KXHOUSERACE-OH08-26-D,party
+house-OH-09,kalshi,HOUSEOH9-26-D,Marcy Kaptur,D,kalshi_suffix,943571,party
+house-OH-09,kalshi,HOUSEOH9-26-R,Derek Merrin,R,kalshi_suffix,943570,party
+house-OH-09,polymarket,943570,Derek Merrin (R),R,polymarket_label,HOUSEOH9-26-R,party
+house-OH-09,polymarket,943571,Marcy Kaptur (D),D,polymarket_label,HOUSEOH9-26-D,party
+house-OH-10,kalshi,KXHOUSERACE-OH10-26-D,Kristina Knickerbocker,D,kalshi_suffix,1284436,party
+house-OH-10,kalshi,KXHOUSERACE-OH10-26-R,Mike Turner,R,kalshi_suffix,1284435,party
+house-OH-10,polymarket,1284435,Mike Turner (R),R,polymarket_label,KXHOUSERACE-OH10-26-R,party
+house-OH-10,polymarket,1284436,Kristina Knickerbocker (D),D,polymarket_label,KXHOUSERACE-OH10-26-D,party
+house-OH-11,kalshi,KXHOUSERACE-OH11-26-D,Shontel Brown,D,kalshi_suffix,1284444,party
+house-OH-11,kalshi,KXHOUSERACE-OH11-26-R,Mike Kirchner,R,kalshi_suffix,1284443,party
+house-OH-11,polymarket,1284443,Mike Kirchner (R),R,polymarket_label,KXHOUSERACE-OH11-26-R,party
+house-OH-11,polymarket,1284444,Shontel Brown (D),D,polymarket_label,KXHOUSERACE-OH11-26-D,party
+house-OH-12,kalshi,KXHOUSERACE-OH12-26-D,Jerrad Christian,D,kalshi_suffix,1284452,party
+house-OH-12,kalshi,KXHOUSERACE-OH12-26-R,Troy Balderson,R,kalshi_suffix,1284451,party
+house-OH-12,polymarket,1284451,Troy Balderson (R),R,polymarket_label,KXHOUSERACE-OH12-26-R,party
+house-OH-12,polymarket,1284452,Jerrad Christian (D),D,polymarket_label,KXHOUSERACE-OH12-26-D,party
+house-OH-13,kalshi,HOUSEOH13-26-D,Emilia Sykes,D,kalshi_suffix,943579,party
+house-OH-13,kalshi,HOUSEOH13-26-R,Carey Coleman,R,kalshi_suffix,943578,party
+house-OH-13,polymarket,943578,Carey Coleman (R),R,polymarket_label,HOUSEOH13-26-R,party
+house-OH-13,polymarket,943579,Emilia Sykes (D),D,polymarket_label,HOUSEOH13-26-D,party
+house-OH-14,kalshi,KXHOUSERACE-OH14-26-D,Maria Jukic,D,kalshi_suffix,1284460,party
+house-OH-14,kalshi,KXHOUSERACE-OH14-26-R,David Joyce,R,kalshi_suffix,1284459,party
+house-OH-14,polymarket,1284459,David Joyce (R),R,polymarket_label,KXHOUSERACE-OH14-26-R,party
+house-OH-14,polymarket,1284460,Maria Jukic (D),D,polymarket_label,KXHOUSERACE-OH14-26-D,party
+house-OH-15,kalshi,KXHOUSERACE-OH15-26-D,Don Leonard,D,kalshi_suffix,1284468,party
+house-OH-15,kalshi,KXHOUSERACE-OH15-26-R,Mike Carey,R,kalshi_suffix,1284467,party
+house-OH-15,polymarket,1284467,Mike Carey (R),R,polymarket_label,KXHOUSERACE-OH15-26-R,party
+house-OH-15,polymarket,1284468,Don Leonard (D),D,polymarket_label,KXHOUSERACE-OH15-26-D,party
+house-OK-01,kalshi,KXHOUSERACE-OK01-26-D,John Croisant,D,kalshi_suffix,1284476,party
+house-OK-01,kalshi,KXHOUSERACE-OK01-26-R,Mark Tedford,R,kalshi_suffix,1284475,party
+house-OK-01,polymarket,1284475,Mark Tedford (R),R,polymarket_label,KXHOUSERACE-OK01-26-R,party
+house-OK-01,polymarket,1284476,John Croisant (D),D,polymarket_label,KXHOUSERACE-OK01-26-D,party
+house-OK-02,kalshi,KXHOUSERACE-OK02-26-D,Brandon Wade,D,kalshi_suffix,1284488,party
+house-OK-02,kalshi,KXHOUSERACE-OK02-26-R,Josh Brecheen,R,kalshi_suffix,1284487,party
+house-OK-02,polymarket,1284487,Josh Brecheen (R),R,polymarket_label,KXHOUSERACE-OK02-26-R,party
+house-OK-02,polymarket,1284488,Brandon Wade (D),D,polymarket_label,KXHOUSERACE-OK02-26-D,party
+house-OK-03,kalshi,KXHOUSERACE-OK03-26-D,Suzie Byrd,D,kalshi_suffix,1284496,party
+house-OK-03,kalshi,KXHOUSERACE-OK03-26-R,Frank Lucas,R,kalshi_suffix,1284495,party
+house-OK-03,polymarket,1284495,Frank Lucas (R),R,polymarket_label,KXHOUSERACE-OK03-26-R,party
+house-OK-03,polymarket,1284496,Suzie Byrd (D),D,polymarket_label,KXHOUSERACE-OK03-26-D,party
+house-OK-04,kalshi,KXHOUSERACE-OK04-26-D,Mitchell Jacob,D,kalshi_suffix,1284504,party
+house-OK-04,kalshi,KXHOUSERACE-OK04-26-R,Tom Cole,R,kalshi_suffix,1284503,party
+house-OK-04,polymarket,1284503,Tom Cole (R),R,polymarket_label,KXHOUSERACE-OK04-26-R,party
+house-OK-04,polymarket,1284504,Mitchell Jacob (D),D,polymarket_label,KXHOUSERACE-OK04-26-D,party
+house-OK-05,kalshi,KXHOUSERACE-OK05-26-D,Jena Nelson,D,kalshi_suffix,1284512,party
+house-OK-05,kalshi,KXHOUSERACE-OK05-26-R,Stephanie Bice,R,kalshi_suffix,1284511,party
+house-OK-05,polymarket,1284511,Stephanie Bice (R),R,polymarket_label,KXHOUSERACE-OK05-26-R,party
+house-OK-05,polymarket,1284512,Jena Nelson (D),D,polymarket_label,KXHOUSERACE-OK05-26-D,party
+house-OR-01,kalshi,KXHOUSERACE-OR01-26-D,Suzanne Bonamici,D,kalshi_suffix,1284520,party
+house-OR-01,kalshi,KXHOUSERACE-OR01-26-R,Barbara Kahl,R,kalshi_suffix,1284519,party
+house-OR-01,polymarket,1284519,Barbara Kahl (R),R,polymarket_label,KXHOUSERACE-OR01-26-R,party
+house-OR-01,polymarket,1284520,Suzanne Bonamici (D),D,polymarket_label,KXHOUSERACE-OR01-26-D,party
+house-OR-02,kalshi,KXHOUSERACE-OR02-26-D,Chris Beck,D,kalshi_suffix,1284528,party
+house-OR-02,kalshi,KXHOUSERACE-OR02-26-R,Cliff Bentz,R,kalshi_suffix,1284527,party
+house-OR-02,polymarket,1284527,Cliff Bentz (R),R,polymarket_label,KXHOUSERACE-OR02-26-R,party
+house-OR-02,polymarket,1284528,Chris Beck (D),D,polymarket_label,KXHOUSERACE-OR02-26-D,party
+house-OR-03,kalshi,KXHOUSERACE-OR03-26-D,Maxine Dexter,D,kalshi_suffix,1284536,party
+house-OR-03,kalshi,KXHOUSERACE-OR03-26-R,Loran Ayles,R,kalshi_suffix,1284535,party
+house-OR-03,polymarket,1284535,Loran Ayles (R),R,polymarket_label,KXHOUSERACE-OR03-26-R,party
+house-OR-03,polymarket,1284536,Maxine Dexter (D),D,polymarket_label,KXHOUSERACE-OR03-26-D,party
+house-OR-04,kalshi,KXHOUSERACE-OR04-26-D,Val Hoyle,D,kalshi_suffix,1284544,party
+house-OR-04,kalshi,KXHOUSERACE-OR04-26-R,Monique DeSpain,R,kalshi_suffix,1284543,party
+house-OR-04,polymarket,1284543,Monique DeSpain (R),R,polymarket_label,KXHOUSERACE-OR04-26-R,party
+house-OR-04,polymarket,1284544,Val Hoyle (D),D,polymarket_label,KXHOUSERACE-OR04-26-D,party
+house-OR-05,kalshi,HOUSEOR5-26-D,Janelle Bynum,D,kalshi_suffix,943741,party
+house-OR-05,kalshi,HOUSEOR5-26-R,Patti Adair,R,kalshi_suffix,943740,party
+house-OR-05,polymarket,943740,Patti Adair (R),R,polymarket_label,HOUSEOR5-26-R,party
+house-OR-05,polymarket,943741,Janelle Bynum (D),D,polymarket_label,HOUSEOR5-26-D,party
+house-OR-06,kalshi,KXHOUSERACE-OR06-26-D,Andrea Salinas,D,kalshi_suffix,1284552,party
+house-OR-06,kalshi,KXHOUSERACE-OR06-26-R,David Russ,R,kalshi_suffix,1284551,party
+house-OR-06,polymarket,1284551,David Russ (R),R,polymarket_label,KXHOUSERACE-OR06-26-R,party
+house-OR-06,polymarket,1284552,Andrea Salinas (D),D,polymarket_label,KXHOUSERACE-OR06-26-D,party
+house-PA-01,kalshi,HOUSEPA1-26-D,Bob Harvie,D,kalshi_suffix,943749,party
+house-PA-01,kalshi,HOUSEPA1-26-R,Brian Fitzpatrick,R,kalshi_suffix,943748,party
+house-PA-01,polymarket,943748,Brian Fitzpatrick (R),R,polymarket_label,HOUSEPA1-26-R,party
+house-PA-01,polymarket,943749,Bob Harvie (D),D,polymarket_label,HOUSEPA1-26-D,party
+house-PA-02,kalshi,KXHOUSERACE-PA02-26-D,Brendan Boyle,D,kalshi_suffix,1284560,party
+house-PA-02,kalshi,KXHOUSERACE-PA02-26-R,Jessica Arriaga,R,kalshi_suffix,1284559,party
+house-PA-02,polymarket,1284559,Jessica Arriaga (R),R,polymarket_label,KXHOUSERACE-PA02-26-R,party
+house-PA-02,polymarket,1284560,Brendan Boyle (D),D,polymarket_label,KXHOUSERACE-PA02-26-D,party
+house-PA-03,kalshi,KXHOUSERACE-PA03-26-D,Chris Rabb,D,kalshi_suffix,1284568,party
+house-PA-03,kalshi,KXHOUSERACE-PA03-26-R,Republican party,R,kalshi_suffix,,party
+house-PA-03,polymarket,1284567,Republican Party,R,polymarket_label,,party
+house-PA-03,polymarket,1284568,Chris Rabb (D),D,polymarket_label,KXHOUSERACE-PA03-26-D,party
+house-PA-04,kalshi,KXHOUSERACE-PA04-26-D,Madeleine Dean,D,kalshi_suffix,1284576,party
+house-PA-04,kalshi,KXHOUSERACE-PA04-26-R,Aurora Stuski,R,kalshi_suffix,1284575,party
+house-PA-04,polymarket,1284575,Aurora Stuski (R),R,polymarket_label,KXHOUSERACE-PA04-26-R,party
+house-PA-04,polymarket,1284576,Madeleine Dean (D),D,polymarket_label,KXHOUSERACE-PA04-26-D,party
+house-PA-05,kalshi,KXHOUSERACE-PA05-26-D,Mary Gay Scanlon,D,kalshi_suffix,1284584,party
+house-PA-05,kalshi,KXHOUSERACE-PA05-26-R,Nicholas Manganaro,R,kalshi_suffix,1284583,party
+house-PA-05,polymarket,1284583,Nicholas Manganaro (R),R,polymarket_label,KXHOUSERACE-PA05-26-R,party
+house-PA-05,polymarket,1284584,Mary Gay Scanlon (D),D,polymarket_label,KXHOUSERACE-PA05-26-D,party
+house-PA-06,kalshi,KXHOUSERACE-PA06-26-D,Chrissy Houlahan,D,kalshi_suffix,1284592,party
+house-PA-06,kalshi,KXHOUSERACE-PA06-26-R,Marty Young,R,kalshi_suffix,1284591,party
+house-PA-06,polymarket,1284591,Marty Young (R),R,polymarket_label,KXHOUSERACE-PA06-26-R,party
+house-PA-06,polymarket,1284592,Chrissy Houlahan (D),D,polymarket_label,KXHOUSERACE-PA06-26-D,party
+house-PA-07,kalshi,HOUSEPA7-26-D,Bob Brooks,D,kalshi_suffix,943797,party
+house-PA-07,kalshi,HOUSEPA7-26-R,Ryan Mackenzie,R,kalshi_suffix,943796,party
+house-PA-07,polymarket,943796,Ryan Mackenzie (R),R,polymarket_label,HOUSEPA7-26-R,party
+house-PA-07,polymarket,943797,Bob Brooks (D),D,polymarket_label,HOUSEPA7-26-D,party
+house-PA-08,kalshi,HOUSEPA8-26-D,Paige Cognetti,D,kalshi_suffix,943943,party
+house-PA-08,kalshi,HOUSEPA8-26-R,Rob Bresnahan,R,kalshi_suffix,943942,party
+house-PA-08,polymarket,943942,Rob Bresnahan (R),R,polymarket_label,HOUSEPA8-26-R,party
+house-PA-08,polymarket,943943,Paige Cognetti (D),D,polymarket_label,HOUSEPA8-26-D,party
+house-PA-09,kalshi,KXHOUSERACE-PA09-26-D,Rachel Wallace,D,kalshi_suffix,1284600,party
+house-PA-09,kalshi,KXHOUSERACE-PA09-26-R,Dan Meuser,R,kalshi_suffix,1284599,party
+house-PA-09,polymarket,1284599,Dan Meuser (R),R,polymarket_label,KXHOUSERACE-PA09-26-R,party
+house-PA-09,polymarket,1284600,Rachel Wallace (D),D,polymarket_label,KXHOUSERACE-PA09-26-D,party
+house-PA-10,kalshi,HOUSEPA10-26-D,Janelle Stelson,D,kalshi_suffix,943955,party
+house-PA-10,kalshi,HOUSEPA10-26-R,Scott Perry,R,kalshi_suffix,943954,party
+house-PA-10,polymarket,943954,Scott Perry (R),R,polymarket_label,HOUSEPA10-26-R,party
+house-PA-10,polymarket,943955,Janelle Stelson (D),D,polymarket_label,HOUSEPA10-26-D,party
+house-PA-11,kalshi,KXHOUSERACE-PA11-26-D,Nancy Mannion,D,kalshi_suffix,1284608,party
+house-PA-11,kalshi,KXHOUSERACE-PA11-26-R,Lloyd Smucker,R,kalshi_suffix,1284607,party
+house-PA-11,polymarket,1284607,Lloyd Smucker (R),R,polymarket_label,KXHOUSERACE-PA11-26-R,party
+house-PA-11,polymarket,1284608,Nancy Mannion (D),D,polymarket_label,KXHOUSERACE-PA11-26-D,party
+house-PA-12,kalshi,KXHOUSERACE-PA12-26-D,Summer Lee,D,kalshi_suffix,1284616,party
+house-PA-12,kalshi,KXHOUSERACE-PA12-26-R,James Hayes,R,kalshi_suffix,1284615,party
+house-PA-12,polymarket,1284615,James Hayes (R),R,polymarket_label,KXHOUSERACE-PA12-26-R,party
+house-PA-12,polymarket,1284616,Summer Lee (D),D,polymarket_label,KXHOUSERACE-PA12-26-D,party
+house-PA-13,kalshi,KXHOUSERACE-PA13-26-D,Beth Farnham,D,kalshi_suffix,1284624,party
+house-PA-13,kalshi,KXHOUSERACE-PA13-26-R,John Joyce,R,kalshi_suffix,1284623,party
+house-PA-13,polymarket,1284623,John Joyce (R),R,polymarket_label,KXHOUSERACE-PA13-26-R,party
+house-PA-13,polymarket,1284624,Beth Farnham (D),D,polymarket_label,KXHOUSERACE-PA13-26-D,party
+house-PA-14,kalshi,KXHOUSERACE-PA14-26-D,Alan Bradstock,D,kalshi_suffix,1284632,party
+house-PA-14,kalshi,KXHOUSERACE-PA14-26-R,Guy Reschenthaler,R,kalshi_suffix,1284631,party
+house-PA-14,polymarket,1284631,Guy Reschenthaler (R),R,polymarket_label,KXHOUSERACE-PA14-26-R,party
+house-PA-14,polymarket,1284632,Alan Bradstock (D),D,polymarket_label,KXHOUSERACE-PA14-26-D,party
+house-PA-15,kalshi,KXHOUSERACE-PA15-26-D,Ray Bilger,D,kalshi_suffix,1284640,party
+house-PA-15,kalshi,KXHOUSERACE-PA15-26-R,Glenn Thompson,R,kalshi_suffix,1284639,party
+house-PA-15,polymarket,1284639,Glenn Thompson (R),R,polymarket_label,KXHOUSERACE-PA15-26-R,party
+house-PA-15,polymarket,1284640,Ray Bilger (D),D,polymarket_label,KXHOUSERACE-PA15-26-D,party
+house-PA-16,kalshi,KXHOUSERACE-PA16-26-D,Justin Wagner,D,kalshi_suffix,1284648,party
+house-PA-16,kalshi,KXHOUSERACE-PA16-26-R,Mike Kelly,R,kalshi_suffix,1284647,party
+house-PA-16,polymarket,1284647,Mike Kelly (R),R,polymarket_label,KXHOUSERACE-PA16-26-R,party
+house-PA-16,polymarket,1284648,Justin Wagner (D),D,polymarket_label,KXHOUSERACE-PA16-26-D,party
+house-PA-17,kalshi,HOUSEPA17-26-D,Chris Deluzio,D,kalshi_suffix,943963,party
+house-PA-17,kalshi,HOUSEPA17-26-R,Tony Guy,R,kalshi_suffix,943962,party
+house-PA-17,polymarket,943962,Tony Guy (R),R,polymarket_label,HOUSEPA17-26-R,party
+house-PA-17,polymarket,943963,Chris Deluzio (D),D,polymarket_label,HOUSEPA17-26-D,party
+house-RI-01,kalshi,KXHOUSERACE-RI01-26-D,Gabe Amo,D,kalshi_suffix,1284656,party
+house-RI-01,kalshi,KXHOUSERACE-RI01-26-R,Kellie Keenan,R,kalshi_suffix,1284655,party
+house-RI-01,polymarket,1284655,Kellie Keenan (R),R,polymarket_label,KXHOUSERACE-RI01-26-R,party
+house-RI-01,polymarket,1284656,Gabe Amo (D),D,polymarket_label,KXHOUSERACE-RI01-26-D,party
+house-RI-02,kalshi,KXHOUSERACE-RI02-26-D,Seth Magaziner,D,kalshi_suffix,1284664,party
+house-RI-02,kalshi,KXHOUSERACE-RI02-26-R,Victor Mellor,R,kalshi_suffix,1284663,party
+house-RI-02,polymarket,1284663,Victor Mellor (R),R,polymarket_label,KXHOUSERACE-RI02-26-R,party
+house-RI-02,polymarket,1284664,Seth Magaziner (D),D,polymarket_label,KXHOUSERACE-RI02-26-D,party
+house-SC-01,kalshi,KXHOUSERACE-SC01-26-D,Nancy S. Lacore,D,kalshi_suffix,1284672,party
+house-SC-01,kalshi,KXHOUSERACE-SC01-26-R,Jenny Costa Honeycutt,R,kalshi_suffix,1284671,party
+house-SC-01,polymarket,1284671,Jenny Costa Honeycutt (R),R,polymarket_label,KXHOUSERACE-SC01-26-R,party
+house-SC-01,polymarket,1284672,Nancy Lacore (D),D,polymarket_label,KXHOUSERACE-SC01-26-D,party
+house-SC-02,kalshi,KXHOUSERACE-SC02-26-D,Zyon Khalifa,D,kalshi_suffix,1284680,party
+house-SC-02,kalshi,KXHOUSERACE-SC02-26-R,Joe Wilson,R,kalshi_suffix,1284679,party
+house-SC-02,polymarket,1284679,Joe Wilson (R),R,polymarket_label,KXHOUSERACE-SC02-26-R,party
+house-SC-02,polymarket,1284680,Zyon Khalifa (D),D,polymarket_label,KXHOUSERACE-SC02-26-D,party
+house-SC-03,kalshi,KXHOUSERACE-SC03-26-D,Eunice Lehmacher,D,kalshi_suffix,1284688,party
+house-SC-03,kalshi,KXHOUSERACE-SC03-26-R,Sheri Biggs,R,kalshi_suffix,1284687,party
+house-SC-03,polymarket,1284687,Sheri Biggs (R),R,polymarket_label,KXHOUSERACE-SC03-26-R,party
+house-SC-03,polymarket,1284688,Eunice Lehmacher (D),D,polymarket_label,KXHOUSERACE-SC03-26-D,party
+house-SC-04,kalshi,KXHOUSERACE-SC04-26-D,Courtney McClain,D,kalshi_suffix,1284696,party
+house-SC-04,kalshi,KXHOUSERACE-SC04-26-R,William Timmons,R,kalshi_suffix,1284695,party
+house-SC-04,polymarket,1284695,William Timmons (R),R,polymarket_label,KXHOUSERACE-SC04-26-R,party
+house-SC-04,polymarket,1284696,Courtney McClain (D),D,polymarket_label,KXHOUSERACE-SC04-26-D,party
+house-SC-05,kalshi,KXHOUSERACE-SC05-26-D,Mallory Dittmer,D,kalshi_suffix,1284704,party
+house-SC-05,kalshi,KXHOUSERACE-SC05-26-R,Wes Climer,R,kalshi_suffix,1284703,party
+house-SC-05,polymarket,1284703,Wes Climer (R),R,polymarket_label,KXHOUSERACE-SC05-26-R,party
+house-SC-05,polymarket,1284704,Mallory Dittmer (D),D,polymarket_label,KXHOUSERACE-SC05-26-D,party
+house-SC-06,kalshi,KXHOUSERACE-SC06-26-D,Jim Clyburn,D,kalshi_suffix,1284712,party
+house-SC-06,kalshi,KXHOUSERACE-SC06-26-R,John Peterson,R,kalshi_suffix,1284711,party
+house-SC-06,polymarket,1284711,John Peterson (R),R,polymarket_label,KXHOUSERACE-SC06-26-R,party
+house-SC-06,polymarket,1284712,Jim Clyburn (D),D,polymarket_label,KXHOUSERACE-SC06-26-D,party
+house-SC-07,kalshi,KXHOUSERACE-SC07-26-D,John Vincent,D,kalshi_suffix,1284720,party
+house-SC-07,kalshi,KXHOUSERACE-SC07-26-R,Russell Fry,R,kalshi_suffix,1284719,party
+house-SC-07,polymarket,1284719,Russell Fry (R),R,polymarket_label,KXHOUSERACE-SC07-26-R,party
+house-SC-07,polymarket,1284720,John Vincent (D),D,polymarket_label,KXHOUSERACE-SC07-26-D,party
+house-SD-AL,kalshi,KXHOUSERACE-SDAL-26-D,Nicole Gronli,D,kalshi_suffix,,party
+house-SD-AL,kalshi,KXHOUSERACE-SDAL-26-R,Marty Jackley,R,kalshi_suffix,1284727,party
+house-SD-AL,polymarket,1284727,Marty Jackley (R),R,polymarket_label,KXHOUSERACE-SDAL-26-R,party
+house-SD-AL,polymarket,1284728,Nikki Gronli (D),D,polymarket_label,,party
+house-TN-01,kalshi,KXHOUSERACE-TN01-26-D,Kristi Burke,D,kalshi_suffix,1284736,party
+house-TN-01,kalshi,KXHOUSERACE-TN01-26-R,Diana Harshbarger,R,kalshi_suffix,1284735,party
+house-TN-01,polymarket,1284735,Diana Harshbarger (R),R,polymarket_label,KXHOUSERACE-TN01-26-R,party
+house-TN-01,polymarket,1284736,Kristi Burke (D),D,polymarket_label,KXHOUSERACE-TN01-26-D,party
+house-TN-02,kalshi,KXHOUSERACE-TN02-26-D,Michaela Barnett,D,kalshi_suffix,1284744,party
+house-TN-02,kalshi,KXHOUSERACE-TN02-26-R,Tim Burchett,R,kalshi_suffix,1284743,party
+house-TN-02,polymarket,1284743,Tim Burchett (R),R,polymarket_label,KXHOUSERACE-TN02-26-R,party
+house-TN-02,polymarket,1284744,Michaela Barnett (D),D,polymarket_label,KXHOUSERACE-TN02-26-D,party
+house-TN-03,kalshi,KXHOUSERACE-TN03-26-D,Anna Golladay,D,kalshi_suffix,1284752,party
+house-TN-03,kalshi,KXHOUSERACE-TN03-26-R,Chuck Fleischmann,R,kalshi_suffix,1284751,party
+house-TN-03,polymarket,1284751,Chuck Fleischmann (R),R,polymarket_label,KXHOUSERACE-TN03-26-R,party
+house-TN-03,polymarket,1284752,Anna Golladay (D),D,polymarket_label,KXHOUSERACE-TN03-26-D,party
+house-TN-04,kalshi,KXHOUSERACE-TN04-26-D,Victoria Broderick,D,kalshi_suffix,1284760,party
+house-TN-04,kalshi,KXHOUSERACE-TN04-26-R,Scott DesJarlais,R,kalshi_suffix,1284759,party
+house-TN-04,polymarket,1284759,Scott DesJarlais (R),R,polymarket_label,KXHOUSERACE-TN04-26-R,party
+house-TN-04,polymarket,1284760,Victoria Broderick (D),D,polymarket_label,KXHOUSERACE-TN04-26-D,party
+house-TN-05,kalshi,KXHOUSERACE-TN05-26-D,Chaz Molder,D,kalshi_suffix,1284768,party
+house-TN-05,kalshi,KXHOUSERACE-TN05-26-R,Charlie Hatcher,R,kalshi_suffix,1284767,party
+house-TN-05,polymarket,1284767,Charlie Hatcher (R),R,polymarket_label,KXHOUSERACE-TN05-26-R,party
+house-TN-05,polymarket,1284768,Chaz Molder (D),D,polymarket_label,KXHOUSERACE-TN05-26-D,party
+house-TN-06,kalshi,KXHOUSERACE-TN06-26-D,Mike Croley,D,kalshi_suffix,1284776,party
+house-TN-06,kalshi,KXHOUSERACE-TN06-26-R,Johnny Garrett,R,kalshi_suffix,1284775,party
+house-TN-06,polymarket,1284775,Johnny Garrett (R),R,polymarket_label,KXHOUSERACE-TN06-26-R,party
+house-TN-06,polymarket,1284776,Mike Croley (D),D,polymarket_label,KXHOUSERACE-TN06-26-D,party
+house-TN-07,kalshi,KXHOUSERACE-TN07-26-D,Darden Copeland,D,kalshi_suffix,1284784,party
+house-TN-07,kalshi,KXHOUSERACE-TN07-26-R,Matt Van Epps,R,kalshi_suffix,1284783,party
+house-TN-07,polymarket,1284783,Matt Van Epps (R),R,polymarket_label,KXHOUSERACE-TN07-26-R,party
+house-TN-07,polymarket,1284784,Darden Copeland (D),D,polymarket_label,KXHOUSERACE-TN07-26-D,party
+house-TN-08,kalshi,KXHOUSERACE-TN08-26-D,Heidi Kuhn,D,kalshi_suffix,1284792,party
+house-TN-08,kalshi,KXHOUSERACE-TN08-26-R,David Kustoff,R,kalshi_suffix,1284791,party
+house-TN-08,polymarket,1284791,David Kustoff (R),R,polymarket_label,KXHOUSERACE-TN08-26-R,party
+house-TN-08,polymarket,1284792,Heidi Kuhn (D),D,polymarket_label,KXHOUSERACE-TN08-26-D,party
+house-TN-09,kalshi,KXHOUSERACE-TN09-26-D,Justin J. Pearson,D,kalshi_suffix,1284800,party
+house-TN-09,kalshi,KXHOUSERACE-TN09-26-R,Brent Taylor,R,kalshi_suffix,1284799,party
+house-TN-09,polymarket,1284799,Brent Taylor (R),R,polymarket_label,KXHOUSERACE-TN09-26-R,party
+house-TN-09,polymarket,1284800,Justin Pearson (D),D,polymarket_label,KXHOUSERACE-TN09-26-D,party
+house-TX-01,kalshi,KXHOUSERACE-TX01-26-D,Yolanda R. Prince ,D,kalshi_suffix,1284808,party
+house-TX-01,kalshi,KXHOUSERACE-TX01-26-R,Nathaniel Moran,R,kalshi_suffix,1284807,party
+house-TX-01,polymarket,1284807,Nathaniel Moran (R),R,polymarket_label,KXHOUSERACE-TX01-26-R,party
+house-TX-01,polymarket,1284808,Yolanda Prince (D),D,polymarket_label,KXHOUSERACE-TX01-26-D,party
+house-TX-02,kalshi,KXHOUSERACE-TX02-26-D,Shaun Finnie,D,kalshi_suffix,1284816,party
+house-TX-02,kalshi,KXHOUSERACE-TX02-26-R,Steve Toth,R,kalshi_suffix,1284815,party
+house-TX-02,polymarket,1284815,Steve Toth (R),R,polymarket_label,KXHOUSERACE-TX02-26-R,party
+house-TX-02,polymarket,1284816,Shaun Finnie (D),D,polymarket_label,KXHOUSERACE-TX02-26-D,party
+house-TX-03,kalshi,KXHOUSERACE-TX03-26-D,Evan Hunt,D,kalshi_suffix,1284824,party
+house-TX-03,kalshi,KXHOUSERACE-TX03-26-R,Keith Self,R,kalshi_suffix,1284823,party
+house-TX-03,polymarket,1284823,Keith Self (R),R,polymarket_label,KXHOUSERACE-TX03-26-R,party
+house-TX-03,polymarket,1284824,Evan Hunt (D),D,polymarket_label,KXHOUSERACE-TX03-26-D,party
+house-TX-04,kalshi,KXHOUSERACE-TX04-26-D,Jason Pearce,D,kalshi_suffix,1284832,party
+house-TX-04,kalshi,KXHOUSERACE-TX04-26-R,Pat Fallon,R,kalshi_suffix,1284831,party
+house-TX-04,polymarket,1284831,Pat Fallon (R),R,polymarket_label,KXHOUSERACE-TX04-26-R,party
+house-TX-04,polymarket,1284832,Jason Pearce (D),D,polymarket_label,KXHOUSERACE-TX04-26-D,party
+house-TX-05,kalshi,KXHOUSERACE-TX05-26-D,Chelsey Hockett,D,kalshi_suffix,1284840,party
+house-TX-05,kalshi,KXHOUSERACE-TX05-26-R,Lance Gooden,R,kalshi_suffix,1284839,party
+house-TX-05,polymarket,1284839,Lance Gooden (R),R,polymarket_label,KXHOUSERACE-TX05-26-R,party
+house-TX-05,polymarket,1284840,Chelsey Hockett (D),D,polymarket_label,KXHOUSERACE-TX05-26-D,party
+house-TX-06,kalshi,KXHOUSERACE-TX06-26-D,Danny Minton,D,kalshi_suffix,1284848,party
+house-TX-06,kalshi,KXHOUSERACE-TX06-26-R,Jake Ellzey,R,kalshi_suffix,1284847,party
+house-TX-06,polymarket,1284847,Jake Ellzey (R),R,polymarket_label,KXHOUSERACE-TX06-26-R,party
+house-TX-06,polymarket,1284848,Danny Minton (D),D,polymarket_label,KXHOUSERACE-TX06-26-D,party
+house-TX-07,kalshi,KXHOUSERACE-TX07-26-D,Lizzie Fletcher,D,kalshi_suffix,1284856,party
+house-TX-07,kalshi,KXHOUSERACE-TX07-26-R,Alexander Hale,R,kalshi_suffix,1284855,party
+house-TX-07,polymarket,1284855,Alexander Hale (R),R,polymarket_label,KXHOUSERACE-TX07-26-R,party
+house-TX-07,polymarket,1284856,Lizzie Fletcher (D),D,polymarket_label,KXHOUSERACE-TX07-26-D,party
+house-TX-08,kalshi,KXHOUSERACE-TX08-26-D,Laura Jones,D,kalshi_suffix,1284864,party
+house-TX-08,kalshi,KXHOUSERACE-TX08-26-R,Jessica Steinmann,R,kalshi_suffix,,party
+house-TX-08,polymarket,1284863,Jessica Hart Steinmann (R),R,polymarket_label,,party
+house-TX-08,polymarket,1284864,Laura Jones (D),D,polymarket_label,KXHOUSERACE-TX08-26-D,party
+house-TX-09,kalshi,KXHOUSETX9-26-D,Leticia Gutierrez,D,kalshi_suffix,944153,party
+house-TX-09,kalshi,KXHOUSETX9-26-R,Alex Mealer,R,kalshi_suffix,944152,party
+house-TX-09,polymarket,944152,Alex Mealer (R),R,polymarket_label,KXHOUSETX9-26-R,party
+house-TX-09,polymarket,944153,Leticia Gutierrez (D),D,polymarket_label,KXHOUSETX9-26-D,party
+house-TX-10,kalshi,KXHOUSERACE-TX10-26-D,Caitlin Rourk,D,kalshi_suffix,1284872,party
+house-TX-10,kalshi,KXHOUSERACE-TX10-26-R,Chris Gober,R,kalshi_suffix,1284871,party
+house-TX-10,polymarket,1284871,Chris Gober (R),R,polymarket_label,KXHOUSERACE-TX10-26-R,party
+house-TX-10,polymarket,1284872,Caitlin Rourk (D),D,polymarket_label,KXHOUSERACE-TX10-26-D,party
+house-TX-11,kalshi,KXHOUSERACE-TX11-26-D,Claire Reynolds,D,kalshi_suffix,1284880,party
+house-TX-11,kalshi,KXHOUSERACE-TX11-26-R,August Pfluger,R,kalshi_suffix,1284879,party
+house-TX-11,polymarket,1284879,August Pfluger (R),R,polymarket_label,KXHOUSERACE-TX11-26-R,party
+house-TX-11,polymarket,1284880,Claire Reynolds (D),D,polymarket_label,KXHOUSERACE-TX11-26-D,party
+house-TX-12,kalshi,KXHOUSERACE-TX12-26-D,Angela Rodriguez Prilliman,D,kalshi_suffix,1284888,party
+house-TX-12,kalshi,KXHOUSERACE-TX12-26-R,Craig Goldman,R,kalshi_suffix,1284887,party
+house-TX-12,polymarket,1284887,Craig Goldman (R),R,polymarket_label,KXHOUSERACE-TX12-26-R,party
+house-TX-12,polymarket,1284888,Angela Rodriguez Prilliman (D),D,polymarket_label,KXHOUSERACE-TX12-26-D,party
+house-TX-13,kalshi,KXHOUSERACE-TX13-26-D,Mark Nair,D,kalshi_suffix,1284896,party
+house-TX-13,kalshi,KXHOUSERACE-TX13-26-R,Ronny Jackson,R,kalshi_suffix,1284895,party
+house-TX-13,polymarket,1284895,Ronny Jackson (R),R,polymarket_label,KXHOUSERACE-TX13-26-R,party
+house-TX-13,polymarket,1284896,Mark Nair (D),D,polymarket_label,KXHOUSERACE-TX13-26-D,party
+house-TX-14,kalshi,KXHOUSERACE-TX14-26-D,Thurman Bartie,D,kalshi_suffix,1284904,party
+house-TX-14,kalshi,KXHOUSERACE-TX14-26-R,Randy Weber,R,kalshi_suffix,1284903,party
+house-TX-14,polymarket,1284903,Randy Weber (R),R,polymarket_label,KXHOUSERACE-TX14-26-R,party
+house-TX-14,polymarket,1284904,Thurman Bartie (D),D,polymarket_label,KXHOUSERACE-TX14-26-D,party
+house-TX-15,kalshi,HOUSETX15-26-D,Bobby Pulido,D,kalshi_suffix,944201,party
+house-TX-15,kalshi,HOUSETX15-26-R,Monica De La Cruz,R,kalshi_suffix,944199,party
+house-TX-15,polymarket,944199,Monica De La Cruz (R),R,polymarket_label,HOUSETX15-26-R,party
+house-TX-15,polymarket,944201,Bobby Pulido (D),D,polymarket_label,HOUSETX15-26-D,party
+house-TX-16,kalshi,KXHOUSERACE-TX16-26-D,Veronica Escobar,D,kalshi_suffix,1284912,party
+house-TX-16,kalshi,KXHOUSERACE-TX16-26-R,Adam Bauman,R,kalshi_suffix,1284911,party
+house-TX-16,polymarket,1284911,Adam Bauman (R),R,polymarket_label,KXHOUSERACE-TX16-26-R,party
+house-TX-16,polymarket,1284912,Veronica Escobar (D),D,polymarket_label,KXHOUSERACE-TX16-26-D,party
+house-TX-17,kalshi,KXHOUSERACE-TX17-26-D,Casey Shepard,D,kalshi_suffix,1284920,party
+house-TX-17,kalshi,KXHOUSERACE-TX17-26-R,Pete Sessions,R,kalshi_suffix,1284919,party
+house-TX-17,polymarket,1284919,Pete Sessions (R),R,polymarket_label,KXHOUSERACE-TX17-26-R,party
+house-TX-17,polymarket,1284920,Casey Shepard (D),D,polymarket_label,KXHOUSERACE-TX17-26-D,party
+house-TX-18,kalshi,KXHOUSERACE-TX18-26-D,Christian Menefee,D,kalshi_suffix,944214,party
+house-TX-18,kalshi,KXHOUSERACE-TX18-26-R,Ronald Whitfield,R,kalshi_suffix,944213,party
+house-TX-18,polymarket,944213,Ronald Whitfield (R),R,polymarket_label,KXHOUSERACE-TX18-26-R,party
+house-TX-18,polymarket,944214,Christian Menefee (D),D,polymarket_label,KXHOUSERACE-TX18-26-D,party
+house-TX-19,kalshi,KXHOUSERACE-TX19-26-D,Kyle Rable,D,kalshi_suffix,1284928,party
+house-TX-19,kalshi,KXHOUSERACE-TX19-26-R,Tom Sell,R,kalshi_suffix,1284927,party
+house-TX-19,polymarket,1284927,Tom Sell (R),R,polymarket_label,KXHOUSERACE-TX19-26-R,party
+house-TX-19,polymarket,1284928,Kyle Rable (D),D,polymarket_label,KXHOUSERACE-TX19-26-D,party
+house-TX-20,kalshi,KXHOUSERACE-TX20-26-D,Joaquin Castro,D,kalshi_suffix,1284936,party
+house-TX-20,kalshi,KXHOUSERACE-TX20-26-R,Edgardo Baez,R,kalshi_suffix,,party
+house-TX-20,polymarket,1284935,Edgardo Rafael Baez (R),R,polymarket_label,,party
+house-TX-20,polymarket,1284936,Joaquin Castro (D),D,polymarket_label,KXHOUSERACE-TX20-26-D,party
+house-TX-21,kalshi,KXHOUSERACE-TX21-26-D,Kristin Hook,D,kalshi_suffix,1284944,party
+house-TX-21,kalshi,KXHOUSERACE-TX21-26-R,Mark Teixeira,R,kalshi_suffix,1284943,party
+house-TX-21,polymarket,1284943,Mark Teixeira (R),R,polymarket_label,KXHOUSERACE-TX21-26-R,party
+house-TX-21,polymarket,1284944,Kristin Hook (D),D,polymarket_label,KXHOUSERACE-TX21-26-D,party
+house-TX-22,kalshi,KXHOUSERACE-TX22-26-D,Marquette Greene-Scott,D,kalshi_suffix,1284952,party
+house-TX-22,kalshi,KXHOUSERACE-TX22-26-R,Trever Nehls,R,kalshi_suffix,1284951,party
+house-TX-22,polymarket,1284951,Trever Nehls (R),R,polymarket_label,KXHOUSERACE-TX22-26-R,party
+house-TX-22,polymarket,1284952,Marquette Greene-Scott (D),D,polymarket_label,KXHOUSERACE-TX22-26-D,party
+house-TX-23,kalshi,KXHOUSERACE-TX23-26-D,Katy Padilla Stout,D,kalshi_suffix,1284960,party
+house-TX-23,kalshi,KXHOUSERACE-TX23-26-R,Brandon Herrera,R,kalshi_suffix,1284959,party
+house-TX-23,polymarket,1284959,Brandon Herrera (R),R,polymarket_label,KXHOUSERACE-TX23-26-R,party
+house-TX-23,polymarket,1284960,Katy Padilla Stout (D),D,polymarket_label,KXHOUSERACE-TX23-26-D,party
+house-TX-24,kalshi,KXHOUSERACE-TX24-26-D,Kevin Burge,D,kalshi_suffix,1284968,party
+house-TX-24,kalshi,KXHOUSERACE-TX24-26-R,Beth Van Duyne,R,kalshi_suffix,1284967,party
+house-TX-24,polymarket,1284967,Beth Van Duyne (R),R,polymarket_label,KXHOUSERACE-TX24-26-R,party
+house-TX-24,polymarket,1284968,Kevin Burge (D),D,polymarket_label,KXHOUSERACE-TX24-26-D,party
+house-TX-25,kalshi,KXHOUSERACE-TX25-26-D,Dione Sims,D,kalshi_suffix,1284976,party
+house-TX-25,kalshi,KXHOUSERACE-TX25-26-R,Roger Williams,R,kalshi_suffix,1284975,party
+house-TX-25,polymarket,1284975,Roger Williams (R),R,polymarket_label,KXHOUSERACE-TX25-26-R,party
+house-TX-25,polymarket,1284976,Dione Sims (D),D,polymarket_label,KXHOUSERACE-TX25-26-D,party
+house-TX-26,kalshi,KXHOUSERACE-TX26-26-D,Steven Shook,D,kalshi_suffix,1284984,party
+house-TX-26,kalshi,KXHOUSERACE-TX26-26-R,Brandon Gill,R,kalshi_suffix,1284983,party
+house-TX-26,polymarket,1284983,Brandon Gill (R),R,polymarket_label,KXHOUSERACE-TX26-26-R,party
+house-TX-26,polymarket,1284984,Steven Shook (D),D,polymarket_label,KXHOUSERACE-TX26-26-D,party
+house-TX-27,kalshi,KXHOUSERACE-TX27-26-D,Tanya Lloyd,D,kalshi_suffix,1284992,party
+house-TX-27,kalshi,KXHOUSERACE-TX27-26-R,Michael Cloud,R,kalshi_suffix,1284991,party
+house-TX-27,polymarket,1284991,Michael Cloud (R),R,polymarket_label,KXHOUSERACE-TX27-26-R,party
+house-TX-27,polymarket,1284992,Tanya Lloyd (D),D,polymarket_label,KXHOUSERACE-TX27-26-D,party
+house-TX-28,kalshi,HOUSETX28-26-D,Henry Cuellar,D,kalshi_suffix,944222,party
+house-TX-28,kalshi,HOUSETX28-26-R,Tano Tijerina,R,kalshi_suffix,944221,party
+house-TX-28,polymarket,944221,Tano Tijerina (R),R,polymarket_label,HOUSETX28-26-R,party
+house-TX-28,polymarket,944222,Henry Cuellar (D),D,polymarket_label,HOUSETX28-26-D,party
+house-TX-29,kalshi,KXHOUSERACE-TX29-26-D,Sylvia Garcia,D,kalshi_suffix,1285000,party
+house-TX-29,kalshi,KXHOUSERACE-TX29-26-R,Martha Fierro,R,kalshi_suffix,1284999,party
+house-TX-29,polymarket,1284999,Martha Fierro (R),R,polymarket_label,KXHOUSERACE-TX29-26-R,party
+house-TX-29,polymarket,1285000,Sylvia Garcia (D),D,polymarket_label,KXHOUSERACE-TX29-26-D,party
+house-TX-30,kalshi,KXHOUSERACE-TX30-26-D,Frederick Haynes III,D,kalshi_suffix,1285008,party
+house-TX-30,kalshi,KXHOUSERACE-TX30-26-R,Everett Jackson,R,kalshi_suffix,1285007,party
+house-TX-30,polymarket,1285007,Everett Jackson (R),R,polymarket_label,KXHOUSERACE-TX30-26-R,party
+house-TX-30,polymarket,1285008,Frederick Haynes III (D),D,polymarket_label,KXHOUSERACE-TX30-26-D,party
+house-TX-31,kalshi,KXHOUSERACE-TX31-26-D,Justin Early,D,kalshi_suffix,1285016,party
+house-TX-31,kalshi,KXHOUSERACE-TX31-26-R,John Carter,R,kalshi_suffix,1285015,party
+house-TX-31,polymarket,1285015,John Carter (R),R,polymarket_label,KXHOUSERACE-TX31-26-R,party
+house-TX-31,polymarket,1285016,Justin Early (D),D,polymarket_label,KXHOUSERACE-TX31-26-D,party
+house-TX-32,kalshi,KXHOUSETX32-26-D,Dan Barrios,D,kalshi_suffix,944230,party
+house-TX-32,kalshi,KXHOUSETX32-26-R,Jace Yarbrough,R,kalshi_suffix,944229,party
+house-TX-32,polymarket,944229,Jace Yarbrough (R),R,polymarket_label,KXHOUSETX32-26-R,party
+house-TX-32,polymarket,944230,Dan Barrios (D),D,polymarket_label,KXHOUSETX32-26-D,party
+house-TX-33,kalshi,KXHOUSERACE-TX33-26-D,Colin Allred,D,kalshi_suffix,1285024,party
+house-TX-33,kalshi,KXHOUSERACE-TX33-26-R,Patrick David Gillespie,R,kalshi_suffix,,party
+house-TX-33,polymarket,1285023,Patrick Gillespie (R),R,polymarket_label,,party
+house-TX-33,polymarket,1285024,Colin Allred (D),D,polymarket_label,KXHOUSERACE-TX33-26-D,party
+house-TX-34,kalshi,HOUSETX34-26-D,Vicente Gonzalez,D,kalshi_suffix,944238,party
+house-TX-34,kalshi,HOUSETX34-26-R,Eric Flores,R,kalshi_suffix,944237,party
+house-TX-34,polymarket,944237,Eric Flores (R),R,polymarket_label,HOUSETX34-26-R,party
+house-TX-34,polymarket,944238,Vicente Gonzalez (D),D,polymarket_label,HOUSETX34-26-D,party
+house-TX-35,kalshi,KXHOUSETX35-26-D,Johnny C. Garcia,D,kalshi_suffix,944250,party
+house-TX-35,kalshi,KXHOUSETX35-26-R,Carlos De La Cruz,R,kalshi_suffix,944249,party
+house-TX-35,polymarket,944249,Carlos De La Cruz (R),R,polymarket_label,KXHOUSETX35-26-R,party
+house-TX-35,polymarket,944250,Johnny Garcia (D),D,polymarket_label,KXHOUSETX35-26-D,party
+house-TX-36,kalshi,KXHOUSERACE-TX36-26-D,Rhonda Hart,D,kalshi_suffix,1285032,party
+house-TX-36,kalshi,KXHOUSERACE-TX36-26-R,Brian Babin,R,kalshi_suffix,1285031,party
+house-TX-36,polymarket,1285031,Brian Babin (R),R,polymarket_label,KXHOUSERACE-TX36-26-R,party
+house-TX-36,polymarket,1285032,Rhonda Hart (D),D,polymarket_label,KXHOUSERACE-TX36-26-D,party
+house-TX-37,kalshi,KXHOUSERACE-TX37-26-D,Greg Casar,D,kalshi_suffix,1285040,party
+house-TX-37,kalshi,KXHOUSERACE-TX37-26-R,Lauren B. Peña,R,kalshi_suffix,1285039,party
+house-TX-37,polymarket,1285039,Lauren Peña (R),R,polymarket_label,KXHOUSERACE-TX37-26-R,party
+house-TX-37,polymarket,1285040,Greg Casar (D),D,polymarket_label,KXHOUSERACE-TX37-26-D,party
+house-TX-38,kalshi,KXHOUSERACE-TX38-26-D,Melissa McDonough,D,kalshi_suffix,1285048,party
+house-TX-38,kalshi,KXHOUSERACE-TX38-26-R,Jon Bonck,R,kalshi_suffix,1285047,party
+house-TX-38,polymarket,1285047,Jon Bonck (R),R,polymarket_label,KXHOUSERACE-TX38-26-R,party
+house-TX-38,polymarket,1285048,Melissa McDonough (D),D,polymarket_label,KXHOUSERACE-TX38-26-D,party
+house-UT-01,kalshi,KXHOUSEUT01-26-D,Ben McAdams,D,kalshi_suffix,944258,party
+house-UT-01,kalshi,KXHOUSEUT01-26-R,Riley Owen,R,kalshi_suffix,944257,party
+house-UT-01,polymarket,944257,Riley Owen (R),R,polymarket_label,KXHOUSEUT01-26-R,party
+house-UT-01,polymarket,944258,Ben McAdams (D),D,polymarket_label,KXHOUSEUT01-26-D,party
+house-UT-02,kalshi,KXHOUSEUT02-26-D,Peter Crosby,D,kalshi_suffix,944266,party
+house-UT-02,kalshi,KXHOUSEUT02-26-R,Blake Moore,R,kalshi_suffix,944265,party
+house-UT-02,polymarket,944265,Blake Moore (R),R,polymarket_label,KXHOUSEUT02-26-R,party
+house-UT-02,polymarket,944266,Peter Crosby (D),D,polymarket_label,KXHOUSEUT02-26-D,party
+house-UT-03,kalshi,KXHOUSEUT03-26-D,Kent Udell,D,kalshi_suffix,944274,party
+house-UT-03,kalshi,KXHOUSEUT03-26-R,Celeste Maloy,R,kalshi_suffix,944273,party
+house-UT-03,polymarket,944273,Celeste Maloy (R),R,polymarket_label,KXHOUSEUT03-26-R,party
+house-UT-03,polymarket,944274,Kent Udell (D),D,polymarket_label,KXHOUSEUT03-26-D,party
+house-UT-04,kalshi,KXHOUSERACE-UT04-26-D,Jonny Larsen,D,kalshi_suffix,1285056,party
+house-UT-04,kalshi,KXHOUSERACE-UT04-26-R,Mike Kennedy,R,kalshi_suffix,1285055,party
+house-UT-04,polymarket,1285055,Mike Kennedy (R),R,polymarket_label,KXHOUSERACE-UT04-26-R,party
+house-UT-04,polymarket,1285056,Jonny Larsen (D),D,polymarket_label,KXHOUSERACE-UT04-26-D,party
+house-VA-01,kalshi,HOUSEVA1-26-D,Shannon Taylor,D,kalshi_suffix,944282,party
+house-VA-01,kalshi,HOUSEVA1-26-R,Rob Wittman,R,kalshi_suffix,944281,party
+house-VA-01,polymarket,944281,Rob Wittman (R),R,polymarket_label,HOUSEVA1-26-R,party
+house-VA-01,polymarket,944282,Shannon Taylor (D),D,polymarket_label,HOUSEVA1-26-D,party
+house-VA-02,kalshi,HOUSEVA2-26-D,Elaine Luria,D,kalshi_suffix,944290,party
+house-VA-02,kalshi,HOUSEVA2-26-R,Jen Kiggans,R,kalshi_suffix,944289,party
+house-VA-02,polymarket,944289,Jen Kiggans (R),R,polymarket_label,HOUSEVA2-26-R,party
+house-VA-02,polymarket,944290,Elaine Luria (D),D,polymarket_label,HOUSEVA2-26-D,party
+house-VA-03,kalshi,KXHOUSERACE-VA03-26-D,Bobby Scott,D,kalshi_suffix,1285064,party
+house-VA-03,kalshi,KXHOUSERACE-VA03-26-R,Edwin Rivera,R,kalshi_suffix,1285063,party
+house-VA-03,polymarket,1285063,Edwin Rivera (R),R,polymarket_label,KXHOUSERACE-VA03-26-R,party
+house-VA-03,polymarket,1285064,Bobby Scott (D),D,polymarket_label,KXHOUSERACE-VA03-26-D,party
+house-VA-04,kalshi,KXHOUSERACE-VA04-26-D,Jennifer McClellan,D,kalshi_suffix,1285072,party
+house-VA-04,kalshi,KXHOUSERACE-VA04-26-R,Robert Murray,R,kalshi_suffix,1285071,party
+house-VA-04,polymarket,1285071,Robert Murray (R),R,polymarket_label,KXHOUSERACE-VA04-26-R,party
+house-VA-04,polymarket,1285072,Jennifer McClellan (D),D,polymarket_label,KXHOUSERACE-VA04-26-D,party
+house-VA-05,kalshi,KXHOUSERACE-VA05-26-D,Tom Perriello,D,kalshi_suffix,1285080,party
+house-VA-05,kalshi,KXHOUSERACE-VA05-26-R,John McGuire,R,kalshi_suffix,1285079,party
+house-VA-05,polymarket,1285079,John McGuire (R),R,polymarket_label,KXHOUSERACE-VA05-26-R,party
+house-VA-05,polymarket,1285080,Tom Perriello (D),D,polymarket_label,KXHOUSERACE-VA05-26-D,party
+house-VA-06,kalshi,KXHOUSERACE-VA06-26-D,Beth Macy,D,kalshi_suffix,1285088,party
+house-VA-06,kalshi,KXHOUSERACE-VA06-26-R,Ben Cline,R,kalshi_suffix,1285087,party
+house-VA-06,polymarket,1285087,Ben Cline (R),R,polymarket_label,KXHOUSERACE-VA06-26-R,party
+house-VA-06,polymarket,1285088,Beth Macy (D),D,polymarket_label,KXHOUSERACE-VA06-26-D,party
+house-VA-07,kalshi,HOUSEVA7-26-D,Eugene Vindman,D,kalshi_suffix,944298,party
+house-VA-07,kalshi,HOUSEVA7-26-R,Doug Ollivant,R,kalshi_suffix,944297,party
+house-VA-07,polymarket,944297,Doug Ollivant (R),R,polymarket_label,HOUSEVA7-26-R,party
+house-VA-07,polymarket,944298,Eugene Vindman (D),D,polymarket_label,HOUSEVA7-26-D,party
+house-VA-08,kalshi,KXHOUSERACE-VA08-26-D,Don Beyer,D,kalshi_suffix,1285096,party
+house-VA-08,kalshi,KXHOUSERACE-VA08-26-R,Tony Sabio,R,kalshi_suffix,1285095,party
+house-VA-08,polymarket,1285095,Tony Sabio (R),R,polymarket_label,KXHOUSERACE-VA08-26-R,party
+house-VA-08,polymarket,1285096,Don Beyer (D),D,polymarket_label,KXHOUSERACE-VA08-26-D,party
+house-VA-09,kalshi,KXHOUSERACE-VA09-26-D,Joy Powers,D,kalshi_suffix,1285104,party
+house-VA-09,kalshi,KXHOUSERACE-VA09-26-R,Morgan Griffith,R,kalshi_suffix,1285103,party
+house-VA-09,polymarket,1285103,Morgan Griffith (R),R,polymarket_label,KXHOUSERACE-VA09-26-R,party
+house-VA-09,polymarket,1285104,Joy Powers (D),D,polymarket_label,KXHOUSERACE-VA09-26-D,party
+house-VA-10,kalshi,KXHOUSEVA10-26-D,Suhas Subramanyam,D,kalshi_suffix,944306,party
+house-VA-10,kalshi,KXHOUSEVA10-26-R,Dave Beckwith,R,kalshi_suffix,944305,party
+house-VA-10,polymarket,944305,Dave Beckwith (R),R,polymarket_label,KXHOUSEVA10-26-R,party
+house-VA-10,polymarket,944306,Suhas Subramanyam (D),D,polymarket_label,KXHOUSEVA10-26-D,party
+house-VA-11,kalshi,KXHOUSERACE-VA11-26-D,James Walkinshaw,D,kalshi_suffix,1285112,party
+house-VA-11,kalshi,KXHOUSERACE-VA11-26-R,Arthur Purves,R,kalshi_suffix,1285111,party
+house-VA-11,polymarket,1285111,Arthur Purves (R),R,polymarket_label,KXHOUSERACE-VA11-26-R,party
+house-VA-11,polymarket,1285112,James Walkinshaw (D),D,polymarket_label,KXHOUSERACE-VA11-26-D,party
+house-VT-AL,kalshi,KXHOUSERACE-VTAL-26-D,Becca Balint,D,kalshi_suffix,1285120,party
+house-VT-AL,kalshi,KXHOUSERACE-VTAL-26-R,Gerald Malloy,R,kalshi_suffix,1285119,party
+house-VT-AL,polymarket,1285119,Gerald Malloy (R),R,polymarket_label,KXHOUSERACE-VTAL-26-R,party
+house-VT-AL,polymarket,1285120,Becca Balint (D),D,polymarket_label,KXHOUSERACE-VTAL-26-D,party
+house-WA-01,kalshi,KXHOUSERACE-WA01-26-D,Suzan DelBene,D,kalshi_suffix,1285128,party
+house-WA-01,kalshi,KXHOUSERACE-WA01-26-R,Mary Silva,R,kalshi_suffix,1285127,party
+house-WA-01,polymarket,1285127,Mary Silva (R),R,polymarket_label,KXHOUSERACE-WA01-26-R,party
+house-WA-01,polymarket,1285128,Suzan DelBene (D),D,polymarket_label,KXHOUSERACE-WA01-26-D,party
+house-WA-02,kalshi,KXHOUSERACE-WA02-26-D,Rick Larsen,D,kalshi_suffix,1285136,party
+house-WA-02,kalshi,KXHOUSERACE-WA02-26-R,Edwin H. Feller,R,kalshi_suffix,1285135,party
+house-WA-02,polymarket,1285135,Edwin Feller (R),R,polymarket_label,KXHOUSERACE-WA02-26-R,party
+house-WA-02,polymarket,1285136,Rick Larsen (D),D,polymarket_label,KXHOUSERACE-WA02-26-D,party
+house-WA-03,kalshi,HOUSEWA3-26-D,Marie Gluesenkamp Perez,D,kalshi_suffix,944314,party
+house-WA-03,kalshi,HOUSEWA3-26-R,John Braun,R,kalshi_suffix,944313,party
+house-WA-03,polymarket,944313,John Braun (R),R,polymarket_label,HOUSEWA3-26-R,party
+house-WA-03,polymarket,944314,Marie Gluesenkamp Perez (D),D,polymarket_label,HOUSEWA3-26-D,party
+house-WA-04,kalshi,KXHOUSERACE-WA04-26-D,John Duresky,D,kalshi_suffix,1285144,party
+house-WA-04,kalshi,KXHOUSERACE-WA04-26-R,Amanda McKinney,R,kalshi_suffix,1285143,party
+house-WA-04,polymarket,1285143,Amanda McKinney (R),R,polymarket_label,KXHOUSERACE-WA04-26-R,party
+house-WA-04,polymarket,1285144,John Duresky (D),D,polymarket_label,KXHOUSERACE-WA04-26-D,party
+house-WA-05,kalshi,KXHOUSERACE-WA05-26-D,Carmela Conroy,D,kalshi_suffix,1285152,party
+house-WA-05,kalshi,KXHOUSERACE-WA05-26-R,Michael Baumgartner,R,kalshi_suffix,1285151,party
+house-WA-05,polymarket,1285151,Michael Baumgartner (R),R,polymarket_label,KXHOUSERACE-WA05-26-R,party
+house-WA-05,polymarket,1285152,Carmela Conroy (D),D,polymarket_label,KXHOUSERACE-WA05-26-D,party
+house-WA-06,kalshi,KXHOUSERACE-WA06-26-D,Emily Randall,D,kalshi_suffix,1285160,party
+house-WA-06,kalshi,KXHOUSERACE-WA06-26-R,Teresa Fox,R,kalshi_suffix,1285159,party
+house-WA-06,polymarket,1285159,Teresa Fox (R),R,polymarket_label,KXHOUSERACE-WA06-26-R,party
+house-WA-06,polymarket,1285160,Emily Randall (D),D,polymarket_label,KXHOUSERACE-WA06-26-D,party
+house-WA-07,kalshi,KXHOUSERACE-WA07-26-D,Pramila Jayapal,D,kalshi_suffix,1285168,party
+house-WA-07,kalshi,KXHOUSERACE-WA07-26-R,Nirav Sheth,R,kalshi_suffix,1285167,party
+house-WA-07,polymarket,1285167,Nirav Sheth (R),R,polymarket_label,KXHOUSERACE-WA07-26-R,party
+house-WA-07,polymarket,1285168,Pramila Jayapal (D),D,polymarket_label,KXHOUSERACE-WA07-26-D,party
+house-WA-08,kalshi,KXHOUSEWA8-26-D,Kim Schrier,D,kalshi_suffix,944326,party
+house-WA-08,kalshi,KXHOUSEWA8-26-R,Spencer Meline,R,kalshi_suffix,944325,party
+house-WA-08,polymarket,944325,Spencer Meline (R),R,polymarket_label,KXHOUSEWA8-26-R,party
+house-WA-08,polymarket,944326,Kim Schrier (D),D,polymarket_label,KXHOUSEWA8-26-D,party
+house-WA-09,kalshi,KXHOUSERACE-WA09-26-D,Adam Smith,D,kalshi_suffix,1285176,party
+house-WA-09,kalshi,KXHOUSERACE-WA09-26-R,Doug Basler,R,kalshi_suffix,1285175,party
+house-WA-09,polymarket,1285175,Doug Basler (R),R,polymarket_label,KXHOUSERACE-WA09-26-R,party
+house-WA-09,polymarket,1285176,Adam Smith (D),D,polymarket_label,KXHOUSERACE-WA09-26-D,party
+house-WA-10,kalshi,KXHOUSERACE-WA10-26-D,Marilyn Strickland,D,kalshi_suffix,1285184,party
+house-WA-10,kalshi,KXHOUSERACE-WA10-26-R,Chris D. Chung,R,kalshi_suffix,1285183,party
+house-WA-10,polymarket,1285183,Chris Chung (R),R,polymarket_label,KXHOUSERACE-WA10-26-R,party
+house-WA-10,polymarket,1285184,Marilyn Strickland (D),D,polymarket_label,KXHOUSERACE-WA10-26-D,party
+house-WI-01,kalshi,HOUSEWI1-26-D,Mitchell Berman,D,kalshi_suffix,944334,party
+house-WI-01,kalshi,HOUSEWI1-26-R,Bryan Steil,R,kalshi_suffix,944333,party
+house-WI-01,polymarket,944333,Bryan Steil (R),R,polymarket_label,HOUSEWI1-26-R,party
+house-WI-01,polymarket,944334,Mitchell Berman (D),D,polymarket_label,HOUSEWI1-26-D,party
+house-WI-02,kalshi,KXHOUSERACE-WI02-26-D,Mark Pocan,D,kalshi_suffix,1285192,party
+house-WI-02,kalshi,KXHOUSERACE-WI02-26-R,Republican party,R,kalshi_suffix,,party
+house-WI-02,polymarket,1285191,Republican Party,R,polymarket_label,,party
+house-WI-02,polymarket,1285192,Mark Pocan (D),D,polymarket_label,KXHOUSERACE-WI02-26-D,party
+house-WI-03,kalshi,HOUSEWI3-26-D,Rebecca Cooke,D,kalshi_suffix,944342,party
+house-WI-03,kalshi,HOUSEWI3-26-R,Derrick Van Orden,R,kalshi_suffix,944341,party
+house-WI-03,polymarket,944341,Derrick Van Orden (R),R,polymarket_label,HOUSEWI3-26-R,party
+house-WI-03,polymarket,944342,Rebecca Cooke (D),D,polymarket_label,HOUSEWI3-26-D,party
+house-WI-04,kalshi,KXHOUSERACE-WI04-26-D,Gwen Moore,D,kalshi_suffix,1285200,party
+house-WI-04,kalshi,KXHOUSERACE-WI04-26-R,Tim Rogers,R,kalshi_suffix,1285199,party
+house-WI-04,polymarket,1285199,Tim Rogers (R),R,polymarket_label,KXHOUSERACE-WI04-26-R,party
+house-WI-04,polymarket,1285200,Gwen Moore (D),D,polymarket_label,KXHOUSERACE-WI04-26-D,party
+house-WI-05,kalshi,KXHOUSERACE-WI05-26-D,Andrew Beck,D,kalshi_suffix,1285208,party
+house-WI-05,kalshi,KXHOUSERACE-WI05-26-R,Scott Fitzgerald,R,kalshi_suffix,1285207,party
+house-WI-05,polymarket,1285207,Scott Fitzgerald (R),R,polymarket_label,KXHOUSERACE-WI05-26-R,party
+house-WI-05,polymarket,1285208,Andrew Beck (D),D,polymarket_label,KXHOUSERACE-WI05-26-D,party
+house-WI-06,kalshi,KXHOUSERACE-WI06-26-D,Brad Smith,D,kalshi_suffix,1285216,party
+house-WI-06,kalshi,KXHOUSERACE-WI06-26-R,Glenn Grothman,R,kalshi_suffix,1285215,party
+house-WI-06,polymarket,1285215,Glenn Grothman (R),R,polymarket_label,KXHOUSERACE-WI06-26-R,party
+house-WI-06,polymarket,1285216,Brad Smith (D),D,polymarket_label,KXHOUSERACE-WI06-26-D,party
+house-WI-07,kalshi,KXHOUSERACE-WI07-26-D,Fred Clark,D,kalshi_suffix,1285224,party
+house-WI-07,kalshi,KXHOUSERACE-WI07-26-R,Michael Alfonso,R,kalshi_suffix,1285223,party
+house-WI-07,polymarket,1285223,Michael Alfonso (R),R,polymarket_label,KXHOUSERACE-WI07-26-R,party
+house-WI-07,polymarket,1285224,Fred Clark (D),D,polymarket_label,KXHOUSERACE-WI07-26-D,party
+house-WI-08,kalshi,KXHOUSERACE-WI08-26-D,Rick Crosson,D,kalshi_suffix,1285232,party
+house-WI-08,kalshi,KXHOUSERACE-WI08-26-R,Tony Wied,R,kalshi_suffix,1285231,party
+house-WI-08,polymarket,1285231,Tony Wied (R),R,polymarket_label,KXHOUSERACE-WI08-26-R,party
+house-WI-08,polymarket,1285232,Rick Crosson (D),D,polymarket_label,KXHOUSERACE-WI08-26-D,party
+house-WV-01,kalshi,KXHOUSERACE-WV01-26-D,Vince George,D,kalshi_suffix,1285240,party
+house-WV-01,kalshi,KXHOUSERACE-WV01-26-R,Carol Miller,R,kalshi_suffix,1285239,party
+house-WV-01,polymarket,1285239,Carol Miller (R),R,polymarket_label,KXHOUSERACE-WV01-26-R,party
+house-WV-01,polymarket,1285240,Vince George (D),D,polymarket_label,KXHOUSERACE-WV01-26-D,party
+house-WV-02,kalshi,KXHOUSERACE-WV02-26-D,Ace Parsi,D,kalshi_suffix,1285252,party
+house-WV-02,kalshi,KXHOUSERACE-WV02-26-R,Riley Moore,R,kalshi_suffix,1285251,party
+house-WV-02,polymarket,1285251,Riley Moore (R),R,polymarket_label,KXHOUSERACE-WV02-26-R,party
+house-WV-02,polymarket,1285252,Ace Parsi (D),D,polymarket_label,KXHOUSERACE-WV02-26-D,party
+house-WY-AL,kalshi,KXHOUSERACE-WYAL-26-D,Lisa Kinney,D,kalshi_suffix,1285263,party
+house-WY-AL,kalshi,KXHOUSERACE-WYAL-26-R,Chuck Gray,R,kalshi_suffix,1285262,party
+house-WY-AL,polymarket,1285262,Chuck Gray (R),R,polymarket_label,KXHOUSERACE-WYAL-26-R,party
+house-WY-AL,polymarket,1285263,Lisa Kinney (D),D,polymarket_label,KXHOUSERACE-WYAL-26-D,party
+sen-AK,kalshi,SENATEAK-26-D,Democratic party,D,kalshi_suffix,,party
+sen-AK,kalshi,SENATEAK-26-R,Republican party,R,kalshi_suffix,,party
+sen-AK,polymarket,634974,Sen. Dan Sullivan,,,,person
+sen-AK,polymarket,634975,Ann Diener,,,,person
+sen-AK,polymarket,634976,Mary Peltola,,,,person
+sen-AK,polymarket,634977,Dustin Darden,,,,person
+sen-AK,polymarket,634978,Richard Grayson,,,,person
+sen-AK,polymarket,634979,Daniel J. Sullivan Jr.,,,,person
+sen-AK,polymarket,634980,David Leslie,,,,person
+sen-AL,kalshi,SENATEAL-26-D,Everett Wess,D,kalshi_suffix,630627,party
+sen-AL,kalshi,SENATEAL-26-R,Barry Moore,R,kalshi_suffix,630628,party
+sen-AL,polymarket,630627,Everett Wess (D),D,polymarket_label,SENATEAL-26-D,party
+sen-AL,polymarket,630628,Barry Moore (R),R,polymarket_label,SENATEAL-26-R,party
+sen-AR,kalshi,SENATEAR-26-D,Hallie Shoffner,D,kalshi_suffix,630653,party
+sen-AR,kalshi,SENATEAR-26-R,Tom Cotton,R,kalshi_suffix,630654,party
+sen-AR,polymarket,630653,Hallie Shoffner (D),D,polymarket_label,SENATEAR-26-D,party
+sen-AR,polymarket,630654,Tom Cotton (R) ,R,polymarket_label,SENATEAR-26-R,party
+sen-CO,kalshi,SENATECO-26-D,John Hickenlooper,D,kalshi_suffix,630666,party
+sen-CO,kalshi,SENATECO-26-R,Mark Baisley,R,kalshi_suffix,630667,party
+sen-CO,polymarket,630666,John Hickenlooper (D),D,polymarket_label,SENATECO-26-D,party
+sen-CO,polymarket,630667,Mark Baisley (R),R,polymarket_label,SENATECO-26-R,party
+sen-DE,kalshi,SENATEDE-26-D,Democratic party,D,kalshi_suffix,,party
+sen-DE,kalshi,SENATEDE-26-R,Republican party,R,kalshi_suffix,,party
+sen-DE,polymarket,630679,Democrat,D,polymarket_label,,party
+sen-DE,polymarket,630680,Republican,R,polymarket_label,,party
+sen-FL-special,kalshi,SENATEFLS-26-D,Angie Nixon,D,kalshi_suffix,631044,party
+sen-FL-special,kalshi,SENATEFLS-26-R,Ashley Moody,R,kalshi_suffix,631045,party
+sen-FL-special,polymarket,631044,Angie Nixon (D),D,polymarket_label,SENATEFLS-26-D,party
+sen-FL-special,polymarket,631045,Ashley Moody (R),R,polymarket_label,SENATEFLS-26-R,party
+sen-GA,kalshi,SENATEGA-26-D,Jon Ossoff,D,kalshi_suffix,630692,party
+sen-GA,kalshi,SENATEGA-26-R,Mike Collins,R,kalshi_suffix,630693,party
+sen-GA,polymarket,630692,Jon Ossoff (D) ,D,polymarket_label,SENATEGA-26-D,party
+sen-GA,polymarket,630693,Mike Collins (R),R,polymarket_label,SENATEGA-26-R,party
+sen-IA,kalshi,SENATEIA-26-D,Josh Turek,D,kalshi_suffix,630733,party
+sen-IA,kalshi,SENATEIA-26-R,Ashley Hinson,R,kalshi_suffix,630734,party
+sen-IA,polymarket,630733,Josh Turek (D),D,polymarket_label,SENATEIA-26-D,party
+sen-IA,polymarket,630734,Ashley Hinson (R),R,polymarket_label,SENATEIA-26-R,party
+sen-ID,kalshi,SENATEID-26-D,David Roth,D,kalshi_suffix,,party
+sen-ID,kalshi,SENATEID-26-R,Jim Risch,R,kalshi_suffix,630706,party
+sen-ID,kalshi,SENATEID-26-TACH,Todd Achilles,I,name_match,630707,person
+sen-ID,polymarket,630705,Democrat,D,polymarket_label,,party
+sen-ID,polymarket,630706,Jim Risch (R),R,polymarket_label,SENATEID-26-R,party
+sen-ID,polymarket,630707,Todd Achilles (I),I,polymarket_label,SENATEID-26-TACH,person
+sen-IL,kalshi,SENATEIL-26-D,Juliana Stratton,D,kalshi_suffix,630720,party
+sen-IL,kalshi,SENATEIL-26-R,Don Tracy,R,kalshi_suffix,630721,party
+sen-IL,polymarket,630720,Juliana Stratton (D),D,polymarket_label,SENATEIL-26-D,party
+sen-IL,polymarket,630721,Don Tracy (R),R,polymarket_label,SENATEIL-26-R,party
+sen-KS,kalshi,SENATEKS-26-D,Adam Hamilton,D,kalshi_suffix,630746,party
+sen-KS,kalshi,SENATEKS-26-R,Roger Marshall,R,kalshi_suffix,630747,party
+sen-KS,polymarket,630746,Adam Hamilton (D),D,polymarket_label,SENATEKS-26-D,party
+sen-KS,polymarket,630747,Roger Marshall (R),R,polymarket_label,SENATEKS-26-R,party
+sen-KY,kalshi,SENATELA-26-D,Charles Booker,D,kalshi_suffix,630759,party
+sen-KY,kalshi,SENATELA-26-R,Andy Barr,R,kalshi_suffix,630760,party
+sen-KY,polymarket,630759,Charles Booker (D),D,polymarket_label,SENATELA-26-D,party
+sen-KY,polymarket,630760,Andy Barr (R),R,polymarket_label,SENATELA-26-R,party
+sen-LA,kalshi,KXSENATELA-26NOV-D,Jamie Davis,D,kalshi_suffix,634878,party
+sen-LA,kalshi,KXSENATELA-26NOV-R,Julia Letlow,R,kalshi_suffix,634879,party
+sen-LA,polymarket,634878,Jamie Davis (D),D,polymarket_label,KXSENATELA-26NOV-D,party
+sen-LA,polymarket,634879,Julia Letlow (R),R,polymarket_label,KXSENATELA-26NOV-R,party
+sen-MA,kalshi,SENATEMA-26-D,Ed Markey,D,kalshi_suffix,630790,party
+sen-MA,kalshi,SENATEMA-26-R,John Deaton,R,kalshi_suffix,630791,party
+sen-MA,polymarket,630790,Ed Markey (D),D,polymarket_label,SENATEMA-26-D,party
+sen-MA,polymarket,630791,John Deaton (R),R,polymarket_label,SENATEMA-26-R,party
+sen-ME,kalshi,SENATEME-26-D,Troy Jackson,D,kalshi_suffix,630772,party
+sen-ME,kalshi,SENATEME-26-R,Susan Collins,R,kalshi_suffix,630773,party
+sen-ME,polymarket,630772,Troy Jackson (D),D,polymarket_label,SENATEME-26-D,party
+sen-ME,polymarket,630773,Susan Collins (R),R,polymarket_label,SENATEME-26-R,party
+sen-MI,kalshi,SENATEMI-26-D,Abdul El-Sayed,D,kalshi_suffix,630805,party
+sen-MI,kalshi,SENATEMI-26-R,Mike Rogers,R,kalshi_suffix,630806,party
+sen-MI,polymarket,630805,Abdul El-Sayed (D),D,polymarket_label,SENATEMI-26-D,party
+sen-MI,polymarket,630806,Mike Rogers (R),R,polymarket_label,SENATEMI-26-R,party
+sen-MN,kalshi,SENATEMN-26-D,Peggy Flanagan,D,kalshi_suffix,630818,party
+sen-MN,kalshi,SENATEMN-26-R,Michele Tafoya,R,kalshi_suffix,630819,party
+sen-MN,polymarket,630818,Peggy Flanagan (D),D,polymarket_label,SENATEMN-26-D,party
+sen-MN,polymarket,630819,Michele Tafoya (R),R,polymarket_label,SENATEMN-26-R,party
+sen-MS,kalshi,SENATEMS-26-D,Scott Colom,D,kalshi_suffix,631017,party
+sen-MS,kalshi,SENATEMS-26-R,Cindy Hyde-Smith,R,kalshi_suffix,631018,party
+sen-MS,polymarket,631017,Scott Colom (D),D,polymarket_label,SENATEMS-26-D,party
+sen-MS,polymarket,631018,Cindy Hyde-Smith (R),R,polymarket_label,SENATEMS-26-R,party
+sen-MT,kalshi,SENATEMT-26-D,Alani Bankhead,D,kalshi_suffix,630831,party
+sen-MT,kalshi,SENATEMT-26-IND,Seth Bodnar,I,kalshi_suffix,,party
+sen-MT,kalshi,SENATEMT-26-R,Kurt Alme,R,kalshi_suffix,630832,party
+sen-MT,polymarket,630831,Alani Bankhead (D),D,polymarket_label,SENATEMT-26-D,party
+sen-MT,polymarket,630832,Kurt Alme (R) ,R,polymarket_label,SENATEMT-26-R,party
+sen-MT,polymarket,630833,Independent,I,polymarket_label,,party
+sen-NC,kalshi,SENATENC-26-D,Roy Cooper,D,kalshi_suffix,630883,party
+sen-NC,kalshi,SENATENC-26-R,Michael Whatley,R,kalshi_suffix,630884,party
+sen-NC,polymarket,630883,Roy Cooper (D),D,polymarket_label,SENATENC-26-D,party
+sen-NC,polymarket,630884,Michael Whatley (R),R,polymarket_label,SENATENC-26-R,party
+sen-NE,kalshi,SENATENE-26-D,Cindy Burbank,D,kalshi_suffix,,party
+sen-NE,kalshi,SENATENE-26-DOSB,Dan Osborn,,,,person
+sen-NE,kalshi,SENATENE-26-R,Pete Ricketts,R,kalshi_suffix,634892,party
+sen-NE,polymarket,634891,Democrat,D,polymarket_label,,party
+sen-NE,polymarket,634892,Pete Ricketts (R),R,polymarket_label,SENATENE-26-R,party
+sen-NE,polymarket,634893,Independent,I,polymarket_label,,party
+sen-NH,kalshi,SENATENH-26-D,Chris Pappas,D,kalshi_suffix,630844,party
+sen-NH,kalshi,SENATENH-26-R,John E. Sununu,R,kalshi_suffix,630845,party
+sen-NH,polymarket,630844,Chris Pappas (D),D,polymarket_label,SENATENH-26-D,party
+sen-NH,polymarket,630845,John E. Sununu (R),R,polymarket_label,SENATENH-26-R,party
+sen-NJ,kalshi,SENATENJ-26-D,Cory Booker,D,kalshi_suffix,630857,party
+sen-NJ,kalshi,SENATENJ-26-R,Justin Murphy,R,kalshi_suffix,630858,party
+sen-NJ,polymarket,630857,Cory Booker (D),D,polymarket_label,SENATENJ-26-D,party
+sen-NJ,polymarket,630858,Justin Murphy (R),R,polymarket_label,SENATENJ-26-R,party
+sen-NM,kalshi,SENATENM-26-D,Ben Ray Luján,D,kalshi_suffix,630870,party
+sen-NM,kalshi,SENATENM-26-R,Larry E. Marker,R,kalshi_suffix,630871,party
+sen-NM,polymarket,630870,Ben Ray Luján (D),D,polymarket_label,SENATENM-26-D,party
+sen-NM,polymarket,630871,Larry Marker (R),R,polymarket_label,SENATENM-26-R,party
+sen-OH-special,kalshi,SENATEOHS-26-D,Sherrod Brown,D,kalshi_suffix,631057,party
+sen-OH-special,kalshi,SENATEOHS-26-R,Jon Husted,R,kalshi_suffix,631058,party
+sen-OH-special,polymarket,631057,Sherrod Brown (D),D,polymarket_label,SENATEOHS-26-D,party
+sen-OH-special,polymarket,631058,Jon Husted (R),R,polymarket_label,SENATEOHS-26-R,party
+sen-OK,kalshi,SENATEOK-26-D,N’Kiyla Thomas,D,kalshi_suffix,,party
+sen-OK,kalshi,SENATEOK-26-R,Kevin Hern,R,kalshi_suffix,631031,party
+sen-OK,polymarket,631030,N’Kiyla “Jasmine” Thomas (D),D,polymarket_label,,party
+sen-OK,polymarket,631031,Kevin Hern (R),R,polymarket_label,SENATEOK-26-R,party
+sen-OR,kalshi,SENATEOR-26-D,Jeff Merkley,D,kalshi_suffix,630898,party
+sen-OR,kalshi,SENATEOR-26-R,David Brock Smith,R,kalshi_suffix,630899,party
+sen-OR,polymarket,630898,Jeff Merkley (D),D,polymarket_label,SENATEOR-26-D,party
+sen-OR,polymarket,630899,David Brock Smith (R),R,polymarket_label,SENATEOR-26-R,party
+sen-RI,kalshi,SENATERI-26-D,Jack Reed,D,kalshi_suffix,630911,party
+sen-RI,kalshi,SENATERI-26-R,Raymond McKay,R,kalshi_suffix,630912,party
+sen-RI,polymarket,630911,Jack Reed (D),D,polymarket_label,SENATERI-26-D,party
+sen-RI,polymarket,630912,Raymond McKay (R),R,polymarket_label,SENATERI-26-R,party
+sen-SC,kalshi,SENATESC-26-D,Annie Andrews,D,kalshi_suffix,630924,party
+sen-SC,kalshi,SENATESC-26-R,Darline Graham,R,kalshi_suffix,,party
+sen-SC,polymarket,630924,Annie Andrews (D),D,polymarket_label,SENATESC-26-D,party
+sen-SC,polymarket,630925,Darline Graham Nordone (R),R,polymarket_label,,party
+sen-SD,kalshi,SENATESD-26-BBEN,Brian Bengs,I,name_match,630939,person
+sen-SD,kalshi,SENATESD-26-D,Julian Beaudion,D,kalshi_suffix,,party
+sen-SD,kalshi,SENATESD-26-R,Mike Rounds,R,kalshi_suffix,630938,party
+sen-SD,polymarket,630937,Democrat,D,polymarket_label,,party
+sen-SD,polymarket,630938,Mike Rounds (R),R,polymarket_label,SENATESD-26-R,party
+sen-SD,polymarket,630939,Brian Bengs (I),I,polymarket_label,SENATESD-26-BBEN,person
+sen-TN,kalshi,SENATETN-26-D,Marquita Bradshaw,D,kalshi_suffix,630950,party
+sen-TN,kalshi,SENATETN-26-R,Bill Hagerty,R,kalshi_suffix,630951,party
+sen-TN,polymarket,630950,Marquita Bradshaw (D),D,polymarket_label,SENATETN-26-D,party
+sen-TN,polymarket,630951,Bill Hagerty (R),R,polymarket_label,SENATETN-26-R,party
+sen-TX,kalshi,SENATETX-26-D,James Talarico,D,kalshi_suffix,630963,party
+sen-TX,kalshi,SENATETX-26-R,Ken Paxton,R,kalshi_suffix,630964,party
+sen-TX,polymarket,630963,James Talarico (D),D,polymarket_label,SENATETX-26-D,party
+sen-TX,polymarket,630964,Ken Paxton (R),R,polymarket_label,SENATETX-26-R,party
+sen-VA,kalshi,SENATEVA-26-D,Mark Warner,D,kalshi_suffix,630976,party
+sen-VA,kalshi,SENATEVA-26-R,Bert Mizusawa,R,kalshi_suffix,630977,party
+sen-VA,polymarket,630976,Mark Warner (D),D,polymarket_label,SENATEVA-26-D,party
+sen-VA,polymarket,630977,Bert Mizusawa (R),R,polymarket_label,SENATEVA-26-R,party
+sen-WV,kalshi,SENATEWV-26-D,Rachel Fetty Anderson,D,kalshi_suffix,630989,party
+sen-WV,kalshi,SENATEWV-26-R,Shelley Moore Capito,R,kalshi_suffix,630990,party
+sen-WV,polymarket,630989,Rachel Fetty Anderson (D),D,polymarket_label,SENATEWV-26-D,party
+sen-WV,polymarket,630990,Shelley Moore Capito (R),R,polymarket_label,SENATEWV-26-R,party
+sen-WY,kalshi,SENATEWY-26-D,James Byrd,D,kalshi_suffix,631002,party
+sen-WY,kalshi,SENATEWY-26-R,Harriet Hageman,R,kalshi_suffix,631003,party
+sen-WY,polymarket,631002,James W. Byrd (D),D,polymarket_label,SENATEWY-26-D,party
+sen-WY,polymarket,631003,Harriet Hageman (R) ,R,polymarket_label,SENATEWY-26-R,party
