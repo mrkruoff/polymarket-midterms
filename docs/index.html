@@ -200,7 +200,8 @@ fetch("data.json").then(r => r.json()).then(d => { DATA = d; init(); })
 
 function init() {
   const days = Math.ceil((new Date(DATA.election_day) - new Date(DATA.generated_at)) / 864e5);
-  $("#countdown").textContent = days >= 0 ? `D−${days}` : "post-election";
+  $("#countdown").textContent = days > 0 ? `${days} day${days === 1 ? "" : "s"} to election` :
+    days === 0 ? "Election day" : "post-election";
   $("#foot").textContent = `Data: Polymarket public Gamma/CLOB APIs · generated ${DATA.generated_at.slice(0, 16).replace("T", " ")} UTC · prices are market odds, not forecasts`;
   renderKpis(); renderResults();
   $("#typeSeg").addEventListener("click", (e) => {
