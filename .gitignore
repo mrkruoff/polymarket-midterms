@@ -1,0 +1,8 @@
+# local-only: ~40-60MB per daily dump; snapshots+universe+history carry
+# everything the scoring needs. Raw dumps are re-filter insurance, kept on disk.
+data/raw/
+
+.venv/
+snapshot.log
+__pycache__/
+.DS_Store
