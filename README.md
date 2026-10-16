@@ -53,18 +53,17 @@ per-candidate event wins (`KXGOVCA` over `GOVPARTYCA`, `KXGOVAK` over
 gov-GU, gov-KS, gov-NH, house-CA-11 (Kalshi has a `KXHOUSERACE-CA11-26` event
 with no markets yet). Kalshi-only: none.
 
-**Prices.** Kalshi `yes_price` is the bid/ask midpoint, not last trade;
+**Prices.** Both venues use Polymarket's displayed-price rule: the bid/ask
+midpoint, or the last trade when the spread is wider than 10¢. Polymarket's
+`outcomePrices` (snapshots) and `prices-history` (history) already are that
+price; for Kalshi, `kalshi_common.display_price()` applies the same rule to the
+live book (snapshots) and each daily candle's closing book (history). Raw
 `best_bid`/`best_ask`/`last_price` (snapshots) and `yes_bid`/`yes_ask`/`last_price`
-(history) are kept so other rules can be applied later. Polymarket's
-`outcomePrices` (snapshots) and `prices-history` (history) are Polymarket's
-displayed price, which is already the book midpoint, *except* that Polymarket
-shows the last trade when the spread is wider than 10¢. So the two series match
-whenever spreads are tight, which is nearly always here (7 of 1,035 Kalshi
-markets had a spread over 5¢ on Oct 16). They diverge on thin books: on
-2026-09-25 about 14 safe House markets on Kalshi closed the day with bids pulled
-to ~62¢ against ~97¢ asks, so their midpoint dipped to ~80¢ for one day while
-trades stayed ~95¢. Applying Polymarket's >10¢ rule to Kalshi would be the
-strictly like-for-like choice; the columns to do so are in `history.csv`.
+(history) are kept. Spreads are almost always tight here, so this is usually
+just the midpoint; it matters on thin books. On 2026-09-25 about 14 safe House
+markets on Kalshi closed the day with bids pulled to ~62¢ against ~97¢ asks. A
+pure midpoint would have dipped them to ~80¢ for a day while trades stayed ~95¢;
+under the 10¢ rule they read ~95¢, as Polymarket would show them.
 
 **Dates.** Kalshi's daily candle ends at 04:00 UTC (midnight ET) and is labeled
 by that UTC date; Polymarket's daily point is ~00:00 UTC. Same label, 4h apart.

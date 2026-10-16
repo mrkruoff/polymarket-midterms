@@ -61,6 +61,23 @@ def midpoint(bid, ask):
     return round((bid + ask) / 2, 4)
 
 
+# Polymarket's displayed price (what its outcomePrices and prices-history carry)
+# is the book midpoint unless the spread is wider than 10c, in which case it is
+# the last trade. Kalshi prices use the same rule so the venues are compared on
+# the same definition of "price".
+WIDE_SPREAD = 0.10
+
+
+def display_price(bid, ask, last):
+    """Kalshi yes price under Polymarket's rule: midpoint, or last trade when the
+    spread is over 10c or the book is one-sided. With no trade yet, the midpoint
+    (or None) is all there is."""
+    mid = midpoint(bid, ask)
+    if mid is not None and round(ask - bid, 4) <= WIDE_SPREAD:
+        return mid
+    return last if last is not None else mid
+
+
 # Suffixes seen 2026-10-16: -D/-R almost everywhere, -DEM/-GOP (KXHOUSENC11),
 # -I/-IND for independents. Anything else (-XBEC, -DOSB, -MD, ...) is a
 # candidate code and says nothing about party.

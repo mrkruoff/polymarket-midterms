@@ -6,8 +6,9 @@ The Kalshi twin of snapshot.py, writing to the same files with venue=kalshi:
   data/snapshots/<date>.csv     one row per market; only venue=kalshi rows are replaced
   data/universe.json            Kalshi markets added (append-only), keyed by market ticker
 
-yes_price is the bid/ask midpoint, not last trade; bid, ask and last trade are
-recorded separately (best_bid, best_ask, last_price). volume is Kalshi's
+yes_price follows Polymarket's displayed-price rule (kalshi_common.display_price):
+bid/ask midpoint, or last trade when the spread is over 10c. Bid, ask and last
+trade are recorded separately (best_bid, best_ask, last_price). volume is Kalshi's
 volume_fp, a contract count, not dollars like Polymarket's.
 
 Usage: python kalshi_snapshot.py
@@ -18,7 +19,7 @@ from datetime import datetime, timezone
 
 import requests
 
-from kalshi_common import KALSHI_EVENTS, KRAW, dollars, kget, midpoint, party_from_ticker
+from kalshi_common import KALSHI_EVENTS, KRAW, display_price, dollars, kget, party_from_ticker
 from pm_common import load_universe, save_universe, write_snapshot
 
 
@@ -28,7 +29,6 @@ def build_rows(events, now_iso):
         for m in ev.get("markets", []):
             bid, ask = dollars(m.get("yes_bid_dollars")), dollars(m.get("yes_ask_dollars"))
             last = dollars(m.get("last_price_dollars"))
-            mid = midpoint(bid, ask)
             rows.append({
                 "snapshot_at": now_iso,
                 "event_id": ev["event_ticker"],
@@ -37,8 +37,7 @@ def build_rows(events, now_iso):
                 "market_id": m["ticker"],
                 "candidate": m.get("yes_sub_title"),
                 "question": m.get("title"),
-                # one-sided/empty book: fall back to last trade rather than drop the market
-                "yes_price": mid if mid is not None else last,
+                "yes_price": display_price(bid, ask, last),
                 "best_bid": bid,
                 "best_ask": ask,
                 "volume": m.get("volume_fp"),

@@ -2,9 +2,10 @@
 """Pull daily Kalshi candlesticks from Sept 1 for every Kalshi market in the universe.
 
 The Kalshi twin of backfill_history.py: replaces the venue=kalshi rows of
-data/history.csv. yes_price = midpoint of the candle's closing yes bid and ask
-(falling back to the closing trade price when the book was one-sided), with
-the bid, ask and closing trade kept in their own columns. A candle with no
+data/history.csv. yes_price follows Polymarket's displayed-price rule
+(kalshi_common.display_price) on the candle's closing yes bid and ask: their
+midpoint, or the last trade when the spread is over 10c. Bid, ask and last
+trade are kept in their own columns. A candle with no
 trades has no closing trade; last_price is then the most recent earlier one.
 
 Dates: a daily candle ends at 04:00 UTC (midnight ET) and is labeled with the
@@ -18,7 +19,7 @@ from datetime import date, datetime, timedelta, timezone
 
 import requests
 
-from kalshi_common import dollars, is_not_found, kget, midpoint
+from kalshi_common import display_price, dollars, is_not_found, kget
 from pm_common import HISTORY, load_universe, write_history
 
 START = datetime(2026, 9, 1, tzinfo=timezone.utc)
@@ -81,17 +82,17 @@ def main():
             bid = dollars((c.get("yes_bid") or {}).get("close_dollars"))
             ask = dollars((c.get("yes_ask") or {}).get("close_dollars"))
             last = dollars((c.get("price") or {}).get("close_dollars"))
-            mid_p = midpoint(bid, ask)
-            if mid_p is None:
-                mid_p = last
-            if mid_p is None:
-                continue
-            rows.append({"market_id": mid, "date": d, "yes_price": mid_p, "venue": "kalshi",
+            rows.append({"market_id": mid, "date": d, "yes_price": None, "venue": "kalshi",
                          "yes_bid": bid, "yes_ask": ask, "last_price": last})
         if i % 100 == 0:
             print(f"{i}/{len(markets)}", file=sys.stderr)
 
+    # price after filling, so a no-trade day's wide spread falls back to the
+    # last trade from an earlier day
     rows = forward_fill(rows)
+    for r in rows:
+        r["yes_price"] = display_price(r["yes_bid"], r["yes_ask"], r["last_price"])
+    rows = [r for r in rows if r["yes_price"] is not None]
     write_history(rows, "kalshi")
     print(f"{len(rows)} daily points across {len({r['market_id'] for r in rows})}/{len(markets)} "
           f"kalshi markets -> {HISTORY}" + (f"; {len(failed)} FAILED" if failed else ""))

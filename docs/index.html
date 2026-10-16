@@ -223,7 +223,7 @@ function init() {
   const days = Math.ceil((new Date(DATA.election_day) - new Date(DATA.generated_at)) / 864e5);
   $("#countdown").textContent = days > 0 ? `${days} day${days === 1 ? "" : "s"} to election` :
     days === 0 ? "Election day" : "post-election";
-  $("#foot").textContent = `Data: Polymarket public Gamma/CLOB APIs and Kalshi public trade API (Kalshi price = bid/ask midpoint) · generated ${DATA.generated_at.slice(0, 16).replace("T", " ")} UTC · prices are market odds, not forecasts`;
+  $("#foot").textContent = `Data: Polymarket public Gamma/CLOB APIs and Kalshi public trade API (prices: midpoint, or last trade when the spread is over 10¢) · generated ${DATA.generated_at.slice(0, 16).replace("T", " ")} UTC · prices are market odds, not forecasts`;
   $("#venueSeg").addEventListener("click", (e) => {
     const b = e.target.closest("button"); if (!b) return;
     state.venue = b.dataset.venue;
