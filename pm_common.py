@@ -1,4 +1,5 @@
 """Shared helpers: API access, race classification, paths."""
+import csv
 import json
 import re
 import time
@@ -152,3 +153,112 @@ def yes_token_id(market: dict):
         return tokens[outcomes.index("Yes")]
     except (ValueError, IndexError):
         return tokens[0]
+
+
+# --- venues, race keys, shared file I/O ----------------------------------------
+# Polymarket and Kalshi rows share universe.json, snapshots/<date>.csv and
+# history.csv; each row carries a venue. Market ids can't collide: Polymarket's
+# are numeric, Kalshi's are tickers.
+
+STATE_ABBR = {
+    "alabama": "AL", "alaska": "AK", "arizona": "AZ", "arkansas": "AR", "california": "CA",
+    "colorado": "CO", "connecticut": "CT", "delaware": "DE", "florida": "FL", "georgia": "GA",
+    "hawaii": "HI", "idaho": "ID", "illinois": "IL", "indiana": "IN", "iowa": "IA", "kansas": "KS",
+    "kentucky": "KY", "louisiana": "LA", "maine": "ME", "maryland": "MD", "massachusetts": "MA",
+    "michigan": "MI", "minnesota": "MN", "mississippi": "MS", "missouri": "MO", "montana": "MT",
+    "nebraska": "NE", "nevada": "NV", "new hampshire": "NH", "new jersey": "NJ", "new mexico": "NM",
+    "new york": "NY", "north carolina": "NC", "north dakota": "ND", "ohio": "OH", "oklahoma": "OK",
+    "oregon": "OR", "pennsylvania": "PA", "rhode island": "RI", "south carolina": "SC",
+    "south dakota": "SD", "tennessee": "TN", "texas": "TX", "utah": "UT", "vermont": "VT",
+    "virginia": "VA", "washington": "WA", "west virginia": "WV", "wisconsin": "WI", "wyoming": "WY",
+    "guam": "GU",
+}
+# The only 2026 Senate races in these states are specials (Vance's and Rubio's
+# seats). Neither venue's title says "special" consistently (Polymarket: "Ohio
+# Senate Election Winner"; Kalshi: series SENATEOHS, title "Ohio Senate winner?"),
+# so both venues key off this set and land on the same sen-OH-special.
+SENATE_SPECIALS_2026 = {"OH", "FL"}
+
+_SEN_GOV_TITLE = re.compile(r"^(?:special )?([a-z .'-]+?) (senate|governor)\b", re.I)
+_HOUSE_TITLE = re.compile(r"^([A-Z]{2})-(AL|\d{1,2}) House\b", re.I)
+_HOUSE_AL_TITLE = re.compile(r"^([a-z .'-]+?) House\b", re.I)   # Kalshi: "Alaska House winner?"
+
+
+def race_key(title: str):
+    """sen-TX / sen-OH-special / gov-CA / house-NY-17 / house-AK-AL from a
+    race title on either venue, or None if the title isn't a recognizable race."""
+    t = (title or "").strip()
+    if m := _HOUSE_TITLE.match(t):
+        dist = m[2].upper()
+        return f"house-{m[1].upper()}-{dist if dist == 'AL' else dist.zfill(2)}"
+    if m := _SEN_GOV_TITLE.match(t):
+        st = STATE_ABBR.get(m[1].strip().lower())
+        if not st:
+            return None
+        if m[2].lower() == "governor":
+            return f"gov-{st}"
+        special = st in SENATE_SPECIALS_2026 or re.search(r"\bspecial\b", t, re.I)
+        return f"sen-{st}-special" if special else f"sen-{st}"
+    if m := _HOUSE_AL_TITLE.match(t):   # at-large seat named by state
+        st = STATE_ABBR.get(m[1].strip().lower())
+        return f"house-{st}-AL" if st else None
+    return None
+
+
+def load_universe():
+    """universe.json with every market's venue and race_key filled in (entries
+    written before Kalshi support predate both fields; they are Polymarket)."""
+    if not UNIVERSE.exists():
+        return None
+    universe = json.loads(UNIVERSE.read_text())
+    for meta in universe["markets"].values():
+        meta.setdefault("venue", "polymarket")
+        if not meta.get("race_key"):
+            meta["race_key"] = race_key(meta.get("event_title"))
+    return universe
+
+
+def save_universe(universe):
+    UNIVERSE.write_text(json.dumps(universe, indent=1))
+
+
+# Existing Polymarket columns first, in their original order; new columns only
+# ever appended. Kalshi rows leave Polymarket-only columns blank.
+SNAPSHOT_FIELDS = [
+    "snapshot_at", "event_id", "event_slug", "event_title", "race_type", "market_id",
+    "candidate", "question", "yes_price", "best_bid", "best_ask", "volume", "liquidity",
+    "end_date", "closed", "neg_risk", "condition_id", "yes_token_id",
+    "venue", "race_key", "last_price",
+]
+HISTORY = DATA / "history.csv"
+HISTORY_FIELDS = ["market_id", "date", "yes_price", "venue", "yes_bid", "yes_ask", "last_price"]
+
+
+def _merge_write(path, fields, rows, venue, fill_old):
+    """Rewrite `path` replacing only `venue`'s rows, so the two venues' scripts
+    can run in any order without clobbering each other. Rows from files written
+    before the venue column existed are Polymarket's."""
+    kept = []
+    if path.exists():
+        with open(path, newline="") as f:
+            for r in csv.DictReader(f):
+                if not r.get("venue"):
+                    r["venue"] = "polymarket"
+                    fill_old(r)
+                if r["venue"] != venue:
+                    kept.append(r)
+    with open(path, "w", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=fields, extrasaction="ignore", restval="")
+        w.writeheader()
+        w.writerows(kept)
+        w.writerows(rows)
+
+
+def write_snapshot(stamp, rows, venue):
+    def fill(r):
+        r["race_key"] = race_key(r.get("event_title"))
+    _merge_write(SNAPS / f"{stamp}.csv", SNAPSHOT_FIELDS, rows, venue, fill)
+
+
+def write_history(rows, venue):
+    _merge_write(HISTORY, HISTORY_FIELDS, rows, venue, lambda r: None)

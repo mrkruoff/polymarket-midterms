@@ -1,0 +1,4026 @@
+[
+ {
+  "event_ticker": "KXGOVAK-26",
+  "series_ticker": "KXGOVAK",
+  "race_type": "governor",
+  "race_key": "gov-AK",
+  "title": "Alaska Governor winner?",
+  "n_markets": 16
+ },
+ {
+  "event_ticker": "GOVPARTYAL-26",
+  "series_ticker": "GOVPARTYAL",
+  "race_type": "governor",
+  "race_key": "gov-AL",
+  "title": "Alabama Governor winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "GOVPARTYAR-26",
+  "series_ticker": "GOVPARTYAR",
+  "race_type": "governor",
+  "race_key": "gov-AR",
+  "title": "Arkansas Governor winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "GOVPARTYAZ-26",
+  "series_ticker": "GOVPARTYAZ",
+  "race_type": "governor",
+  "race_key": "gov-AZ",
+  "title": "Arizona Governor winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXGOVCA-26",
+  "series_ticker": "KXGOVCA",
+  "race_type": "governor",
+  "race_key": "gov-CA",
+  "title": "California Governor winner? (Person)",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "GOVPARTYCO-26",
+  "series_ticker": "GOVPARTYCO",
+  "race_type": "governor",
+  "race_key": "gov-CO",
+  "title": "Colorado Governor winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "GOVPARTYCT-26",
+  "series_ticker": "GOVPARTYCT",
+  "race_type": "governor",
+  "race_key": "gov-CT",
+  "title": "Connecticut Governor winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "GOVPARTYFL-26",
+  "series_ticker": "GOVPARTYFL",
+  "race_type": "governor",
+  "race_key": "gov-FL",
+  "title": "Florida Governor winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "GOVPARTYGA-26",
+  "series_ticker": "GOVPARTYGA",
+  "race_type": "governor",
+  "race_key": "gov-GA",
+  "title": "Georgia Governor winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "GOVPARTYHI-26",
+  "series_ticker": "GOVPARTYHI",
+  "race_type": "governor",
+  "race_key": "gov-HI",
+  "title": "Hawaii Governor winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "GOVPARTYIA-26",
+  "series_ticker": "GOVPARTYIA",
+  "race_type": "governor",
+  "race_key": "gov-IA",
+  "title": "Iowa Governor winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "GOVPARTYID-26",
+  "series_ticker": "GOVPARTYID",
+  "race_type": "governor",
+  "race_key": "gov-ID",
+  "title": "Idaho Governor winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "GOVPARTYIL-26",
+  "series_ticker": "GOVPARTYIL",
+  "race_type": "governor",
+  "race_key": "gov-IL",
+  "title": "Illinois Governor winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "GOVPARTYMA-26",
+  "series_ticker": "GOVPARTYMA",
+  "race_type": "governor",
+  "race_key": "gov-MA",
+  "title": "Massachusetts Governor winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "GOVPARTYMD-26",
+  "series_ticker": "GOVPARTYMD",
+  "race_type": "governor",
+  "race_key": "gov-MD",
+  "title": "Maryland Governor winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "GOVPARTYME-26",
+  "series_ticker": "GOVPARTYME",
+  "race_type": "governor",
+  "race_key": "gov-ME",
+  "title": "Maine Governor winner?",
+  "n_markets": 3
+ },
+ {
+  "event_ticker": "GOVPARTYMI-26",
+  "series_ticker": "GOVPARTYMI",
+  "race_type": "governor",
+  "race_key": "gov-MI",
+  "title": "Michigan Governor winner?",
+  "n_markets": 3
+ },
+ {
+  "event_ticker": "GOVPARTYMN-26",
+  "series_ticker": "GOVPARTYMN",
+  "race_type": "governor",
+  "race_key": "gov-MN",
+  "title": "Minnesota Governor winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "GOVPARTYNE-26",
+  "series_ticker": "GOVPARTYNE",
+  "race_type": "governor",
+  "race_key": "gov-NE",
+  "title": "Nebraska Governor winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "GOVPARTYNM-26",
+  "series_ticker": "GOVPARTYNM",
+  "race_type": "governor",
+  "race_key": "gov-NM",
+  "title": "New Mexico Governor winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "GOVPARTYNV-26",
+  "series_ticker": "GOVPARTYNV",
+  "race_type": "governor",
+  "race_key": "gov-NV",
+  "title": "Nevada Governor winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "GOVPARTYNY-26",
+  "series_ticker": "GOVPARTYNY",
+  "race_type": "governor",
+  "race_key": "gov-NY",
+  "title": "New York Governor winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "GOVPARTYOH-26",
+  "series_ticker": "GOVPARTYOH",
+  "race_type": "governor",
+  "race_key": "gov-OH",
+  "title": "Ohio Governor winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "GOVPARTYOK-26",
+  "series_ticker": "GOVPARTYOK",
+  "race_type": "governor",
+  "race_key": "gov-OK",
+  "title": "Oklahoma Governor winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "GOVPARTYOR-26",
+  "series_ticker": "GOVPARTYOR",
+  "race_type": "governor",
+  "race_key": "gov-OR",
+  "title": "Oregon Governor winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "GOVPARTYPA-26",
+  "series_ticker": "GOVPARTYPA",
+  "race_type": "governor",
+  "race_key": "gov-PA",
+  "title": "Pennsylvania Governor winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "GOVPARTYRI-26",
+  "series_ticker": "GOVPARTYRI",
+  "race_type": "governor",
+  "race_key": "gov-RI",
+  "title": "Rhode Island Governor winner?",
+  "n_markets": 3
+ },
+ {
+  "event_ticker": "GOVPARTYSC-26",
+  "series_ticker": "GOVPARTYSC",
+  "race_type": "governor",
+  "race_key": "gov-SC",
+  "title": "South Carolina Governor winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "GOVPARTYSD-26",
+  "series_ticker": "GOVPARTYSD",
+  "race_type": "governor",
+  "race_key": "gov-SD",
+  "title": "South Dakota Governor winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "GOVPARTYTN-26",
+  "series_ticker": "GOVPARTYTN",
+  "race_type": "governor",
+  "race_key": "gov-TN",
+  "title": "Tennessee Governor winner?",
+  "n_markets": 3
+ },
+ {
+  "event_ticker": "GOVPARTYTX-26",
+  "series_ticker": "GOVPARTYTX",
+  "race_type": "governor",
+  "race_key": "gov-TX",
+  "title": "Texas Governor winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "GOVPARTYVT-26",
+  "series_ticker": "GOVPARTYVT",
+  "race_type": "governor",
+  "race_key": "gov-VT",
+  "title": "Vermont Governor winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "GOVPARTYWI-26",
+  "series_ticker": "GOVPARTYWI",
+  "race_type": "governor",
+  "race_key": "gov-WI",
+  "title": "Wisconsin Governor winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "GOVPARTYWY-26",
+  "series_ticker": "GOVPARTYWY",
+  "race_type": "governor",
+  "race_key": "gov-WY",
+  "title": "Wyoming Governor winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSEAKAL-26",
+  "series_ticker": "HOUSEAKAL",
+  "race_type": "house",
+  "race_key": "house-AK-AL",
+  "title": "Alaska House winner?",
+  "n_markets": 3
+ },
+ {
+  "event_ticker": "KXHOUSERACE-AL01-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-AL-01",
+  "title": "AL-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-AL02-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-AL-02",
+  "title": "AL-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-AL03-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-AL-03",
+  "title": "AL-03 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-AL04-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-AL-04",
+  "title": "AL-04 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-AL05-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-AL-05",
+  "title": "AL-05 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-AL06-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-AL-06",
+  "title": "AL-06 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-AL07-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-AL-07",
+  "title": "AL-07 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-AR01-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-AR-01",
+  "title": "AR-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-AR02-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-AR-02",
+  "title": "AR-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-AR03-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-AR-03",
+  "title": "AR-03 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-AR04-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-AR-04",
+  "title": "AR-04 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSEAZ1-26",
+  "series_ticker": "HOUSEAZ1",
+  "race_type": "house",
+  "race_key": "house-AZ-01",
+  "title": "AZ-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSEAZ2-26",
+  "series_ticker": "HOUSEAZ2",
+  "race_type": "house",
+  "race_key": "house-AZ-02",
+  "title": "AZ-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-AZ03-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-AZ-03",
+  "title": "AZ-03 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-AZ04-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-AZ-04",
+  "title": "AZ-04 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-AZ05-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-AZ-05",
+  "title": "AZ-05 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSEAZ6-26",
+  "series_ticker": "HOUSEAZ6",
+  "race_type": "house",
+  "race_key": "house-AZ-06",
+  "title": "AZ-06 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-AZ07-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-AZ-07",
+  "title": "AZ-07 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-AZ08-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-AZ-08",
+  "title": "AZ-08 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-AZ09-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-AZ-09",
+  "title": "AZ-09 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CA01-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CA-01",
+  "title": "CA-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CA02-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CA-02",
+  "title": "CA-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSECA3-26",
+  "series_ticker": "HOUSECA3",
+  "race_type": "house",
+  "race_key": "house-CA-03",
+  "title": "CA-03 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXCAELECTION-2604",
+  "series_ticker": "KXCAELECTION",
+  "race_type": "house",
+  "race_key": "house-CA-04",
+  "title": "CA-04 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CA05-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CA-05",
+  "title": "CA-05 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CA06-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CA-06",
+  "title": "CA-06 House winner?",
+  "n_markets": 3
+ },
+ {
+  "event_ticker": "KXCAELECTION-2607",
+  "series_ticker": "KXCAELECTION",
+  "race_type": "house",
+  "race_key": "house-CA-07",
+  "title": "CA-07 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CA08-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CA-08",
+  "title": "CA-08 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSECA9-26",
+  "series_ticker": "HOUSECA9",
+  "race_type": "house",
+  "race_key": "house-CA-09",
+  "title": "CA-09 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CA10-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CA-10",
+  "title": "CA-10 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXCAELECTION-2612",
+  "series_ticker": "KXCAELECTION",
+  "race_type": "house",
+  "race_key": "house-CA-12",
+  "title": "CA-12 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSECA13-26",
+  "series_ticker": "HOUSECA13",
+  "race_type": "house",
+  "race_key": "house-CA-13",
+  "title": "CA-13 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXCAELECTION-2614",
+  "series_ticker": "KXCAELECTION",
+  "race_type": "house",
+  "race_key": "house-CA-14",
+  "title": "CA-14 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CA15-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CA-15",
+  "title": "CA-15 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CA16-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CA-16",
+  "title": "CA-16 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CA17-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CA-17",
+  "title": "CA-17 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CA18-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CA-18",
+  "title": "CA-18 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CA19-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CA-19",
+  "title": "CA-19 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CA20-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CA-20",
+  "title": "CA-20 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSECA21-26",
+  "series_ticker": "HOUSECA21",
+  "race_type": "house",
+  "race_key": "house-CA-21",
+  "title": "CA-21 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSECA22-26",
+  "series_ticker": "HOUSECA22",
+  "race_type": "house",
+  "race_key": "house-CA-22",
+  "title": "CA-22 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CA23-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CA-23",
+  "title": "CA-23 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CA24-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CA-24",
+  "title": "CA-24 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CA25-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CA-25",
+  "title": "CA-25 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CA26-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CA-26",
+  "title": "CA-26 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSECA27-26",
+  "series_ticker": "HOUSECA27",
+  "race_type": "house",
+  "race_key": "house-CA-27",
+  "title": "CA-27 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CA28-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CA-28",
+  "title": "CA-28 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXCAELECTION-2629",
+  "series_ticker": "KXCAELECTION",
+  "race_type": "house",
+  "race_key": "house-CA-29",
+  "title": "CA-29 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CA30-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CA-30",
+  "title": "CA-30 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CA31-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CA-31",
+  "title": "CA-31 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CA32-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CA-32",
+  "title": "CA-32 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CA33-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CA-33",
+  "title": "CA-33 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXCAELECTION-2634",
+  "series_ticker": "KXCAELECTION",
+  "race_type": "house",
+  "race_key": "house-CA-34",
+  "title": "CA-34 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CA35-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CA-35",
+  "title": "CA-35 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CA36-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CA-36",
+  "title": "CA-36 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXCAELECTION-2637",
+  "series_ticker": "KXCAELECTION",
+  "race_type": "house",
+  "race_key": "house-CA-37",
+  "title": "CA-37 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CA38-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CA-38",
+  "title": "CA-38 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CA39-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CA-39",
+  "title": "CA-39 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXCAELECTION-2640",
+  "series_ticker": "KXCAELECTION",
+  "race_type": "house",
+  "race_key": "house-CA-40",
+  "title": "CA-40 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSECA41-26",
+  "series_ticker": "HOUSECA41",
+  "race_type": "house",
+  "race_key": "house-CA-41",
+  "title": "CA-41 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CA42-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CA-42",
+  "title": "CA-42 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CA43-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CA-43",
+  "title": "CA-43 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CA44-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CA-44",
+  "title": "CA-44 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSECA45-26",
+  "series_ticker": "HOUSECA45",
+  "race_type": "house",
+  "race_key": "house-CA-45",
+  "title": "CA-45 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CA46-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CA-46",
+  "title": "CA-46 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSECA47-26",
+  "series_ticker": "HOUSECA47",
+  "race_type": "house",
+  "race_key": "house-CA-47",
+  "title": "CA-47 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CA48-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CA-48",
+  "title": "CA-48 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSECA49-26",
+  "series_ticker": "HOUSECA49",
+  "race_type": "house",
+  "race_key": "house-CA-49",
+  "title": "CA-49 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CA50-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CA-50",
+  "title": "CA-50 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CA51-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CA-51",
+  "title": "CA-51 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CA52-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CA-52",
+  "title": "CA-52 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CO01-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CO-01",
+  "title": "CO-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CO02-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CO-02",
+  "title": "CO-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSECO3-26",
+  "series_ticker": "HOUSECO3",
+  "race_type": "house",
+  "race_key": "house-CO-03",
+  "title": "CO-03 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CO04-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CO-04",
+  "title": "CO-04 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CO05-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CO-05",
+  "title": "CO-05 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CO06-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CO-06",
+  "title": "CO-06 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CO07-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CO-07",
+  "title": "CO-07 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSECO8-26",
+  "series_ticker": "HOUSECO8",
+  "race_type": "house",
+  "race_key": "house-CO-08",
+  "title": "CO-08 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CT01-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CT-01",
+  "title": "CT-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CT02-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CT-02",
+  "title": "CT-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CT03-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CT-03",
+  "title": "CT-03 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-CT04-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-CT-04",
+  "title": "CT-04 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSECT5-26",
+  "series_ticker": "HOUSECT5",
+  "race_type": "house",
+  "race_key": "house-CT-05",
+  "title": "CT-05 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-DEAL-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-DE-AL",
+  "title": "DE-AL House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-FL01-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-FL-01",
+  "title": "FL-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-FL02-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-FL-02",
+  "title": "FL-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-FL03-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-FL-03",
+  "title": "FL-03 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-FL04-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-FL-04",
+  "title": "FL-04 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-FL05-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-FL-05",
+  "title": "FL-05 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-FL06-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-FL-06",
+  "title": "FL-06 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-FL07-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-FL-07",
+  "title": "FL-07 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-FL08-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-FL-08",
+  "title": "FL-08 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-FL09-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-FL-09",
+  "title": "FL-09 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-FL10-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-FL-10",
+  "title": "FL-10 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-FL11-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-FL-11",
+  "title": "FL-11 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-FL12-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-FL-12",
+  "title": "FL-12 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSEFL13-26",
+  "series_ticker": "HOUSEFL13",
+  "race_type": "house",
+  "race_key": "house-FL-13",
+  "title": "FL-13 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-FL14-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-FL-14",
+  "title": "FL-14 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-FL15-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-FL-15",
+  "title": "FL-15 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-FL16-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-FL-16",
+  "title": "FL-16 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-FL17-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-FL-17",
+  "title": "FL-17 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-FL18-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-FL-18",
+  "title": "FL-18 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-FL19-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-FL-19",
+  "title": "FL-19 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-FL20-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-FL-20",
+  "title": "FL-20 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-FL21-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-FL-21",
+  "title": "FL-21 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-FL22-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-FL-22",
+  "title": "FL-22 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSEFL23-26",
+  "series_ticker": "HOUSEFL23",
+  "race_type": "house",
+  "race_key": "house-FL-23",
+  "title": "FL-23 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-FL24-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-FL-24",
+  "title": "FL-24 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-FL25-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-FL-25",
+  "title": "FL-25 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-FL26-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-FL-26",
+  "title": "FL-26 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-FL27-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-FL-27",
+  "title": "FL-27 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-FL28-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-FL-28",
+  "title": "FL-28 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-GA01-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-GA-01",
+  "title": "GA-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-GA02-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-GA-02",
+  "title": "GA-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-GA03-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-GA-03",
+  "title": "GA-03 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-GA04-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-GA-04",
+  "title": "GA-04 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-GA05-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-GA-05",
+  "title": "GA-05 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-GA06-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-GA-06",
+  "title": "GA-06 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-GA07-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-GA-07",
+  "title": "GA-07 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-GA08-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-GA-08",
+  "title": "GA-08 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-GA09-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-GA-09",
+  "title": "GA-09 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-GA10-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-GA-10",
+  "title": "GA-10 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-GA11-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-GA-11",
+  "title": "GA-11 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-GA12-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-GA-12",
+  "title": "GA-12 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-GA13-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-GA-13",
+  "title": "GA-13 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-GA14-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-GA-14",
+  "title": "GA-14 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-HI01-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-HI-01",
+  "title": "HI-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-HI02-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-HI-02",
+  "title": "HI-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSEIA1-26",
+  "series_ticker": "HOUSEIA1",
+  "race_type": "house",
+  "race_key": "house-IA-01",
+  "title": "IA-01 House winner?",
+  "n_markets": 3
+ },
+ {
+  "event_ticker": "KXHOUSERACE-IA02-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-IA-02",
+  "title": "IA-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSEIA3-26",
+  "series_ticker": "HOUSEIA3",
+  "race_type": "house",
+  "race_key": "house-IA-03",
+  "title": "IA-03 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-IA04-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-IA-04",
+  "title": "IA-04 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-ID01-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-ID-01",
+  "title": "ID-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-ID02-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-ID-02",
+  "title": "ID-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-IL01-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-IL-01",
+  "title": "IL-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-IL02-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-IL-02",
+  "title": "IL-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-IL03-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-IL-03",
+  "title": "IL-03 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-IL04-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-IL-04",
+  "title": "IL-04 House winner?",
+  "n_markets": 4
+ },
+ {
+  "event_ticker": "KXHOUSERACE-IL05-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-IL-05",
+  "title": "IL-05 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-IL06-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-IL-06",
+  "title": "IL-06 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-IL07-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-IL-07",
+  "title": "IL-07 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-IL08-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-IL-08",
+  "title": "IL-08 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-IL09-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-IL-09",
+  "title": "IL-09 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-IL10-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-IL-10",
+  "title": "IL-10 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-IL11-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-IL-11",
+  "title": "IL-11 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-IL12-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-IL-12",
+  "title": "IL-12 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-IL13-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-IL-13",
+  "title": "IL-13 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-IL14-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-IL-14",
+  "title": "IL-14 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-IL15-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-IL-15",
+  "title": "IL-15 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-IL16-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-IL-16",
+  "title": "IL-16 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSEIL17-26",
+  "series_ticker": "HOUSEIL17",
+  "race_type": "house",
+  "race_key": "house-IL-17",
+  "title": "IL-17 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSEIN1-26",
+  "series_ticker": "HOUSEIN1",
+  "race_type": "house",
+  "race_key": "house-IN-01",
+  "title": "IN-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-IN02-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-IN-02",
+  "title": "IN-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-IN03-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-IN-03",
+  "title": "IN-03 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-IN04-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-IN-04",
+  "title": "IN-04 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-IN05-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-IN-05",
+  "title": "IN-05 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-IN06-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-IN-06",
+  "title": "IN-06 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSEIN7-26",
+  "series_ticker": "KXHOUSEIN7",
+  "race_type": "house",
+  "race_key": "house-IN-07",
+  "title": "IN-07 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-IN08-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-IN-08",
+  "title": "IN-08 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-IN09-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-IN-09",
+  "title": "IN-09 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-KS01-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-KS-01",
+  "title": "KS-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-KS02-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-KS-02",
+  "title": "KS-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-KS03-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-KS-03",
+  "title": "KS-03 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-KS04-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-KS-04",
+  "title": "KS-04 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-KY01-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-KY-01",
+  "title": "KY-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-KY02-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-KY-02",
+  "title": "KY-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-KY03-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-KY-03",
+  "title": "KY-03 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-KY04-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-KY-04",
+  "title": "KY-04 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-KY05-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-KY-05",
+  "title": "KY-05 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-KY06-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-KY-06",
+  "title": "KY-06 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-LA01-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-LA-01",
+  "title": "LA-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-LA02-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-LA-02",
+  "title": "LA-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-LA03-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-LA-03",
+  "title": "LA-03 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-LA04-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-LA-04",
+  "title": "LA-04 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-LA05-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-LA-05",
+  "title": "LA-05 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-LA06-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-LA-06",
+  "title": "LA-06 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MA01-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MA-01",
+  "title": "MA-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MA02-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MA-02",
+  "title": "MA-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MA03-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MA-03",
+  "title": "MA-03 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MA04-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MA-04",
+  "title": "MA-04 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MA05-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MA-05",
+  "title": "MA-05 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MA06-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MA-06",
+  "title": "MA-06 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MA07-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MA-07",
+  "title": "MA-07 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MA08-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MA-08",
+  "title": "MA-08 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MA09-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MA-09",
+  "title": "MA-09 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MD01-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MD-01",
+  "title": "MD-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MD02-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MD-02",
+  "title": "MD-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MD03-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MD-03",
+  "title": "MD-03 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MD04-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MD-04",
+  "title": "MD-04 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MD05-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MD-05",
+  "title": "MD-05 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MD06-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MD-06",
+  "title": "MD-06 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MD07-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MD-07",
+  "title": "MD-07 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MD08-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MD-08",
+  "title": "MD-08 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-ME01-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-ME-01",
+  "title": "ME-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSEME2-26",
+  "series_ticker": "HOUSEME2",
+  "race_type": "house",
+  "race_key": "house-ME-02",
+  "title": "ME-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MI01-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MI-01",
+  "title": "MI-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MI02-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MI-02",
+  "title": "MI-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSEMI3-26",
+  "series_ticker": "HOUSEMI3",
+  "race_type": "house",
+  "race_key": "house-MI-03",
+  "title": "MI-03 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSEMI4-26",
+  "series_ticker": "HOUSEMI4",
+  "race_type": "house",
+  "race_key": "house-MI-04",
+  "title": "MI-04 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MI05-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MI-05",
+  "title": "MI-05 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MI06-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MI-06",
+  "title": "MI-06 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSEMI7-26",
+  "series_ticker": "HOUSEMI7",
+  "race_type": "house",
+  "race_key": "house-MI-07",
+  "title": "MI-07 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSEMI8-26",
+  "series_ticker": "HOUSEMI8",
+  "race_type": "house",
+  "race_key": "house-MI-08",
+  "title": "MI-08 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MI09-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MI-09",
+  "title": "MI-09 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSEMI10-26",
+  "series_ticker": "HOUSEMI10",
+  "race_type": "house",
+  "race_key": "house-MI-10",
+  "title": "MI-10 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MI11-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MI-11",
+  "title": "MI-11 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MI12-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MI-12",
+  "title": "MI-12 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MI13-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MI-13",
+  "title": "MI-13 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MN01-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MN-01",
+  "title": "MN-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSEMN2-26",
+  "series_ticker": "HOUSEMN2",
+  "race_type": "house",
+  "race_key": "house-MN-02",
+  "title": "MN-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MN03-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MN-03",
+  "title": "MN-03 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MN04-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MN-04",
+  "title": "MN-04 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MN05-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MN-05",
+  "title": "MN-05 House winner?",
+  "n_markets": 3
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MN06-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MN-06",
+  "title": "MN-06 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MN07-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MN-07",
+  "title": "MN-07 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MN08-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MN-08",
+  "title": "MN-08 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MO01-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MO-01",
+  "title": "MO-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MO02-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MO-02",
+  "title": "MO-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MO03-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MO-03",
+  "title": "MO-03 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MO04-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MO-04",
+  "title": "MO-04 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSEMO5-26",
+  "series_ticker": "KXHOUSEMO5",
+  "race_type": "house",
+  "race_key": "house-MO-05",
+  "title": "MO-05 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MO06-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MO-06",
+  "title": "MO-06 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MO07-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MO-07",
+  "title": "MO-07 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MO08-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MO-08",
+  "title": "MO-08 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MS01-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MS-01",
+  "title": "MS-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MS02-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MS-02",
+  "title": "MS-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MS03-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MS-03",
+  "title": "MS-03 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MS04-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MS-04",
+  "title": "MS-04 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSEMT1-26",
+  "series_ticker": "HOUSEMT1",
+  "race_type": "house",
+  "race_key": "house-MT-01",
+  "title": "MT-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-MT02-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-MT-02",
+  "title": "MT-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSENC1-26",
+  "series_ticker": "HOUSENC1",
+  "race_type": "house",
+  "race_key": "house-NC-01",
+  "title": "NC-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NC02-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NC-02",
+  "title": "NC-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NC03-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NC-03",
+  "title": "NC-03 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NC04-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NC-04",
+  "title": "NC-04 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NC05-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NC-05",
+  "title": "NC-05 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NC06-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NC-06",
+  "title": "NC-06 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NC07-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NC-07",
+  "title": "NC-07 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NC08-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NC-08",
+  "title": "NC-08 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NC09-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NC-09",
+  "title": "NC-09 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NC10-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NC-10",
+  "title": "NC-10 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSENC11-26",
+  "series_ticker": "KXHOUSENC11",
+  "race_type": "house",
+  "race_key": "house-NC-11",
+  "title": "NC-11 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NC12-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NC-12",
+  "title": "NC-12 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NC13-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NC-13",
+  "title": "NC-13 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NC14-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NC-14",
+  "title": "NC-14 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NDAL-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-ND-AL",
+  "title": "ND-AL House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NE01-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NE-01",
+  "title": "NE-01 House winner?",
+  "n_markets": 3
+ },
+ {
+  "event_ticker": "HOUSENE2-26",
+  "series_ticker": "HOUSENE2",
+  "race_type": "house",
+  "race_key": "house-NE-02",
+  "title": "NE-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NE03-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NE-03",
+  "title": "NE-03 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSENH1-26",
+  "series_ticker": "HOUSENH1",
+  "race_type": "house",
+  "race_key": "house-NH-01",
+  "title": "NH-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NH02-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NH-02",
+  "title": "NH-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NJ01-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NJ-01",
+  "title": "NJ-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NJ02-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NJ-02",
+  "title": "NJ-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NJ03-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NJ-03",
+  "title": "NJ-03 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NJ04-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NJ-04",
+  "title": "NJ-04 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSENJ5-26",
+  "series_ticker": "HOUSENJ5",
+  "race_type": "house",
+  "race_key": "house-NJ-05",
+  "title": "NJ-05 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NJ06-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NJ-06",
+  "title": "NJ-06 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSENJ7-26",
+  "series_ticker": "HOUSENJ7",
+  "race_type": "house",
+  "race_key": "house-NJ-07",
+  "title": "NJ-07 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NJ08-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NJ-08",
+  "title": "NJ-08 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSENJ9-26",
+  "series_ticker": "HOUSENJ9",
+  "race_type": "house",
+  "race_key": "house-NJ-09",
+  "title": "NJ-09 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NJ10-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NJ-10",
+  "title": "NJ-10 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NJ11-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NJ-11",
+  "title": "NJ-11 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NJ12-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NJ-12",
+  "title": "NJ-12 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NM01-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NM-01",
+  "title": "NM-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSENM2-26",
+  "series_ticker": "HOUSENM2",
+  "race_type": "house",
+  "race_key": "house-NM-02",
+  "title": "NM-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NM03-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NM-03",
+  "title": "NM-03 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSENV1-26",
+  "series_ticker": "HOUSENV1",
+  "race_type": "house",
+  "race_key": "house-NV-01",
+  "title": "NV-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NV02-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NV-02",
+  "title": "NV-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSENV3-26",
+  "series_ticker": "HOUSENV3",
+  "race_type": "house",
+  "race_key": "house-NV-03",
+  "title": "NV-03 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSENV4-26",
+  "series_ticker": "HOUSENV4",
+  "race_type": "house",
+  "race_key": "house-NV-04",
+  "title": "NV-04 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NY01-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NY-01",
+  "title": "NY-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NY02-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NY-02",
+  "title": "NY-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSENY3-26",
+  "series_ticker": "HOUSENY3",
+  "race_type": "house",
+  "race_key": "house-NY-03",
+  "title": "NY-03 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSENY4-26",
+  "series_ticker": "HOUSENY4",
+  "race_type": "house",
+  "race_key": "house-NY-04",
+  "title": "NY-04 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NY05-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NY-05",
+  "title": "NY-05 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NY06-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NY-06",
+  "title": "NY-06 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NY07-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NY-07",
+  "title": "NY-07 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NY08-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NY-08",
+  "title": "NY-08 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NY09-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NY-09",
+  "title": "NY-09 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NY10-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NY-10",
+  "title": "NY-10 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NY11-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NY-11",
+  "title": "NY-11 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NY12-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NY-12",
+  "title": "NY-12 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NY13-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NY-13",
+  "title": "NY-13 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NY14-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NY-14",
+  "title": "NY-14 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NY15-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NY-15",
+  "title": "NY-15 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NY16-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NY-16",
+  "title": "NY-16 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSENY17-26",
+  "series_ticker": "HOUSENY17",
+  "race_type": "house",
+  "race_key": "house-NY-17",
+  "title": "NY-17 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSENY18-26",
+  "series_ticker": "HOUSENY18",
+  "race_type": "house",
+  "race_key": "house-NY-18",
+  "title": "NY-18 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSENY19-26",
+  "series_ticker": "HOUSENY19",
+  "race_type": "house",
+  "race_key": "house-NY-19",
+  "title": "NY-19 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NY20-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NY-20",
+  "title": "NY-20 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NY21-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NY-21",
+  "title": "NY-21 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSENY22-26",
+  "series_ticker": "HOUSENY22",
+  "race_type": "house",
+  "race_key": "house-NY-22",
+  "title": "NY-22 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NY23-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NY-23",
+  "title": "NY-23 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NY24-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NY-24",
+  "title": "NY-24 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NY25-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NY-25",
+  "title": "NY-25 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-NY26-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-NY-26",
+  "title": "NY-26 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSEOH1-26",
+  "series_ticker": "HOUSEOH1",
+  "race_type": "house",
+  "race_key": "house-OH-01",
+  "title": "OH-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-OH02-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-OH-02",
+  "title": "OH-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-OH03-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-OH-03",
+  "title": "OH-03 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-OH04-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-OH-04",
+  "title": "OH-04 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-OH05-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-OH-05",
+  "title": "OH-05 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-OH06-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-OH-06",
+  "title": "OH-06 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-OH07-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-OH-07",
+  "title": "OH-07 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-OH08-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-OH-08",
+  "title": "OH-08 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSEOH9-26",
+  "series_ticker": "HOUSEOH9",
+  "race_type": "house",
+  "race_key": "house-OH-09",
+  "title": "OH-09 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-OH10-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-OH-10",
+  "title": "OH-10 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-OH11-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-OH-11",
+  "title": "OH-11 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-OH12-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-OH-12",
+  "title": "OH-12 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSEOH13-26",
+  "series_ticker": "HOUSEOH13",
+  "race_type": "house",
+  "race_key": "house-OH-13",
+  "title": "OH-13 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-OH14-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-OH-14",
+  "title": "OH-14 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-OH15-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-OH-15",
+  "title": "OH-15 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-OK01-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-OK-01",
+  "title": "OK-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-OK02-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-OK-02",
+  "title": "OK-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-OK03-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-OK-03",
+  "title": "OK-03 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-OK04-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-OK-04",
+  "title": "OK-04 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-OK05-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-OK-05",
+  "title": "OK-05 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-OR01-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-OR-01",
+  "title": "OR-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-OR02-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-OR-02",
+  "title": "OR-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-OR03-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-OR-03",
+  "title": "OR-03 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-OR04-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-OR-04",
+  "title": "OR-04 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSEOR5-26",
+  "series_ticker": "HOUSEOR5",
+  "race_type": "house",
+  "race_key": "house-OR-05",
+  "title": "OR-05 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-OR06-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-OR-06",
+  "title": "OR-06 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSEPA1-26",
+  "series_ticker": "HOUSEPA1",
+  "race_type": "house",
+  "race_key": "house-PA-01",
+  "title": "PA-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-PA02-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-PA-02",
+  "title": "PA-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-PA03-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-PA-03",
+  "title": "PA-03 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-PA04-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-PA-04",
+  "title": "PA-04 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-PA05-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-PA-05",
+  "title": "PA-05 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-PA06-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-PA-06",
+  "title": "PA-06 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSEPA7-26",
+  "series_ticker": "HOUSEPA7",
+  "race_type": "house",
+  "race_key": "house-PA-07",
+  "title": "PA-07 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSEPA8-26",
+  "series_ticker": "HOUSEPA8",
+  "race_type": "house",
+  "race_key": "house-PA-08",
+  "title": "PA-08 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-PA09-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-PA-09",
+  "title": "PA-09 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSEPA10-26",
+  "series_ticker": "HOUSEPA10",
+  "race_type": "house",
+  "race_key": "house-PA-10",
+  "title": "PA-10 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-PA11-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-PA-11",
+  "title": "PA-11 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-PA12-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-PA-12",
+  "title": "PA-12 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-PA13-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-PA-13",
+  "title": "PA-13 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-PA14-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-PA-14",
+  "title": "PA-14 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-PA15-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-PA-15",
+  "title": "PA-15 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-PA16-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-PA-16",
+  "title": "PA-16 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSEPA17-26",
+  "series_ticker": "HOUSEPA17",
+  "race_type": "house",
+  "race_key": "house-PA-17",
+  "title": "PA-17 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-RI01-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-RI-01",
+  "title": "RI-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-RI02-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-RI-02",
+  "title": "RI-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-SC01-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-SC-01",
+  "title": "SC-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-SC02-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-SC-02",
+  "title": "SC-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-SC03-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-SC-03",
+  "title": "SC-03 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-SC04-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-SC-04",
+  "title": "SC-04 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-SC05-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-SC-05",
+  "title": "SC-05 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-SC06-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-SC-06",
+  "title": "SC-06 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-SC07-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-SC-07",
+  "title": "SC-07 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-SDAL-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-SD-AL",
+  "title": "SD-AL House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TN01-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TN-01",
+  "title": "TN-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TN02-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TN-02",
+  "title": "TN-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TN03-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TN-03",
+  "title": "TN-03 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TN04-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TN-04",
+  "title": "TN-04 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TN05-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TN-05",
+  "title": "TN-05 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TN06-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TN-06",
+  "title": "TN-06 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TN07-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TN-07",
+  "title": "TN-07 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TN08-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TN-08",
+  "title": "TN-08 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TN09-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TN-09",
+  "title": "TN-09 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TX01-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TX-01",
+  "title": "TX-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TX02-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TX-02",
+  "title": "TX-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TX03-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TX-03",
+  "title": "TX-03 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TX04-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TX-04",
+  "title": "TX-04 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TX05-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TX-05",
+  "title": "TX-05 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TX06-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TX-06",
+  "title": "TX-06 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TX07-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TX-07",
+  "title": "TX-07 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TX08-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TX-08",
+  "title": "TX-08 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSETX9-26",
+  "series_ticker": "KXHOUSETX9",
+  "race_type": "house",
+  "race_key": "house-TX-09",
+  "title": "TX-09 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TX10-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TX-10",
+  "title": "TX-10 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TX11-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TX-11",
+  "title": "TX-11 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TX12-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TX-12",
+  "title": "TX-12 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TX13-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TX-13",
+  "title": "TX-13 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TX14-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TX-14",
+  "title": "TX-14 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSETX15-26",
+  "series_ticker": "HOUSETX15",
+  "race_type": "house",
+  "race_key": "house-TX-15",
+  "title": "TX-15 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TX16-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TX-16",
+  "title": "TX-16 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TX17-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TX-17",
+  "title": "TX-17 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TX18-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TX-18",
+  "title": "TX-18 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TX19-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TX-19",
+  "title": "TX-19 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TX20-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TX-20",
+  "title": "TX-20 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TX21-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TX-21",
+  "title": "TX-21 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TX22-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TX-22",
+  "title": "TX-22 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TX23-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TX-23",
+  "title": "TX-23 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TX24-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TX-24",
+  "title": "TX-24 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TX25-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TX-25",
+  "title": "TX-25 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TX26-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TX-26",
+  "title": "TX-26 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TX27-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TX-27",
+  "title": "TX-27 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSETX28-26",
+  "series_ticker": "HOUSETX28",
+  "race_type": "house",
+  "race_key": "house-TX-28",
+  "title": "TX-28 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TX29-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TX-29",
+  "title": "TX-29 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TX30-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TX-30",
+  "title": "TX-30 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TX31-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TX-31",
+  "title": "TX-31 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSETX32-26",
+  "series_ticker": "KXHOUSETX32",
+  "race_type": "house",
+  "race_key": "house-TX-32",
+  "title": "TX-32 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TX33-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TX-33",
+  "title": "TX-33 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSETX34-26",
+  "series_ticker": "HOUSETX34",
+  "race_type": "house",
+  "race_key": "house-TX-34",
+  "title": "TX-34 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSETX35-26",
+  "series_ticker": "KXHOUSETX35",
+  "race_type": "house",
+  "race_key": "house-TX-35",
+  "title": "TX-35 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TX36-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TX-36",
+  "title": "TX-36 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TX37-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TX-37",
+  "title": "TX-37 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-TX38-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-TX-38",
+  "title": "TX-38 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSEUT01-26",
+  "series_ticker": "KXHOUSEUT01",
+  "race_type": "house",
+  "race_key": "house-UT-01",
+  "title": "UT-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSEUT02-26",
+  "series_ticker": "KXHOUSEUT02",
+  "race_type": "house",
+  "race_key": "house-UT-02",
+  "title": "UT-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSEUT03-26",
+  "series_ticker": "KXHOUSEUT03",
+  "race_type": "house",
+  "race_key": "house-UT-03",
+  "title": "UT-03 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-UT04-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-UT-04",
+  "title": "UT-04 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSEVA1-26",
+  "series_ticker": "HOUSEVA1",
+  "race_type": "house",
+  "race_key": "house-VA-01",
+  "title": "VA-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSEVA2-26",
+  "series_ticker": "HOUSEVA2",
+  "race_type": "house",
+  "race_key": "house-VA-02",
+  "title": "VA-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-VA03-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-VA-03",
+  "title": "VA-03 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-VA04-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-VA-04",
+  "title": "VA-04 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-VA05-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-VA-05",
+  "title": "VA-05 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-VA06-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-VA-06",
+  "title": "VA-06 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSEVA7-26",
+  "series_ticker": "HOUSEVA7",
+  "race_type": "house",
+  "race_key": "house-VA-07",
+  "title": "VA-07 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-VA08-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-VA-08",
+  "title": "VA-08 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-VA09-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-VA-09",
+  "title": "VA-09 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSEVA10-26",
+  "series_ticker": "KXHOUSEVA10",
+  "race_type": "house",
+  "race_key": "house-VA-10",
+  "title": "VA-10 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-VA11-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-VA-11",
+  "title": "VA-11 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-VTAL-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-VT-AL",
+  "title": "VT-AL House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-WA01-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-WA-01",
+  "title": "WA-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-WA02-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-WA-02",
+  "title": "WA-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSEWA3-26",
+  "series_ticker": "HOUSEWA3",
+  "race_type": "house",
+  "race_key": "house-WA-03",
+  "title": "WA-03 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-WA04-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-WA-04",
+  "title": "WA-04 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-WA05-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-WA-05",
+  "title": "WA-05 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-WA06-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-WA-06",
+  "title": "WA-06 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-WA07-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-WA-07",
+  "title": "WA-07 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSEWA8-26",
+  "series_ticker": "KXHOUSEWA8",
+  "race_type": "house",
+  "race_key": "house-WA-08",
+  "title": "WA-08 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-WA09-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-WA-09",
+  "title": "WA-09 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-WA10-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-WA-10",
+  "title": "WA-10 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSEWI1-26",
+  "series_ticker": "HOUSEWI1",
+  "race_type": "house",
+  "race_key": "house-WI-01",
+  "title": "WI-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-WI02-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-WI-02",
+  "title": "WI-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "HOUSEWI3-26",
+  "series_ticker": "HOUSEWI3",
+  "race_type": "house",
+  "race_key": "house-WI-03",
+  "title": "WI-03 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-WI04-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-WI-04",
+  "title": "WI-04 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-WI05-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-WI-05",
+  "title": "WI-05 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-WI06-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-WI-06",
+  "title": "WI-06 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-WI07-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-WI-07",
+  "title": "WI-07 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-WI08-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-WI-08",
+  "title": "WI-08 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-WV01-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-WV-01",
+  "title": "WV-01 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-WV02-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-WV-02",
+  "title": "WV-02 House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXHOUSERACE-WYAL-26",
+  "series_ticker": "KXHOUSERACE",
+  "race_type": "house",
+  "race_key": "house-WY-AL",
+  "title": "WY-AL House winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "SENATEAK-26",
+  "series_ticker": "SENATEAK",
+  "race_type": "senate",
+  "race_key": "sen-AK",
+  "title": "Alaska Senate winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "SENATEAL-26",
+  "series_ticker": "SENATEAL",
+  "race_type": "senate",
+  "race_key": "sen-AL",
+  "title": "Alabama Senate winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "SENATEAR-26",
+  "series_ticker": "SENATEAR",
+  "race_type": "senate",
+  "race_key": "sen-AR",
+  "title": "Arkansas Senate winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "SENATECO-26",
+  "series_ticker": "SENATECO",
+  "race_type": "senate",
+  "race_key": "sen-CO",
+  "title": "Colorado Senate winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "SENATEDE-26",
+  "series_ticker": "SENATEDE",
+  "race_type": "senate",
+  "race_key": "sen-DE",
+  "title": "Delaware Senate winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "SENATEFLS-26",
+  "series_ticker": "SENATEFLS",
+  "race_type": "senate",
+  "race_key": "sen-FL-special",
+  "title": "Florida Senate winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "SENATEGA-26",
+  "series_ticker": "SENATEGA",
+  "race_type": "senate",
+  "race_key": "sen-GA",
+  "title": "Georgia Senate winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "SENATEIA-26",
+  "series_ticker": "SENATEIA",
+  "race_type": "senate",
+  "race_key": "sen-IA",
+  "title": "Iowa Senate winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "SENATEID-26",
+  "series_ticker": "SENATEID",
+  "race_type": "senate",
+  "race_key": "sen-ID",
+  "title": "Idaho Senate winner?",
+  "n_markets": 3
+ },
+ {
+  "event_ticker": "SENATEIL-26",
+  "series_ticker": "SENATEIL",
+  "race_type": "senate",
+  "race_key": "sen-IL",
+  "title": "Illinois Senate winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "SENATEKS-26",
+  "series_ticker": "SENATEKS",
+  "race_type": "senate",
+  "race_key": "sen-KS",
+  "title": "Kansas Senate winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "SENATELA-26",
+  "series_ticker": "SENATELA",
+  "race_type": "senate",
+  "race_key": "sen-KY",
+  "title": "Kentucky Senate winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "KXSENATELA-26NOV",
+  "series_ticker": "KXSENATELA",
+  "race_type": "senate",
+  "race_key": "sen-LA",
+  "title": "Louisiana Senate winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "SENATEMA-26",
+  "series_ticker": "SENATEMA",
+  "race_type": "senate",
+  "race_key": "sen-MA",
+  "title": "Massachusetts Senate winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "SENATEME-26",
+  "series_ticker": "SENATEME",
+  "race_type": "senate",
+  "race_key": "sen-ME",
+  "title": "Maine Senate winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "SENATEMI-26",
+  "series_ticker": "SENATEMI",
+  "race_type": "senate",
+  "race_key": "sen-MI",
+  "title": "Michigan Senate winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "SENATEMN-26",
+  "series_ticker": "SENATEMN",
+  "race_type": "senate",
+  "race_key": "sen-MN",
+  "title": "Minnesota Senate winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "SENATEMS-26",
+  "series_ticker": "SENATEMS",
+  "race_type": "senate",
+  "race_key": "sen-MS",
+  "title": "Mississippi Senate winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "SENATEMT-26",
+  "series_ticker": "SENATEMT",
+  "race_type": "senate",
+  "race_key": "sen-MT",
+  "title": "Montana Senate winner?",
+  "n_markets": 3
+ },
+ {
+  "event_ticker": "SENATENC-26",
+  "series_ticker": "SENATENC",
+  "race_type": "senate",
+  "race_key": "sen-NC",
+  "title": "North Carolina Senate winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "SENATENE-26",
+  "series_ticker": "SENATENE",
+  "race_type": "senate",
+  "race_key": "sen-NE",
+  "title": "Nebraska Senate winner?",
+  "n_markets": 3
+ },
+ {
+  "event_ticker": "SENATENH-26",
+  "series_ticker": "SENATENH",
+  "race_type": "senate",
+  "race_key": "sen-NH",
+  "title": "New Hampshire Senate winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "SENATENJ-26",
+  "series_ticker": "SENATENJ",
+  "race_type": "senate",
+  "race_key": "sen-NJ",
+  "title": "New Jersey Senate winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "SENATENM-26",
+  "series_ticker": "SENATENM",
+  "race_type": "senate",
+  "race_key": "sen-NM",
+  "title": "New Mexico Senate winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "SENATEOHS-26",
+  "series_ticker": "SENATEOHS",
+  "race_type": "senate",
+  "race_key": "sen-OH-special",
+  "title": "Ohio Senate winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "SENATEOK-26",
+  "series_ticker": "SENATEOK",
+  "race_type": "senate",
+  "race_key": "sen-OK",
+  "title": "Oklahoma Senate winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "SENATEOR-26",
+  "series_ticker": "SENATEOR",
+  "race_type": "senate",
+  "race_key": "sen-OR",
+  "title": "Oregon Senate winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "SENATERI-26",
+  "series_ticker": "SENATERI",
+  "race_type": "senate",
+  "race_key": "sen-RI",
+  "title": "Rhode Island Senate winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "SENATESC-26",
+  "series_ticker": "SENATESC",
+  "race_type": "senate",
+  "race_key": "sen-SC",
+  "title": "South Carolina Senate winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "SENATESD-26",
+  "series_ticker": "SENATESD",
+  "race_type": "senate",
+  "race_key": "sen-SD",
+  "title": "South Dakota Senate winner?",
+  "n_markets": 3
+ },
+ {
+  "event_ticker": "SENATETN-26",
+  "series_ticker": "SENATETN",
+  "race_type": "senate",
+  "race_key": "sen-TN",
+  "title": "Tennessee Senate winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "SENATETX-26",
+  "series_ticker": "SENATETX",
+  "race_type": "senate",
+  "race_key": "sen-TX",
+  "title": "Texas Senate winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "SENATEVA-26",
+  "series_ticker": "SENATEVA",
+  "race_type": "senate",
+  "race_key": "sen-VA",
+  "title": "Virginia Senate winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "SENATEWV-26",
+  "series_ticker": "SENATEWV",
+  "race_type": "senate",
+  "race_key": "sen-WV",
+  "title": "West Virginia Senate winner?",
+  "n_markets": 2
+ },
+ {
+  "event_ticker": "SENATEWY-26",
+  "series_ticker": "SENATEWY",
+  "race_type": "senate",
+  "race_key": "sen-WY",
+  "title": "Wyoming Senate winner?",
+  "n_markets": 2
+ }
+]

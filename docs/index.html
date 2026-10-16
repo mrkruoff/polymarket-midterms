@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Polymarket 2026 Midterms Tracker</title>
+<title>2026 Midterms Market Tracker</title>
 <style>
   :root {
     color-scheme: light;
@@ -89,6 +89,8 @@
   .legend { display: flex; flex-wrap: wrap; gap: 4px 14px; font-size: 12px; color: var(--ink-2); margin: 6px 0 2px; }
   .legend .item { display: inline-flex; align-items: center; gap: 6px; }
   .legend .lk { width: 14px; height: 0; border-top: 2px solid; border-radius: 2px; }
+  .legend .lk.dash { border-top-style: dashed; }
+  .twin-note { color: var(--ink-2); font-size: 12px; margin: 2px 0 6px; }
   .chartbox { position: relative; }
   .chartbox svg { display: block; width: 100%; height: auto; }
   .tooltip {
@@ -113,8 +115,8 @@
 <body>
 <header>
   <div>
-    <h1>Polymarket 2026 Midterms Tracker</h1>
-    <p class="sub">Daily snapshot of every Senate, House and governor race market &middot; election day Nov 3, 2026</p>
+    <h1>2026 Midterms Market Tracker</h1>
+    <p class="sub">Daily snapshot of every Senate, House and governor race on Polymarket and Kalshi &middot; election day Nov 3, 2026</p>
   </div>
   <div class="hdr-right">
     <span id="countdown"></span>
@@ -124,6 +126,11 @@
 <main>
   <section class="kpis" id="kpis"></section>
   <section class="filters">
+    <span class="seg" id="venueSeg" role="group" aria-label="Venue">
+      <button data-venue="polymarket" aria-pressed="true">Polymarket</button>
+      <button data-venue="kalshi" aria-pressed="false">Kalshi</button>
+      <button data-venue="both" aria-pressed="false">On both</button>
+    </span>
     <span class="seg" id="typeSeg" role="group" aria-label="Race type">
       <button data-type="" aria-pressed="true">All</button>
       <button data-type="senate" aria-pressed="false">Senate</button>
@@ -142,7 +149,7 @@
     <div class="tablewrap">
       <table>
         <thead><tr>
-          <th>Race</th><th>Favorite</th><th class="num">Price</th><th class="num">Volume</th><th>Trend</th>
+          <th>Race</th><th>Favorite</th><th class="num">Price</th><th class="num" id="otherHdr">Kalshi</th><th class="num">Volume</th><th>Trend</th>
         </tr></thead>
         <tbody id="rows"></tbody>
       </table>
@@ -159,7 +166,13 @@ if (location.hash === "#dark" || location.hash === "#light")
 const $ = (s) => document.querySelector(s);
 const NEUTRALS = ["var(--c-n1)", "var(--c-n2)", "var(--c-n3)", "var(--c-n4)"];
 const fmtPct = (p) => p == null ? "–" : (p * 100).toFixed(p >= 0.995 || p < 0.01 ? 1 : 0) + "%";
-const fmtVol = (v) => v >= 1e6 ? "$" + (v / 1e6).toFixed(1) + "M" : v >= 1e3 ? "$" + Math.round(v / 1e3) + "K" : "$" + Math.round(v);
+// Polymarket volume is dollars; Kalshi's is a contract count (each pays $1), so
+// the two are labeled differently and never summed together
+const fmtVol = (v, venue = "polymarket") => {
+  const [pre, suf] = venue === "kalshi" ? ["", " ct"] : ["$", ""];
+  return pre + (v >= 1e6 ? (v / 1e6).toFixed(1) + "M" : v >= 1e3 ? Math.round(v / 1e3) + "K" : Math.round(v)) + suf;
+};
+const VENUE_NAME = { polymarket: "Polymarket", kalshi: "Kalshi" };
 const el = (tag, attrs = {}, ...kids) => {
   const ns = ["svg","path","line","circle","g","text","rect"].includes(tag);
   const n = ns ? document.createElementNS("http://www.w3.org/2000/svg", tag) : document.createElement(tag);
@@ -172,28 +185,36 @@ const el = (tag, attrs = {}, ...kids) => {
   return n;
 };
 
-// party from candidate name; null -> neutral slot (never blue/red, so partisan
-// color can't mislead when the party is unknown)
-function party(name) {
-  if (/\(D\)|Democrat/i.test(name)) return "D";
-  if (/\(R\)|Republican/i.test(name)) return "R";
+// party from data/candidates.csv, else the name's own label; null -> neutral
+// slot (never blue/red, so partisan color can't mislead when the party is unknown)
+function party(c) {
+  if (c.party === "D" || c.party === "R") return c.party;
+  if (/\(D\)|Democrat/i.test(c.name)) return "D";
+  if (/\(R\)|Republican/i.test(c.name)) return "R";
   return null;
 }
 function colorsFor(cands) {
   // color follows the entity: party colors where known, otherwise neutral slots
   // assigned in alphabetical order so they never repaint on re-sort
   const colors = new Map();
-  const unknown = cands.filter(c => !party(c.name)).map(c => c.name).sort();
+  const unknown = cands.filter(c => !party(c)).map(c => c.name).sort();
   for (const c of cands) {
-    const p = party(c.name);
+    const p = party(c);
     colors.set(c.name, p === "D" ? "var(--c-dem)" : p === "R" ? "var(--c-rep)" :
       NEUTRALS[unknown.indexOf(c.name) % NEUTRALS.length]);
   }
   return colors;
 }
 const favorite = (race) => race.candidates[0];
+const raceById = (id) => DATA.races.find(r => r.id === id);
+const twinRace = (race) => race.twin ? raceById(race.twin) : null;
+// the other venue's price for the same outcome as candidate c, or null
+const twinPrice = (race, c) => {
+  const t = twinRace(race), tc = t && c.twin ? t.candidates.find(x => x.id === c.twin) : null;
+  return tc ? tc.price : null;
+};
 
-let DATA, state = { type: "", q: "", sort: "volume", sel: null };
+let DATA, state = { venue: "polymarket", type: "", q: "", sort: "volume", sel: null };
 
 fetch("data.json").then(r => r.json()).then(d => { DATA = d; init(); })
   .catch(e => { $("#detail").textContent = "Failed to load data.json — serve this folder over HTTP."; });
@@ -202,8 +223,13 @@ function init() {
   const days = Math.ceil((new Date(DATA.election_day) - new Date(DATA.generated_at)) / 864e5);
   $("#countdown").textContent = days > 0 ? `${days} day${days === 1 ? "" : "s"} to election` :
     days === 0 ? "Election day" : "post-election";
-  $("#foot").textContent = `Data: Polymarket public Gamma/CLOB APIs · generated ${DATA.generated_at.slice(0, 16).replace("T", " ")} UTC · prices are market odds, not forecasts`;
-  renderKpis(); renderResults();
+  $("#foot").textContent = `Data: Polymarket public Gamma/CLOB APIs and Kalshi public trade API (prices: midpoint, or last trade when the spread is over 10¢) · generated ${DATA.generated_at.slice(0, 16).replace("T", " ")} UTC · prices are market odds, not forecasts`;
+  $("#venueSeg").addEventListener("click", (e) => {
+    const b = e.target.closest("button"); if (!b) return;
+    state.venue = b.dataset.venue;
+    for (const x of $("#venueSeg").children) x.setAttribute("aria-pressed", x === b);
+    renderTable();
+  });
   $("#typeSeg").addEventListener("click", (e) => {
     const b = e.target.closest("button"); if (!b) return;
     state.type = b.dataset.type;
@@ -221,22 +247,27 @@ function init() {
   renderTable();
 }
 
+// "On both" lists the Polymarket side of every race that has a Kalshi twin
+const baseVenue = () => state.venue === "kalshi" ? "kalshi" : "polymarket";
+const otherVenue = () => baseVenue() === "kalshi" ? "polymarket" : "kalshi";
+
 function renderKpis() {
-  const races = DATA.races;
+  const races = DATA.races.filter(r => r.venue === baseVenue() && (state.venue !== "both" || r.twin));
   const favs = races.map(r => favorite(r).price).filter(p => p != null);
   const over95 = favs.filter(p => p >= 0.95).length, comp = favs.filter(p => p < 0.8).length;
   const tiles = [
     ["Races tracked", String(races.length)],
     ["Favorites priced ≥95%", Math.round(100 * over95 / favs.length) + "%"],
     ["Competitive (fav <80%)", String(comp)],
-    ["Total volume", fmtVol(races.reduce((s, r) => s + r.volume, 0))],
+    ["Total volume", fmtVol(races.reduce((s, r) => s + r.volume, 0), baseVenue())],
   ];
   $("#kpis").replaceChildren(...tiles.map(([l, v]) =>
     el("div", { class: "tile" }, el("div", { class: "lbl" }, l), el("div", { class: "val" }, v))));
 }
 
 function filtered() {
-  let rs = DATA.races.filter(r => !state.type || r.type === state.type);
+  let rs = DATA.races.filter(r => r.venue === baseVenue() && (state.venue !== "both" || r.twin)
+    && (!state.type || r.type === state.type));
   if (state.q) rs = rs.filter(r => r.title.toLowerCase().includes(state.q) ||
     r.candidates.some(c => c.name.toLowerCase().includes(state.q)));
   const key = { volume: r => -r.volume, close: r => Math.abs((favorite(r).price ?? 1) - 0.5), title: r => null }[state.sort];
@@ -262,7 +293,9 @@ function sparkline(race) {
 
 function renderTable() {
   const rs = filtered();
+  renderKpis(); renderResults();
   $("#count").textContent = rs.length + " races";
+  $("#otherHdr").textContent = VENUE_NAME[otherVenue()];
   if (!rs.some(r => r.id === state.sel) && rs.length) state.sel = rs[0].id;
   const body = $("#rows");
   body.replaceChildren(...rs.map(r => {
@@ -273,7 +306,8 @@ function renderTable() {
       el("td", {}, el("span", { class: "fav" },
         el("span", { class: "key", style: "background:" + colors.get(fav.name) }), fav.name)),
       el("td", { class: "num" }, fmtPct(fav.price)),
-      el("td", { class: "num" }, fmtVol(r.volume)),
+      el("td", { class: "num" }, fmtPct(twinPrice(r, fav))),
+      el("td", { class: "num" }, fmtVol(r.volume, r.venue)),
       el("td", {}, sparkline(r)));
     return tr;
   }));
@@ -287,21 +321,36 @@ function renderDetail() {
   const card = $("#detail");
   if (!race) { card.textContent = "Select a race."; return; }
   const colors = colorsFor(race.candidates);
+  // overlay: the twin race's lines, dashed, in the color of the matching
+  // candidate on this venue (unmatched twin candidates are left off)
+  const twin = twinRace(race);
+  const overlay = twin ? twin.candidates.map(tc => {
+    const mine = race.candidates.find(c => c.twin === tc.id);
+    return mine ? { ...tc, color: colors.get(mine.name) } : null;
+  }).filter(Boolean) : [];
+  const here = VENUE_NAME[race.venue], there = twin && VENUE_NAME[twin.venue];
   card.replaceChildren(
     el("h2", {}, race.title),
     el("div", { class: "detailmeta" },
-      `${race.type} · ${race.n_candidates} markets · ${fmtVol(race.volume)} total volume`),
-    lineChart(race, colors),
+      `${race.type} · ${here} · ${race.n_candidates} markets · ${fmtVol(race.volume, race.venue)} total volume`),
+    twin && overlay.length ? el("div", { class: "twin-note" }, `Solid: ${here}. Dashed: ${there} (${twin.title}).`) :
+    twin ? el("div", { class: "twin-note" }, `Also on ${there} (${twin.title}), but its outcomes don't line up with these (party vs candidate markets, or parties unknown).`) :
+      el("div", { class: "twin-note" }, `Not listed on ${VENUE_NAME[race.venue === "kalshi" ? "polymarket" : "kalshi"]}.`),
+    lineChart(race, colors, overlay),
     el("div", { class: "legend" }, ...race.candidates.map(c =>
-      el("span", { class: "item" }, el("span", { class: "lk", style: "border-color:" + colors.get(c.name) }), c.name))),
-    el("table", { class: "minitable" }, el("tbody", {}, ...race.candidates.map(c =>
-      el("tr", {},
-        el("td", {}, el("span", { class: "fav" }, el("span", { class: "key", style: "background:" + colors.get(c.name) }), c.name)),
-        el("td", { class: "num" }, fmtPct(c.price)),
-        el("td", { class: "num" }, fmtVol(c.volume)))))));
+      el("span", { class: "item" }, el("span", { class: "lk", style: "border-color:" + colors.get(c.name) }), c.name)),
+      ...(overlay.length ? [el("span", { class: "item" }, el("span", { class: "lk dash", style: "border-color:var(--ink-2)" }), there)] : [])),
+    el("table", { class: "minitable" },
+      el("thead", {}, el("tr", {}, ...["", here, there || "", "Volume"].map(h => el("th", { class: h && h !== "" ? "num" : "" }, h)))),
+      el("tbody", {}, ...race.candidates.map(c =>
+        el("tr", {},
+          el("td", {}, el("span", { class: "fav" }, el("span", { class: "key", style: "background:" + colors.get(c.name) }), c.name)),
+          el("td", { class: "num" }, fmtPct(c.price)),
+          el("td", { class: "num" }, twin ? fmtPct(twinPrice(race, c)) : ""),
+          el("td", { class: "num" }, fmtVol(c.volume, race.venue)))))));
 }
 
-function lineChart(race, colors) {
+function lineChart(race, colors, overlay = []) {
   const W = 480, H = 240, M = { t: 10, r: 46, b: 22, l: 34 };
   const dates = DATA.dates, n = dates.length;
   const X = (i) => M.l + i / (n - 1) * (W - M.l - M.r);
@@ -326,6 +375,15 @@ function lineChart(race, colors) {
     const li = c.series.reduce((a, v, i) => v != null ? i : a, -1);
     if (li >= 0) svg.append(el("circle", { cx: X(li), cy: Y(c.series[li]), r: 4,
       "stroke-width": 2, style: "fill:" + colors.get(c.name) + ";stroke:var(--surface)" }));
+  }
+  for (const c of overlay) {
+    let d = "", pen = false;
+    c.series.forEach((v, i) => {
+      if (v == null) { pen = false; return; }
+      d += (pen ? "L" : "M") + X(i).toFixed(1) + " " + Y(v).toFixed(1); pen = true;
+    });
+    svg.append(el("path", { d, fill: "none", "stroke-width": 1.5, "stroke-dasharray": "4 3",
+      "stroke-linecap": "round", style: "stroke:" + c.color + ";opacity:.85" }));
   }
   // direct end labels where they don't collide; legend carries the rest
   const ends = race.candidates
@@ -353,6 +411,11 @@ function lineChart(race, colors) {
         el("div", { class: "trow" },
           el("span", { class: "lk legend-lk", style: "width:12px;border-top:2px solid " + colors.get(c.name) + ";display:inline-block" }),
           el("span", { class: "tname" }, c.name),
+          el("span", { class: "tval" }, fmtPct(c.series[i])))),
+      ...overlay.filter(c => c.series[i] != null).map(c =>
+        el("div", { class: "trow" },
+          el("span", { style: "width:12px;border-top:2px dashed " + c.color + ";display:inline-block" }),
+          el("span", { class: "tname" }, c.name + " · " + VENUE_NAME[twinRace(race).venue]),
           el("span", { class: "tval" }, fmtPct(c.series[i])))));
     tip.style.display = "block";
     const px = X(i) / W * r.width;
@@ -365,8 +428,9 @@ function lineChart(race, colors) {
 }
 
 function renderResults() {
-  const card = $("#results"), res = DATA.results;
-  card.replaceChildren(el("h2", {}, "Scorecard"));
+  const card = $("#results");
+  const res = DATA.results && (DATA.results.by_venue?.[baseVenue()] ?? DATA.results);
+  card.replaceChildren(el("h2", {}, `Scorecard · ${VENUE_NAME[baseVenue()]}`));
   if (!res) {
     card.append(el("p", { class: "pending" },
       "Appears after election day: hit rate and Brier score at every days-out horizon, plus calibration. The daily job keeps collecting until then."));

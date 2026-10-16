@@ -4,20 +4,21 @@
 Run daily (cron) from now through election day. Each run writes:
   data/raw/<date>.json          full event+market objects, unfiltered (keep everything)
   data/snapshots/<date>.csv     one row per candidate-market in a senate/house/governor race
+                                (shared with kalshi_snapshot.py; only venue=polymarket rows are replaced)
   data/universe.json            frozen list of markets to score; created on first run,
                                 extended (never shrunk) on later runs
 
 Usage: python snapshot.py [--include-closed]
 """
 import argparse
-import csv
 import json
 import re
 import sys
 from datetime import datetime, timezone
 
-from pm_common import (GAMMA, RAW, SNAPS, UNIVERSE, TAG_LABEL_PATTERNS, classify_event, get,
-                       is_placeholder_market, jlist, yes_price, yes_token_id)
+from pm_common import (GAMMA, RAW, TAG_LABEL_PATTERNS, classify_event, get, is_placeholder_market,
+                       jlist, load_universe, race_key, save_universe, write_snapshot, yes_price,
+                       yes_token_id)
 
 
 def find_tag_ids():
@@ -95,6 +96,9 @@ def build_rows(events, now_iso):
                 "neg_risk": ev.get("negRisk"),
                 "condition_id": m.get("conditionId"),
                 "yes_token_id": yes_token_id(m),
+                "venue": "polymarket",
+                "race_key": race_key(title),
+                "last_price": m.get("lastTradePrice"),
             })
     return rows
 
@@ -103,14 +107,11 @@ def write_outputs(rows, stamp, now_iso):
     """Write the day's CSV and extend the universe; returns the summary line."""
     if not rows:
         sys.exit("no race rows produced — check classify_event() against data/raw")
-    with open(SNAPS / f"{stamp}.csv", "w", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=rows[0].keys())
-        w.writeheader()
-        w.writerows(rows)
+    write_snapshot(stamp, rows, "polymarket")  # keeps the day's Kalshi rows
 
     # universe: the set of markets we commit to scoring. Append-only so a market
     # that disappears from the listing later is still tracked.
-    universe = json.loads(UNIVERSE.read_text()) if UNIVERSE.exists() else {"created": now_iso, "markets": {}}
+    universe = load_universe() or {"created": now_iso, "markets": {}}
     added = 0
     for r in rows:
         if r["market_id"] not in universe["markets"]:
@@ -118,14 +119,16 @@ def write_outputs(rows, stamp, now_iso):
                 "event_id": r["event_id"], "event_title": r["event_title"],
                 "race_type": r["race_type"], "candidate": r["candidate"],
                 "first_seen": stamp, "yes_token_id": r["yes_token_id"],
+                "venue": "polymarket", "race_key": r["race_key"],
             }
             added += 1
-    UNIVERSE.write_text(json.dumps(universe, indent=1))
+    save_universe(universe)
 
     counts = {}
     for r in rows:
         counts[r["race_type"]] = counts.get(r["race_type"], 0) + 1
-    return f"{stamp}: {len(rows)} candidate markets {counts}; universe +{added} -> {len(universe['markets'])}"
+    n_pm = sum(m["venue"] == "polymarket" for m in universe["markets"].values())
+    return f"{stamp}: {len(rows)} candidate markets {counts}; universe +{added} -> {n_pm} polymarket"
 
 
 def main():
