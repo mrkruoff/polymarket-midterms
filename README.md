@@ -49,8 +49,18 @@ but excluded from scoring (they aren't independent of the race outcomes).
 3. Thin markets (volume < ~$1k) are noise. Consider filtering on `volume` in
    `analyze.py` once you see the distribution.
 
+## Dashboard
+
+`docs/` is a static dashboard (GitHub Pages: Settings → Pages → deploy from
+branch, `main` + `/docs`). `python export_site.py` condenses
+universe/history/snapshots into `docs/data.json`; the daily launchd job runs it
+after each snapshot. The scorecard section lights up automatically once
+`data/results.json` exists. Preview locally with `python -m http.server -d docs`
+(fetch() needs HTTP, not file://).
+
+`data/raw/` is gitignored (~50MB/day); it stays on disk as re-filter insurance.
+
 ## Not yet built
 
 - A baseline ("incumbent party wins" or Cook ratings) to compare the hit rate
   against. Needs an external data file; the API doesn't know incumbency.
-- The static site. `data/results.json` is the intended feed.
