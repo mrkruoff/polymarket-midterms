@@ -1,6 +1,7 @@
 # Does Polymarket really call elections a month out?
 
-Personal research project. Polymarket's ad claims ~95% accuracy a month before
+Personal research project. Polymarket's own accuracy page
+(https://polymarket.com/accuracy) claims 90.4% accuracy a month before
 election day. This records their 2026 midterm race prices (Senate, House,
 governor) before Nov 3 and scores them against how the markets resolved.
 No trading, no auth, public endpoints only.
