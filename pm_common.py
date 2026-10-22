@@ -38,9 +38,19 @@ SESSION.headers["User-Agent"] = "polymarket-midterms-accuracy-check/0.1 (persona
 
 
 def get(url, **params):
-    """GET with light retry. Polymarket's public endpoints need no auth."""
+    """GET with light retry. Polymarket's public endpoints need no auth.
+
+    Retries 429/5xx and dropped connections or timeouts (e.g. the network
+    blipping as the machine wakes); other HTTP errors raise right away.
+    """
     for attempt in range(4):
-        r = SESSION.get(url, params=params, timeout=30)
+        try:
+            r = SESSION.get(url, params=params, timeout=30)
+        except (requests.ConnectionError, requests.Timeout):
+            if attempt == 3:
+                raise
+            time.sleep(2 ** attempt)
+            continue
         if r.status_code == 429 or r.status_code >= 500:
             time.sleep(2 ** attempt)
             continue
