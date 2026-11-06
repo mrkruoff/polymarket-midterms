@@ -107,6 +107,22 @@
   .resultscard { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 14px; margin-top: 16px; }
   .resultscard h2 { font-size: 15px; margin: 0 0 6px; }
   .pending { color: var(--muted); }
+  .resultscard .resolved { color: var(--ink-2); font-size: 13px; margin: 0 0 8px; }
+  .score-kpis { margin: 0 0 12px; }
+  .tile .sub { color: var(--muted); font-size: 11px; margin-top: 2px; }
+  .score-charts { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 14px; margin: 0 0 12px; }
+  .score-charts h3 { font-size: 13px; font-weight: 500; color: var(--ink-2); margin: 0 0 2px; }
+  .score-charts .note { color: var(--muted); font-size: 11px; margin: 0 0 4px; }
+  .score-tables { display: grid; grid-template-columns: minmax(0, 3fr) minmax(0, 2fr); gap: 14px 24px; align-items: start; }
+  @media (max-width: 760px) { .score-tables { grid-template-columns: 1fr; } }
+  .score-tables h3 { font-size: 13px; font-weight: 500; color: var(--ink-2); margin: 0; }
+  .minitable thead th { position: static; }
+  .glossary { margin-top: 14px; font-size: 12px; color: var(--ink-2); }
+  .glossary summary { cursor: pointer; color: var(--ink); font-weight: 500; font-size: 13px; }
+  .glossary dl { display: grid; grid-template-columns: max-content minmax(0, 1fr); gap: 5px 14px; margin: 8px 0 0; }
+  .glossary dt { font-weight: 500; color: var(--ink); }
+  .glossary dd { margin: 0; }
+  @media (max-width: 600px) { .glossary dl { grid-template-columns: 1fr; gap: 2px 0; } .glossary dd { margin-bottom: 6px; } }
   footer { color: var(--muted); font-size: 12px; margin-top: 18px; }
   .axislabel { fill: var(--muted); font-size: 10px; }
   .endlabel { fill: var(--ink-2); font-size: 11px; font-weight: 600; }
@@ -427,6 +443,21 @@ function lineChart(race, colors, overlay = []) {
   return box;
 }
 
+const KEY_HORIZONS = [30, 19, 7, 1, 0];
+const GLOSSARY = [
+  ["Days out", "Calendar days before election day, Nov 3. 30 days out is Oct 4, the horizon Polymarket's own accuracy page quotes."],
+  ["Favorite", "The highest-priced outcome in a race on that day."],
+  ["Hit rate", "Share of resolved races where the favorite won. Most midterm races are safe seats, so on its own this is a weak test."],
+  ["Competitive hit rate", "Hit rate counting only races whose favorite was priced under 80%. The closer test of the market."],
+  ["Favorites ≥95%", "Share of races whose favorite was priced at 95% or more: foregone conclusions that pad the headline hit rate."],
+  ["Brier", "Squared error summed over every outcome in a race, averaged over races. 0 is perfect; a coin flip on a two-way race scores 0.5."],
+  ["Brier 2-way", "Favorite vs the field: 2 × (favorite price − outcome)². Doesn't depend on how many long shots a venue lists, so it's the like-for-like number across venues."],
+  ["Calibration", "Of all markets priced in a band, how often that outcome won. Well-calibrated markets sit on the diagonal: priced 70%, won 70% of the time."],
+  ["Resolved", "Races where the venue has settled exactly one market YES. Unresolved races (uncalled seats, runoffs) are left out of every number here until they settle."],
+];
+const fmtPct1 = (p) => p == null ? "–" : (p * 100).toFixed(1) + "%";
+const fmtBucket = (b) => b.split("-").map(x => Math.round(parseFloat(x) * 100)).join("–") + "%";
+
 function renderResults() {
   const card = $("#results");
   const res = DATA.results && (DATA.results.by_venue?.[baseVenue()] ?? DATA.results);
@@ -436,22 +467,104 @@ function renderResults() {
       "Appears after election day: hit rate and Brier score at every days-out horizon, plus calibration. The daily job keeps collecting until then."));
     return;
   }
-  card.append(el("p", {}, `${res.n_resolved} of ${res.n_races_total} races resolved.`));
-  const t = el("table", { class: "minitable" },
-    el("thead", {}, el("tr", {}, ...["Days out", "Date", "Races", "Hit rate", "Brier"].map(h => el("th", {}, h)))),
-    el("tbody", {}, ...Object.entries(res.by_days_out).map(([d, r]) =>
-      el("tr", {}, el("td", { class: "num" }, d), el("td", {}, r.date), el("td", { class: "num" }, String(r.n_races)),
-        el("td", { class: "num" }, (r.hit_rate * 100).toFixed(1) + "%"), el("td", { class: "num" }, r.brier.toFixed(3))))));
-  card.append(t);
+  // rows oldest-first (most days out -> election day), the reading order of the charts
+  const rows = Object.entries(res.by_days_out).map(([d, r]) => ({ days: +d, ...r })).sort((a, b) => b.days - a.days);
+  const at = (d) => rows.find(r => r.days === d);
+  const h30 = at(30) ?? rows[0], h0 = at(0) ?? rows[rows.length - 1];
+  card.append(el("p", { class: "resolved" },
+    `${res.n_resolved} of ${res.n_races_total} races resolved` +
+    (res.n_unresolved ? `; ${res.n_unresolved} still open and not counted yet.` : ".")));
+
+  const tile = (lbl, val, sub) => el("div", { class: "tile" },
+    el("div", { class: "lbl" }, lbl), el("div", { class: "val" }, val), el("div", { class: "sub" }, sub));
+  card.append(el("div", { class: "kpis score-kpis" },
+    tile("Hit rate, 30 days out", fmtPct1(h30.hit_rate), `${h30.n_races} races · ${h30.date}`),
+    tile("Hit rate, election day", fmtPct1(h0.hit_rate), `${h0.n_races} races · ${h0.date}`),
+    tile("Competitive hit rate, 30 days out", fmtPct1(h30.hit_rate_competitive_under_80), "favorite priced under 80%"),
+    tile("Favorites ≥95%, 30 days out", fmtPct1(h30.share_favorites_over_95), "share of races already decided"),
+    tile("Brier 2-way, 30 days out", h30.brier_2way.toFixed(3), "0 = perfect, 0.5 = coin flip")));
+
+  card.append(el("div", { class: "score-charts" },
+    el("div", {}, el("h3", {}, "Hit rate by days out"), el("p", { class: "note" }, "Share of favorites that won, scored on the prices of each day"),
+      horizonChart(rows, "hit_rate", { fmt: fmtPct1, pct: true, label: "Hit rate by days out" })),
+    el("div", {}, el("h3", {}, "Brier 2-way by days out"), el("p", { class: "note" }, "Favorite vs the field; lower is better"),
+      horizonChart(rows, "brier_2way", { fmt: (v) => v.toFixed(3), pct: false, label: "Brier 2-way by days out" }))));
+
+  const th = (h, num = true) => el("th", { class: num ? "num" : "" }, h);
+  const keyRows = KEY_HORIZONS.map(at).filter(Boolean);
+  const tables = el("div", { class: "score-tables" });
+  tables.append(el("div", {}, el("h3", {}, "Key horizons"),
+    el("table", { class: "minitable" },
+      el("thead", {}, el("tr", {}, th("Days out"), th("Date", false), th("Races"), th("Hit rate"), th("Competitive"), th("Favs ≥95%"), th("Brier"), th("Brier 2-way"))),
+      el("tbody", {}, ...keyRows.map(r =>
+        el("tr", {}, el("td", { class: "num" }, String(r.days)), el("td", {}, r.date), el("td", { class: "num" }, String(r.n_races)),
+          el("td", { class: "num" }, fmtPct1(r.hit_rate)), el("td", { class: "num" }, fmtPct1(r.hit_rate_competitive_under_80)),
+          el("td", { class: "num" }, fmtPct1(r.share_favorites_over_95)),
+          el("td", { class: "num" }, r.brier.toFixed(3)), el("td", { class: "num" }, r.brier_2way.toFixed(3))))))));
   if (res.calibration && res.calibration.length) {
-    card.append(el("h2", { style: "margin-top:12px" }, `Calibration at ${res.calibration_days_out} days out`),
+    tables.append(el("div", {}, el("h3", {}, `Calibration at ${res.calibration_days_out} days out`),
       el("table", { class: "minitable" },
-        el("thead", {}, el("tr", {}, ...["Priced", "N", "Mean price", "Won"].map(h => el("th", {}, h)))),
+        el("thead", {}, el("tr", {}, th("Priced", false), th("Markets"), th("Mean price"), th("Won"))),
         el("tbody", {}, ...res.calibration.map(c =>
-          el("tr", {}, el("td", {}, c.bucket), el("td", { class: "num" }, String(c.n)),
+          el("tr", {}, el("td", {}, fmtBucket(c.bucket)), el("td", { class: "num" }, String(c.n)),
             el("td", { class: "num" }, (c.mean_price * 100).toFixed(0) + "%"),
-            el("td", { class: "num" }, (c.win_rate * 100).toFixed(1) + "%"))))));
+            el("td", { class: "num" }, fmtPct1(c.win_rate))))))));
   }
+  card.append(tables);
+
+  card.append(el("details", { class: "glossary" }, el("summary", {}, "Glossary"),
+    el("dl", {}, ...GLOSSARY.flatMap(([t, d]) => [el("dt", {}, t), el("dd", {}, d)]))));
+}
+
+// one metric against days out, oldest horizon on the left and election day on the
+// right; single series, so no legend. The 30-day horizon gets a reference line.
+function horizonChart(rows, key, { fmt, pct, label }) {
+  const W = 480, H = 170, M = { t: 12, r: 48, b: 22, l: 40 };
+  const vals = rows.map(r => r[key]);
+  const maxD = rows[0].days, minD = rows[rows.length - 1].days;
+  let lo, hi, step;
+  if (pct) { step = 0.05; lo = Math.floor((Math.min(...vals) - 0.01) / step) * step; hi = 1; }
+  else { step = 0.02; lo = 0; hi = Math.ceil((Math.max(...vals) + 0.005) / step) * step; }
+  const X = (d) => M.l + (maxD - d) / (maxD - minD) * (W - M.l - M.r);
+  const Y = (v) => M.t + (hi - v) / (hi - lo) * (H - M.t - M.b);
+  const svg = el("svg", { viewBox: `0 0 ${W} ${H}`, role: "img", "aria-label": label });
+  for (let v = lo; v <= hi + 1e-9; v += step)
+    svg.append(
+      el("line", { x1: M.l, x2: W - M.r, y1: Y(v), y2: Y(v), "stroke-width": 1, style: "stroke:var(--grid)" }),
+      el("text", { x: M.l - 5, y: Y(v) + 3, "text-anchor": "end", class: "axislabel" }, pct ? Math.round(v * 100) + "%" : v.toFixed(2)));
+  const ticks = [maxD, 30, 0].filter(d => d <= maxD && d >= minD);
+  for (const d of ticks)
+    svg.append(el("text", { x: X(d), y: H - 6, "text-anchor": d === maxD ? "start" : d === minD ? "end" : "middle", class: "axislabel" },
+      d === 0 ? "election day" : d + " days out"));
+  if (30 < maxD && 30 > minD)
+    svg.append(el("line", { x1: X(30), x2: X(30), y1: M.t, y2: H - M.b, "stroke-width": 1, "stroke-dasharray": "3 3", style: "stroke:var(--axis)" }));
+  const d = rows.map((r, i) => (i ? "L" : "M") + X(r.days).toFixed(1) + " " + Y(r[key]).toFixed(1)).join("");
+  svg.append(el("path", { d, fill: "none", "stroke-width": 2, "stroke-linejoin": "round", "stroke-linecap": "round", style: "stroke:var(--accent)" }));
+  const last = rows[rows.length - 1];
+  svg.append(el("circle", { cx: X(last.days), cy: Y(last[key]), r: 4, "stroke-width": 2, style: "fill:var(--accent);stroke:var(--surface)" }));
+  svg.append(el("text", { x: X(last.days) + 8, y: Y(last[key]) + 4, class: "endlabel" }, fmt(last[key])));
+  // crosshair + tooltip
+  const cross = el("line", { y1: M.t, y2: H - M.b, "stroke-width": 1, style: "stroke:var(--axis);display:none" });
+  svg.append(cross);
+  const tip = el("div", { class: "tooltip" });
+  const box = el("div", { class: "chartbox" }, svg, tip);
+  const show = (clientX) => {
+    const rect = svg.getBoundingClientRect();
+    const fx = (clientX - rect.left) / rect.width * W;
+    let best = rows[0];
+    for (const r of rows) if (Math.abs(X(r.days) - fx) < Math.abs(X(best.days) - fx)) best = r;
+    cross.setAttribute("x1", X(best.days)); cross.setAttribute("x2", X(best.days)); cross.style.display = "";
+    tip.replaceChildren(el("div", { class: "tdate" }, `${best.date} · ${best.days} days out`),
+      el("div", { class: "trow" }, el("span", { class: "tname" }, key === "hit_rate" ? "Hit rate" : "Brier 2-way"), el("span", { class: "tval" }, fmt(best[key]))),
+      el("div", { class: "trow" }, el("span", { class: "tname" }, "Races priced"), el("span", { class: "tval" }, String(best.n_races))));
+    tip.style.display = "block";
+    const px = X(best.days) / W * rect.width;
+    tip.style.left = Math.min(px + 12, rect.width - tip.offsetWidth - 4) + "px";
+    tip.style.top = "4px";
+  };
+  svg.addEventListener("pointermove", (e) => show(e.clientX));
+  svg.addEventListener("pointerleave", () => { cross.style.display = "none"; tip.style.display = "none"; });
+  return box;
 }
 </script>
 </body>
